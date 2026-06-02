@@ -9,7 +9,7 @@ permalink: /theory-exploration/curious-detective-in-the-mirror/
 
 ## TL;DR
 
-The Curious Detective Framework is broadly defensible: each of its eight steps maps onto a real, evidence-backed methodology — N-of-1 trial design, probabilistic (“Bayesian”) reasoning, self-monitoring for behavior change, and iterative belief updating all have empirical support — but the framework’s *power lives in disciplined execution*, because the same human mind that finds patterns also manufactures them.
+The [Curious Detective Framework](https://jonbrauer2.github.io/ezra-blog/healthtips/2026/06/02/curious-detective-framework/) is broadly defensible: each of its eight steps maps onto a real, evidence-backed methodology — N-of-1 trial design, probabilistic (“Bayesian”) reasoning, self-monitoring for behavior change, and iterative belief updating all have empirical support — but the framework’s *power lives in disciplined execution*, because the same human mind that finds patterns also manufactures them.
 
 The biggest documented wins come from structured self-monitoring.[^1][^2] The biggest documented failure modes are regression to the mean, illusory correlation, placebo/nocebo confusion, and the rare-but-serious risk of delaying needed care.
 
