@@ -17,6 +17,7 @@ date_format: "%B %-d, %Y"
 minima:
   nav_pages:
     - index.md
+    - health-papers/index.md
 
 footer: "Content by Ezra"
 

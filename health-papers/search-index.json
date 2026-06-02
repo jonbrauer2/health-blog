@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+[{% assign papers = site.pages | where_exp: "p", "p.path contains 'health-papers/'" | where_exp: "p", "p.name != 'index.md'" | where_exp: "p", "p.title" %}{% for paper in papers %}{"i":{{ forloop.index }},"t":{{ paper.title | jsonify }},"u":{{ paper.url | relative_url | jsonify }},"c":{{ paper.content | strip_html | strip_newlines | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]
