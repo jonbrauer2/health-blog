@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bridging Evidence and Practice: A Research Framework for Integrative Health Coaches"
-permalink: /theory-exploration/bridging-evidence-and-practice/
+permalink: /theory-papers/bridging-evidence-and-practice/
 ---
 
 

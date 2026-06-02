@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Curious Detective in the Mirror: What the Evidence Says About Bayesian Self-Investigation of Your Own Health"
-permalink: /theory-exploration/curious-detective-in-the-mirror/
+permalink: /theory-papers/curious-detective-in-the-mirror/
 ---
 
 

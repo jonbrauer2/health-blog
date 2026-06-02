@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "When to Weave Faith into Health Content — and When to Leave It Out"
-permalink: /theory-exploration/when-to-weave-faith-into-health-content/
+permalink: /theory-papers/when-to-weave-faith-into-health-content/
 ---
 
 

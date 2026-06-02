@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bridging Evidence and Practice: A Comprehensive Research Framework for Health Coaches in Integrative Medicine"
-permalink: /theory-exploration/comprehensive-research-framework-for-health-coaches/
+permalink: /theory-papers/comprehensive-research-framework-for-health-coaches/
 ---
 
 

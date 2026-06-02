@@ -18,7 +18,7 @@ minima:
   nav_pages:
     - index.md
     - health-papers/index.md
-    - theory-exploration/index.md
+    - theory-papers/index.md
 
 footer: "Content by Ezra"
 
