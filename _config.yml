@@ -1,0 +1,27 @@
+title: Health Blog
+description: Health papers — evidence-based guides on nutrition, lifestyle, and wellness.
+author: Ezra
+baseurl: "/health-blog"
+url: "https://jonbrauer2.github.io"
+
+markdown: kramdown
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+timezone: America/New_York
+date_format: "%B %-d, %Y"
+
+minima:
+  nav_pages:
+    - index.md
+
+footer: "Content by Ezra"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
