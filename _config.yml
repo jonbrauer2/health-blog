@@ -22,6 +22,11 @@ minima:
 
 footer: "Content by Ezra"
 
+# Analytics — minima injects the GA4 snippet when jekyll.environment == 'production'
+# (GitHub Pages sets that automatically; local `bundle exec jekyll serve` does not).
+# Shares the ezra-blog GA4 property — hits land in one account.
+google_analytics: G-3H2N7J6BGD
+
 exclude:
   - Gemfile
   - Gemfile.lock
