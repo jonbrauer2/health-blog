@@ -2,6 +2,7 @@
 layout: page
 title: Health Papers
 permalink: /health-papers/
+comments: false
 ---
 
 Comprehensive health guides and resources with scientific references.

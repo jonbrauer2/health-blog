@@ -3,6 +3,7 @@ layout: page
 title: Theory Development Papers
 linktitle: Theory Development
 permalink: /theory-papers/
+comments: false
 ---
 
 Papers developing a coherent framework for health research methodology, evidence integration, and how to think about claims under uncertainty.
