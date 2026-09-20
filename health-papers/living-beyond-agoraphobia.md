@@ -2,6 +2,7 @@
 layout: page
 title: "Living Beyond Agoraphobia"
 subtitle: "Understanding and Overcoming the Fear of Situations Where Escape Feels Impossible"
+permalink: /health-papers/living-beyond-agoraphobia/
 systems: [mental-health]
 kind: condition
 lens: []

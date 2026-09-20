@@ -7,6 +7,8 @@ comments: false
 
 Comprehensive health guides and resources with scientific references.
 
+Don't know what to search for? Browse the [A–Z topic index]({{ "/health-papers/topics/" | relative_url }}) of symptoms and common names.
+
 ---
 
 <input type="search" id="hp-search" placeholder="Search health papers…" autocomplete="off" aria-label="Search health papers" style="width:100%;padding:0.6em 0.8em;font-size:1em;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;margin-bottom:0.5em;">
@@ -212,6 +214,7 @@ More papers coming soon.
       lunrIndex = lunr(function () {
         this.ref('i');
         this.field('t', { boost: 10 });
+        this.field('a', { boost: 5, extractor: function (doc) { return (doc.a || []).join(' '); } });
         this.field('c');
         allDocs.forEach(function (d) { this.add(d); }, this);
       });

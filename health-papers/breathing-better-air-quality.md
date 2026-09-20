@@ -2,6 +2,7 @@
 layout: page
 title: "Breathing Better"
 subtitle: "Your Guide to Air Quality and Health"
+permalink: /health-papers/breathing-better-air-quality/
 systems: [respiratory, cardiovascular]
 kind: exposure
 lens: []

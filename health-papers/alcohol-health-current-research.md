@@ -2,6 +2,7 @@
 layout: page
 title: "Alcohol and Your Health"
 subtitle: "What Current Research Shows"
+permalink: /health-papers/alcohol-health-current-research/
 systems: [cardiovascular, liver-detox]
 kind: exposure
 lens: []
