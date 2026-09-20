@@ -30,6 +30,14 @@ Comprehensive health guides and resources with scientific references.
       {% endfor %}
     </span>
   </div>
+  <div style="margin-bottom:0.4em;">
+    <strong style="font-size:0.85em;color:#666;">Lens:</strong>
+    <span data-facet="lens">
+      <button type="button" class="hp-chip is-active" data-value="" aria-pressed="true">All</button>
+      {% for l in site.data.taxonomy.lens %}<button type="button" class="hp-chip" data-value="{{ l.slug }}" aria-pressed="false">{{ l.label }}</button>
+      {% endfor %}
+    </span>
+  </div>
   <button type="button" id="hp-view-toggle" style="font-size:0.85em;color:#666;background:none;border:none;text-decoration:underline;cursor:pointer;padding:0;">Show plain alphabetical list</button>
 </div>
 
@@ -73,6 +81,7 @@ More papers coming soon.
   var allDocs = null;
   var activeSystem = '';
   var activeKind = '';
+  var activeLens = '';
   var browseView = 'list'; // 'groups' once JS renders successfully
 
   function setStatus(msg) {
@@ -114,7 +123,7 @@ More papers coming soon.
       var badges = '';
       if (d.l && d.l.indexOf('adventist-heritage') !== -1) badges += ' <span title="Adventist heritage">📜</span>';
       if (d.l && d.l.indexOf('contested') !== -1) badges += ' <span title="Contested / disputed evidence">⚠️</span>';
-      return '<li data-kind="' + escapeHtml(d.k || '') + '"><a href="' + escapeHtml(d.u) + '">' + escapeHtml(d.t) + '</a>' +
+      return '<li data-kind="' + escapeHtml(d.k || '') + '" data-lens="' + escapeHtml((d.l || []).join(' ')) + '"><a href="' + escapeHtml(d.u) + '">' + escapeHtml(d.t) + '</a>' +
         (kindLabel ? ' <span class="hp-kind-tag">' + escapeHtml(kindLabel) + '</span>' : '') + badges + '</li>';
     }).join('');
     return '<section class="hp-group" data-system="' + escapeHtml(slug) + '"><h3>' + escapeHtml(label) + '</h3><ul>' + items + '</ul></section>';
@@ -145,7 +154,9 @@ More papers coming soon.
       if (!sysMatch) { section.hidden = true; return; }
       var visible = 0;
       section.querySelectorAll('li').forEach(function (li) {
-        var match = !activeKind || li.getAttribute('data-kind') === activeKind;
+        var kindMatch = !activeKind || li.getAttribute('data-kind') === activeKind;
+        var lensMatch = !activeLens || (li.getAttribute('data-lens') || '').split(' ').indexOf(activeLens) !== -1;
+        var match = kindMatch && lensMatch;
         li.hidden = !match;
         if (match) visible++;
       });
@@ -263,6 +274,7 @@ More papers coming soon.
     setActiveChip(facet, value);
     if (facet === 'systems') activeSystem = value;
     if (facet === 'kind') activeKind = value;
+    if (facet === 'lens') activeLens = value;
     applyFilters();
   });
 
