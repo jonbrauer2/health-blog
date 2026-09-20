@@ -1,0 +1,109 @@
+# Controlled vocabulary for health-papers front matter.
+#
+# Consumed by:
+#   - .ai/scripts/validate-taxonomy.py (typo/drift protection)
+#   - health-papers browse UI (Phase 3) and system landing pages (Phase 3)
+#
+# See .ai/plans/topic-taxonomy.md for the design behind these axes.
+# Do not add a value here without also adding it to the plan's tables.
+
+systems:
+  - slug: digestive
+    label: "Digestive & Gut"
+    description: "SIBO, IBS, leaky gut, acid reflux, parasites, probiotics"
+    order: 1
+  - slug: cardiovascular
+    label: "Heart & Circulation"
+    description: "High blood pressure, hypotension, DVT, cardiovascular health"
+    order: 2
+  - slug: respiratory
+    label: "Lungs & Breathing"
+    description: "Asthma, acute bronchitis, lung health, sleep apnea, sinus"
+    order: 3
+  - slug: neurological
+    label: "Brain & Nerves"
+    description: "Parkinson's, MS, neuropathy, migraines, essential tremor, carpal tunnel"
+    order: 4
+  - slug: mental-health
+    label: "Mental & Emotional"
+    description: "Depression, bipolar, schizophrenia, agoraphobia, autism"
+    order: 5
+  - slug: endocrine
+    label: "Hormones & Metabolism"
+    description: "Thyroid, diabetes, hypoglycemia, metabolic syndrome, HPA axis"
+    order: 6
+  - slug: immune
+    label: "Immune & Autoimmune"
+    description: "Lupus, Hashimoto's, allergies, MCAS, vaccines, HIV"
+    order: 7
+  - slug: musculoskeletal
+    label: "Bones, Joints & Muscles"
+    description: "Arthritis, osteoporosis, sciatica, frozen shoulder, disc herniation, muscular dystrophy"
+    order: 8
+  - slug: skin
+    label: "Skin, Hair & Nails"
+    description: "Acne, rosacea, vitiligo, melasma, hives, ringworm, hair loss, melanoma"
+    order: 9
+  - slug: urinary
+    label: "Kidneys & Urinary"
+    description: "UTIs, frequent urination, oxalates/stones"
+    order: 10
+  - slug: reproductive
+    label: "Reproductive & Sexual"
+    description: "Menstrual health, ovarian cysts, prostate, ED, low libido, prenatal"
+    order: 11
+  - slug: sensory
+    label: "Eyes & Ears"
+    description: "Myopia, hearing loss, tinnitus, ear aches"
+    order: 12
+  - slug: blood-lymph
+    label: "Blood & Lymphatic"
+    description: "Leukemia, lymphoma, sickle cell, lymphatic health, electrolytes"
+    order: 13
+  - slug: liver-detox
+    label: "Liver & Detoxification"
+    description: "Fatty liver, hepatitis, the liver, natural detox systems, binders"
+    order: 14
+  - slug: sleep
+    label: "Sleep"
+    description: "Insomnia, narcolepsy, sleep paralysis, sleep apnea"
+    order: 15
+  - slug: whole-body
+    label: "Whole-Body & Foundations"
+    description: "Fatigue, 10 foundations, weight loss, chronic Lyme/CIRS, MCS"
+    order: 16
+
+kind:
+  - slug: condition
+    label: "Conditions"
+    description: "A disease or diagnosis — the largest group"
+    order: 1
+  - slug: nutrition
+    label: "Food & Nutrition"
+    description: "Cheese, butter, soy, oils, carbs, legumes, fermented foods, caffeine, MSG, sweeteners"
+    order: 2
+  - slug: remedy
+    label: "Remedies & Therapies"
+    description: "Hydrotherapy, castor oil packs, herbal medicine, essential oils, cold water immersion, fasting"
+    order: 3
+  - slug: exposure
+    label: "Substances & Exposures"
+    description: "Microplastics, mercury, fluoride, mold, microwaves, alcohol, smoking"
+    order: 4
+  - slug: evaluation
+    label: "Claims Under Examination"
+    description: "Applied kinesiology, live blood analysis, blood type diet, food-sensitivity testing, pyroluria, coffee enemas, ozone therapy, chelation, earthing"
+    order: 5
+  - slug: foundations
+    label: "Foundations"
+    description: "10 foundations for vitality, the body's detox systems, whole-person frameworks"
+    order: 6
+
+# Optional, multi-valued. Not required on any paper.
+lens:
+  - slug: adventist-heritage
+    label: "Adventist Heritage"
+    description: "Papers engaging Ellen White or Adventist health history"
+  - slug: contested
+    label: "Contested"
+    description: "Papers where the honest answer is that the evidence is weak or disputed"

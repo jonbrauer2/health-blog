@@ -32,3 +32,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
+  - .ai/          # AI working material (plans, design notes) — never published
