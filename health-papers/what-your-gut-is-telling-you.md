@@ -2,9 +2,11 @@
 layout: page
 title: "What Your Gut Is Telling You: Understanding and Resolving Diarrhea and Constipation"
 permalink: /health-papers/what-your-gut-is-telling-you/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [constipation, diarrhea, Bristol stool scale, IBS, bowel movements, laxatives, fiber, bowel habits, Irritable Bowel Syndrome]
 ---
-
-
 There is a conversation almost no one wants to have out loud, yet every single human being has a stake in it. We will discuss the weather, our salaries, even our love lives before we will mention what happened in the bathroom this morning. And that silence has a cost: because we do not talk about it, most of us never learn what is normal, what is not, and what our bodies are quietly trying to tell us several times a week.
 
 Your bowel movements are one of the most honest daily reports your body produces. They reflect what you ate, how much you moved, how well you slept, how stressed you are, and how the trillions of microbes living in your gut are faring. Learning to read that report — without anxiety, without shame — is one of the most practical health skills an adult can develop. This guide will help you understand the full range of normal, make sense of the two most common complaints (constipation and diarrhea), sort credible approaches from popular ones, and recognize the handful of warning signs that mean it is time to call a professional.

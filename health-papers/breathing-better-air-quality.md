@@ -2,9 +2,11 @@
 layout: page
 title: "Breathing Better"
 subtitle: "Your Guide to Air Quality and Health"
+systems: [respiratory, cardiovascular]
+kind: exposure
+lens: []
+aliases: [air quality, air pollution, PM2.5, indoor air quality, HEPA filter, VOCs, radon, AQI, ventilation]
 ---
-
-
 Every breath matters. The average person takes 20,000 breaths daily, cycling over 11,000 liters of air through their lungs. The quality of that air profoundly affects your health, energy, cognitive function, and longevity. **Air pollution now ranks as the second-leading risk factor for death globally**, causing approximately 8 million premature deaths annually.[^1] Yet most Americans remain unaware that indoor air—where we spend 90% of our time—can be 2-5 times more polluted than outdoor air.[^2]
 
 This handout empowers you with evidence-based strategies to protect your respiratory health and create cleaner air in your home. While systemic air quality problems require policy solutions, individual actions can meaningfully reduce your exposure and health risks. You have more control than you might think.

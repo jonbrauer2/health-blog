@@ -2,9 +2,11 @@
 layout: page
 title: "Living Beyond Agoraphobia"
 subtitle: "Understanding and Overcoming the Fear of Situations Where Escape Feels Impossible"
+systems: [mental-health]
+kind: condition
+lens: []
+aliases: [agoraphobia, panic disorder, fear of open spaces, anxiety disorder, panic attacks, social anxiety, fear of leaving home]
 ---
-
-
 ## What you need to know first
 
 Agoraphobia is a treatable anxiety disorder affecting approximately 1 in 100 adults[^1][^2], characterized by intense fear of situations where escape might be difficult or help unavailable. The good news: **73% of people become panic-free with evidence-based treatment**[^3] within 3-4 months, compared to only 10% who recover without intervention. Modern science reveals agoraphobia involves specific brain circuits (particularly the amygdala and prefrontal cortex)[^4][^5] and responds exceptionally well to cognitive behavioral therapy combined with lifestyle interventions. While earlier perspectives emphasized dietary factors as primary causes, current research (2020-2025) demonstrates that agoraphobia stems from complex interactions between genetics (61% heritable)[^6][^7], brain chemistry, life experiences, and learned fear responses. This resource provides updated, scientifically-validated guidance that honors the holistic Adventist health ministry approach while ensuring medical accuracy for those seeking to understand or overcome this challenging condition.

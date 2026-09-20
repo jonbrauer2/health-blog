@@ -2,9 +2,11 @@
 layout: page
 title: "Bipolar Disorder: Root Causes, Body Systems, and Whole-Person Support"
 permalink: /health-papers/bipolar-disorder-whole-person-support/
+systems: [mental-health, digestive, endocrine]
+kind: condition
+lens: []
+aliases: [bipolar disorder, manic depression, mania, hypomania, mood swings, mood stabilizer, cyclothymia, rapid cycling]
 ---
-
-
 ---
 
 ## 1. More Than a Brain Chemistry Problem

@@ -2,9 +2,11 @@
 layout: page
 title: "High Blood Pressure"
 permalink: /health-papers/high-blood-pressure/
+systems: [cardiovascular]
+kind: condition
+lens: []
+aliases: [hypertension, high BP, silent killer, elevated blood pressure, stage 1 hypertension, DASH diet]
 ---
-
-
 ## TL;DR
 
 - High blood pressure (hypertension) affects roughly a third of adults worldwide — about 1.28 billion people — and nearly half don’t know they have it, which is why it’s called the “silent killer.” Yet it is one of the most controllable conditions there is.[^1][^2]

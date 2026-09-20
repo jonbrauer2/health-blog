@@ -3,8 +3,11 @@ layout: page
 title: "Evidence-Based Guide to Alzheimer's Disease Prevention and Cognitive Health"
 subtitle: "Lifestyle Medicine Strategies for Brain Health"
 permalink: /health-papers/alzheimers-prevention-guide/
+systems: [neurological, cardiovascular]
+kind: condition
+lens: []
+aliases: [Alzheimer's, dementia, cognitive decline, memory loss, MIND diet, amyloid plaques, cognitive impairment, brain health, Alzheimer's Disease]
 ---
-
 *Lifestyle Medicine Strategies for Brain Health*
 
 ## Executive Summary

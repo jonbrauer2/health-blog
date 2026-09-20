@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding MSG: What It Does in Your Body, Who Responds to It, and What the Science Actually Shows"
 permalink: /health-papers/understanding-msg/
+systems: [neurological, digestive]
+kind: nutrition
+lens: []
+aliases: [monosodium glutamate, umami, Chinese Restaurant Syndrome, glutamate, food additive, MSG sensitivity, excitotoxicity, flavor enhancer]
 ---
-
-
 ---
 
 ## Introduction — A Flavor with a Complicated Story

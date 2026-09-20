@@ -2,9 +2,11 @@
 layout: page
 title: "Female Sexual Dysfunction: A Guide for Women, Their Partners, and Those Who Support Them"
 permalink: /health-papers/female-sexual-dysfunction/
+systems: [reproductive, mental-health]
+kind: condition
+lens: []
+aliases: [FSD, female sexual dysfunction, low libido, HSDD, vaginismus, vulvodynia, Aphrodisiac Remedies]
 ---
-
-
 -----
 
 ## 1. Breaking the Silence

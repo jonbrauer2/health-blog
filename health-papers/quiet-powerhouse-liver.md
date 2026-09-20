@@ -2,9 +2,11 @@
 layout: page
 title: "The Quiet Powerhouse: What Your Liver Does Every Day — and How to Help It"
 permalink: /health-papers/quiet-powerhouse-liver/
+systems: [liver-detox]
+kind: condition
+lens: []
+aliases: [liver disease, fatty liver, NAFLD, MASLD, NASH, MASH, cirrhosis, hepatitis, Cirrhosis Liver]
 ---
-
-
 -----
 
 You probably don’t think about your liver very often. Unlike the heart, which announces itself with every beat, or the lungs, which you notice the moment the air turns cold, the liver goes about its work in near-total silence. Tucked behind your lower right ribs, it filters, processes, builds, and converts — hour after hour, without complaint.

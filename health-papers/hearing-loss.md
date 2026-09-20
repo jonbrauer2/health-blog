@@ -2,9 +2,11 @@
 layout: page
 title: "Hearing Loss: What You Need to Know — and What You Can Do About It"
 permalink: /health-papers/hearing-loss/
+systems: [sensory]
+kind: condition
+lens: []
+aliases: [deafness, hard of hearing, presbycusis, tinnitus, noise-induced hearing loss, hearing impairment, sudden sensorineural hearing loss, SSNHL, ear damage, Ringing of the Ears]
 ---
-
-
 -----
 
 ## 1. The Sound of Silence (or the Ringing You Can’t Escape)

@@ -2,9 +2,11 @@
 layout: page
 title: "Sweet Without Sugar: Understanding the Real Effects of Artificial Sweeteners"
 permalink: /health-papers/artificial-sweeteners/
+systems: [endocrine, digestive]
+kind: nutrition
+lens: []
+aliases: [artificial sweeteners, aspartame, sucralose, stevia, sugar substitutes, non-nutritive sweeteners, Splenda, erythritol, diet soda]
 ---
-
-
 *A health education handout for health coaches and health ministry leaders*
 
 ---

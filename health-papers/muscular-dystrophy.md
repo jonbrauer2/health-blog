@@ -2,9 +2,11 @@
 layout: page
 title: "When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy"
 permalink: /health-papers/muscular-dystrophy/
+systems: [musculoskeletal, neurological]
+kind: condition
+lens: []
+aliases: [muscular dystrophy, Duchenne muscular dystrophy, DMD, Becker muscular dystrophy, myotonic dystrophy, limb-girdle muscular dystrophy, FSHD, muscle weakness]
 ---
-
-
 *For individuals living with MD, families, caregivers, and the health coaches and community leaders who support them*
 
 ---

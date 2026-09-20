@@ -2,9 +2,11 @@
 layout: page
 title: "Acne: More Than Skin Deep — A Guide to the Evidence"
 permalink: /health-papers/acne-more-than-skin-deep/
+systems: [skin, endocrine, mental-health]
+kind: condition
+lens: []
+aliases: [acne vulgaris, pimples, breakouts, blackheads, whiteheads, cystic acne, hormonal acne, zits]
 ---
-
-
 ## TL;DR
 
 - Acne is the most common skin condition worldwide and is no longer a “teen-only” problem: it affects an estimated 9.38% of all people globally, up to 85–96% of adolescents at some point, and a rising share of adults — especially women, with 26.3% of women still affected in their 40s.[ ^1][^2][^3]

@@ -2,9 +2,11 @@
 layout: page
 title: "The Itch That Isn't Worms: Understanding and Overcoming Ringworm (Tinea Corporis)"
 permalink: /health-papers/ringworm-tinea-corporis/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [ringworm, tinea corporis, dermatophyte, athlete's foot, jock itch, tinea, fungal skin infection, Tinea Pedis]
 ---
-
-
 Ringworm is one of the most misunderstood skin conditions in the world — a fungal infection burdened with a name that has nothing to do with its biology. Despite the imagery the word conjures, there is no worm involved, anywhere, ever. What looks like a small worm curled beneath the skin is actually the leading edge of a fungal colony spreading outward through the outermost layer of skin. This single misunderstanding fuels stigma, delays treatment, and pushes people toward remedies that don't address the underlying organism. The good news is that ringworm is common, well-studied, and in most cases entirely treatable. With clear information, sensible habits, and the right blend of medical care and supportive lifestyle measures, almost anyone can resolve a ringworm infection and reduce the chance of it coming back.
 
 This handout is designed for health coaches, ministry leaders, family caregivers, and anyone who wants to understand what ringworm really is, what helps, what doesn't, and when to see a clinician. It blends current dermatologic science with thoughtful coverage of integrative approaches, environmental hygiene, and the immune factors that shape who gets ringworm and why.

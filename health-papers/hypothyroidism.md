@@ -2,9 +2,11 @@
 layout: page
 title: "Hypothyroidism: Understanding, Supporting, and Living Well with an Underactive Thyroid"
 permalink: /health-papers/hypothyroidism/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [underactive thyroid, Hashimoto's, low thyroid, TSH, levothyroxine, thyroid hormone deficiency, myxedema]
 ---
-
-
 ## TL;DR
 
 - Hypothyroidism — an underactive thyroid — affects roughly 5% of Americans for overt disease and up to 10–20% when mild forms are counted, yet of 2,483 people found to have thyroid dysfunction in a major national survey, 1,977 (79.6%) had no prior history of thyroid disease;  the standard treatment (levothyroxine) restores most people to full health, but a meaningful 10–15% keep struggling with symptoms even after their labs look “normal.”[^3][^25]

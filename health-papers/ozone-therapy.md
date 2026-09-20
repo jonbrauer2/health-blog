@@ -2,9 +2,11 @@
 layout: page
 title: "Ozone Therapy: A Balanced Look at Promise and Peril"
 permalink: /health-papers/ozone-therapy/
+systems: [whole-body]
+kind: evaluation
+lens: [contested]
+aliases: [ozone therapy, autohemotherapy, medical ozone, O3 therapy, rectal insufflation, EBOO, 10-pass ozone, ozone injection]
 ---
-
-
 -----
 
 ## TL;DR

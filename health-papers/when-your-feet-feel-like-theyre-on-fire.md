@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Feet Feel Like They’re on Fire: Understanding, Treating, and Living with Burning Feet"
 permalink: /health-papers/when-your-feet-feel-like-theyre-on-fire/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [burning feet syndrome, peripheral neuropathy, Grierson-Gopalan syndrome, small fiber neuropathy, diabetic neuropathy, B6 toxicity, nerve pain, tingling feet, Paresthesia]
 ---
-
-
 ## TL;DR
 
 - **Burning feet is a symptom, not a disease** — it signals that the small sensory nerves in your feet are misfiring, and the underlying cause can range from diabetes (the most common driver in wealthy countries) to a reversible vitamin problem. Finding the *cause* is everything, because many causes are treatable and some are fully reversible.[^1][^4]

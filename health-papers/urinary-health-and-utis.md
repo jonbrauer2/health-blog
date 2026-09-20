@@ -2,9 +2,11 @@
 layout: page
 title: "Your Urinary Health: A Complete Guide to Prevention, UTIs, and Long-Term Wellness"
 permalink: /health-papers/urinary-health-and-utis/
+systems: [urinary]
+kind: condition
+lens: []
+aliases: [UTI, urinary tract infection, bladder infection, cystitis, kidney infection, recurrent UTI, interstitial cystitis, D-mannose]
 ---
-
-
 ## 1. Introduction
 
 If you've ever felt that sudden, urgent need to run to the bathroom — only to be met with a stinging, burning sensation and very little to show for it — you are far from alone. Urinary tract infections (UTIs) are among the most common bacterial infections in the world, accounting for nearly 25% of all infections in women.[^1] As Medina and Castillo-Pino summarize, "Urinary tract infections (UTIs) are the most common outpatient infections, with a lifetime incidence of 50−60% in adult women."[^2] And "about 1 in 3 women have at least 1 UTI diagnosed by a clinician that requires antibiotic medication, and the lifetime risk of UTIs among women is >60%."[^3]

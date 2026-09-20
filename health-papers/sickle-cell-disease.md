@@ -2,9 +2,11 @@
 layout: page
 title: "Sickle Cell Disease"
 permalink: /health-papers/sickle-cell-disease/
+systems: [blood-lymph, musculoskeletal]
+kind: condition
+lens: []
+aliases: [sickle cell disease, SCD, sickle cell trait, hemoglobin S, HbSS, vaso-occlusive crisis, acute chest syndrome, hydroxyurea]
 ---
-
-
 *This document is for educational purposes only and is not intended as medical advice. Individuals with sickle cell disease should work closely with a qualified hematologist and healthcare team for diagnosis, treatment decisions, and monitoring. The information here is intended to support informed conversations with your care team, not to replace them.*
 
 ---

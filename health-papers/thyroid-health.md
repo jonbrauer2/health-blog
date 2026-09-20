@@ -2,9 +2,11 @@
 layout: page
 title: "Thyroid Health: A Practical Guide to the Gland That Runs Your Body"
 permalink: /health-papers/thyroid-health/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [hypothyroidism, hyperthyroidism, Hashimoto's thyroiditis, Graves' disease, TSH, thyroid nodules, underactive thyroid, overactive thyroid, goiter]
 ---
-
-
 ## TL;DR
 
 - About 20 million Americans have a thyroid disorder and up to 60% don’t know it — yet most thyroid problems are very treatable once found, so knowing the warning signs and getting the right blood tests is the single most powerful thing you can do.[^1]

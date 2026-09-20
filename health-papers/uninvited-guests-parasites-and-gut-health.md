@@ -2,10 +2,11 @@
 layout: page
 title: "Uninvited Guests: A Practical Guide to Parasites and Gut Health"
 permalink: /health-papers/uninvited-guests-parasites-and-gut-health/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [parasites, Giardia, worms, helminths, pinworm, parasite cleanse, intestinal parasites, Toxoplasma]
 ---
-
-
-
 ## Introduction — More Common Than You Think
 
 Most of us picture parasites as a problem of faraway places—something a traveler might pick up on a distant trip, not something that touches everyday life at home. The truth is more humbling. Worldwide, more than 1.5 billion people—about 24% of the world’s population—are infected with soil-transmitted worms alone, according to the World Health Organization (WHO).[^1] These are not rare, exotic events. They are among the most common infections on Earth.

@@ -2,9 +2,11 @@
 layout: page
 title: "What Are These Lumps, Anyway? A Plain-Language Guide to Lipomas"
 permalink: /health-papers/lipomas/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [lipoma, fatty lump, fatty tumor, subcutaneous lump, Dercum's disease, Madelung's disease, liposarcoma, benign tumor, adipose tumor]
 ---
-
-
 *Prepared for health coaches, wellness ministry leaders, and individuals and families seeking reliable health information.*
 
 ---

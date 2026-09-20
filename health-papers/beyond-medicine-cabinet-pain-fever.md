@@ -2,9 +2,11 @@
 layout: page
 title: "Beyond the Medicine Cabinet: Effective Natural Approaches to Pain and Fever"
 permalink: /health-papers/beyond-medicine-cabinet-pain-fever/
+systems: [musculoskeletal, neurological]
+kind: remedy
+lens: []
+aliases: [pain relief, fever, hydrotherapy, NSAIDs, acetaminophen, natural pain remedies, willow bark, capsaicin, PEACE and LOVE]
 ---
-
-
 *A health education handout for community and ministry health leaders to share with lay audiences*
 
 -----

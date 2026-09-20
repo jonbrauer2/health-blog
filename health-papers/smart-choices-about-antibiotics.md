@@ -2,9 +2,11 @@
 layout: page
 title: "Smart Choices About Antibiotics: A Balanced Guide"
 permalink: /health-papers/smart-choices-about-antibiotics/
+systems: [immune, digestive]
+kind: condition
+lens: []
+aliases: [antibiotics, antibiotic resistance, MRSA, C. diff, Clostridioides difficile, antibiotic overuse, bacterial infection]
 ---
-
-
 **Antibiotics save millions of lives each year, but resistance threatens their future.** Understanding when these powerful medicines are truly needed—and when natural approaches work better—helps you make wise choices for yourself and those you serve. This guide explores both the life-saving role of antibiotics and the growing evidence for prevention strategies, helping you navigate the middle path between overuse and underuse.
 
 Antibiotic resistance already causes 35,000 deaths annually in the United States alone, with projections showing 39 million cumulative deaths globally by 2050 if current trends continue[^1][^2]. Yet 28-30% of antibiotic prescriptions remain unnecessary[^3]. At the same time, delayed treatment for serious infections like bacterial meningitis or sepsis dramatically increases mortality risk. The solution isn't avoiding antibiotics—it's using them wisely, preventing infections when possible, and understanding when immediate medical care becomes critical.

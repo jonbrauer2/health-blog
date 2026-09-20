@@ -2,9 +2,11 @@
 layout: page
 title: "Frozen Shoulder: Understanding, Unthawing, and Moving Forward"
 permalink: /health-papers/frozen-shoulder/
+systems: [musculoskeletal, endocrine]
+kind: condition
+lens: []
+aliases: [adhesive capsulitis, frozen shoulder, shoulder stiffness]
 ---
-
-
 ## TL;DR
 
 - **Frozen shoulder (adhesive capsulitis) is a painful, slow-moving condition in which the shoulder’s joint capsule becomes inflamed and then scarred and tight, restricting movement.** It affects an estimated 2–5% of the general population and 10–30% of people with diabetes, moves through three stages (freezing, frozen, thawing), and typically lasts one to three years — sometimes longer.[^6][^15]

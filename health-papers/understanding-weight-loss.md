@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Weight Loss: What the Science Says and What Actually Works"
 permalink: /health-papers/understanding-weight-loss/
+systems: [whole-body]
+kind: condition
+lens: []
+aliases: [obesity, metabolism, weight regain, GLP-1, semaglutide, Ozempic, diet, weight management, set point]
 ---
-
-
 ## TL;DR
 
 - Body weight is regulated by a powerful interplay of hormones, the brain, the gut, sleep, stress, and environment — so weight loss is genuinely hard, and struggling with it is biology at work, not a failure of willpower.[^1][^2]

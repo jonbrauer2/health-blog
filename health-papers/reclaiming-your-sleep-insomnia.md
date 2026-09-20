@@ -2,9 +2,11 @@
 layout: page
 title: "Reclaiming Your Sleep: A Complete Guide to Understanding and Overcoming Insomnia"
 permalink: /health-papers/reclaiming-your-sleep-insomnia/
+systems: [sleep, mental-health]
+kind: condition
+lens: []
+aliases: [insomnia, CBT-I, sleep hygiene, chronic insomnia, trouble sleeping, sleep onset difficulty, acute insomnia, Insomnia Sleep]
 ---
-
-
 If you’ve ever lain awake at 3 a.m. doing the cruel math—“If I fall asleep right now, I’ll still get four hours”—you are in enormous company. In any given year, roughly one in four American adults develops acute insomnia.[^1] Most recover on their own, but a meaningful slice do not, and they slide into something more stubborn. This guide is for anyone who has stared at the ceiling and wondered whether real, restful sleep is still possible. The good news, supported by decades of research, is that it almost always is.
 
 ## TL;DR

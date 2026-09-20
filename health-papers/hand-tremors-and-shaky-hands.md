@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Hands Won't Stay Still: Understanding and Addressing Hand Tremors"
 permalink: /health-papers/hand-tremors-and-shaky-hands/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [essential tremor, shaky hands, hand tremor, ET, tremor, Hand Tremors]
 ---
-
-
 ---
 
 ## Introduction

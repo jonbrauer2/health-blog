@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Hair Loss in Men"
 permalink: /health-papers/hair-loss-in-men/
+systems: [skin, endocrine]
+kind: condition
+lens: []
+aliases: [androgenetic alopecia, male pattern baldness, AGA, hair loss, balding, Alopecia]
 ---
-
-
 ### A Health Education Guide for Coaches and Ministry Leaders
 
 -----

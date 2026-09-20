@@ -2,9 +2,11 @@
 layout: page
 title: "Ear Aches: Understanding, Prevention, and Care"
 permalink: /health-papers/ear-aches/
+systems: [sensory]
+kind: condition
+lens: []
+aliases: [ear infection, otitis media, otitis externa, swimmer's ear, earache]
 ---
-
-
 ## TL;DR
 
 - Most earaches—especially the middle-ear infections that dominate early childhood—get better on their own; for the average child, antibiotics shorten pain only modestly (one extra child helped in pain for every 20 treated at days 2–3), so good pain control plus a short “watch and wait” period is the right first move for many children over 2.

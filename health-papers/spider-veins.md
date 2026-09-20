@@ -2,9 +2,11 @@
 layout: page
 title: "Spider Veins Demystified: What Your Legs and Face Are Telling You"
 permalink: /health-papers/spider-veins/
+systems: [cardiovascular, skin]
+kind: condition
+lens: []
+aliases: [spider veins, telangiectasia, varicose veins, chronic venous insufficiency, CVI, reticular veins, venous reflux]
 ---
-
-
 Spider veins are extremely common, affecting roughly **84% of adults**, with about 88% of women and 79% of men in the landmark Edinburgh Vein Study showing at least some telangiectasia on the leg.[^1] For most people, these thin red, blue, or purple webs are a cosmetic concern — but for a meaningful minority, they are the visible tip of an underlying venous problem, and for a small but important group, they signal something more serious: liver disease, an autoimmune condition, or a hereditary bleeding disorder. This document walks you through what spider veins are, why they form, when to take them seriously, what lifestyle and nutritional approaches actually have evidence behind them, and what medical treatments work. Throughout, we will be honest about where the science is strong, where it is mechanistic but unproven, and where popular claims outrun the evidence. The goal is not to scare anyone but to equip wellness coaches, community health ministers, and the people they serve to make informed, calm decisions about their bodies.
 
 ---

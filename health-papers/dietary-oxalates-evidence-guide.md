@@ -2,9 +2,11 @@
 layout: page
 title: "Dietary Oxalates: A Comprehensive Guide to Navigating the Evidence"
 permalink: /health-papers/dietary-oxalates-evidence-guide/
+systems: [urinary, digestive]
+kind: nutrition
+lens: []
+aliases: [oxalates, dietary oxalate, kidney stones, calcium oxalate, oxalate-degrading bacteria, kidney stones urolithiasis]
 ---
-
-
 **A Research Handout for Health Coaches and Informed Individuals**
 
 -----

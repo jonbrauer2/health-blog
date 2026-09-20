@@ -2,9 +2,11 @@
 layout: page
 title: "Acid Reflux: What Your Body Is Trying to Tell You"
 permalink: /health-papers/acid-reflux-what-your-body-is-trying-to-tell-you/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [GERD, heartburn, acid reflux, reflux, LPR, silent reflux, Barrett's esophagus, indigestion, regurgitation, hiatal hernia, barretts esophagus, Laryngopharyngeal Reflux, Silent Reflux Disease]
 ---
-
-
 *A practical guide for anyone who has ever reached for an antacid and wondered what’s really going on.*
 
 ## Introduction: More Than Just a Burning Feeling

@@ -2,9 +2,11 @@
 layout: page
 title: "When Sleep Won't Let Go: Understanding Sleep Paralysis"
 permalink: /health-papers/sleep-paralysis/
+systems: [sleep, neurological]
+kind: condition
+lens: []
+aliases: [sleep paralysis, REM atonia, hypnagogic, hypnopompic, old hag syndrome, night paralysis, waking paralysis]
 ---
-
-
 *A health education handout for coaches, ministry leaders, and families*
 
 ---

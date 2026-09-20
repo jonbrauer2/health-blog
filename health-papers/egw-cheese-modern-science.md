@@ -2,9 +2,11 @@
 layout: page
 title: "Ellen G. White on Cheese vs. Modern Science: A Scholarly Reassessment"
 permalink: /health-papers/egw-cheese-modern-science/
+systems: [digestive, cardiovascular]
+kind: evaluation
+lens: [adventist-heritage, contested]
+aliases: [cheese, Ellen White cheese, aged cheese, tyramine, dairy and health]
 ---
-
-
 -----
 
 ## TL;DR

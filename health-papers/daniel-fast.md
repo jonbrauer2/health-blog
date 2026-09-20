@@ -2,8 +2,11 @@
 layout: page
 title: "The Daniel Fast: A Closer Look at the Science"
 permalink: /health-papers/daniel-fast/
+systems: [cardiovascular, endocrine]
+kind: remedy
+lens: []
+aliases: [Daniel Fast, biblical fast, partial fast, 21-day fast, plant-based fast]
 ---
-
 *A reference for AAHWC health coaches, church health ministry leaders, and individuals/families*
 
 -----

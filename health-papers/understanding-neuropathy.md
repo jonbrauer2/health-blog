@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Neuropathy: A Guide to Nerve Health, Common Causes, and What You Can Do About It"
 permalink: /health-papers/understanding-neuropathy/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [peripheral neuropathy, nerve damage, diabetic neuropathy, nerve pain, numbness and tingling, small fiber neuropathy, chemotherapy-induced peripheral neuropathy, CIPN]
 ---
-
-
 ---
 
 It starts as a tingle. Maybe a faint buzzing in the balls of the feet, like a low-voltage current that wasn't there before. You shake your foot, change positions, wait for it to pass. Then it comes back — and eventually, it doesn't leave. The soles feel thick, like walking on rolled-up socks. Later, heat stops registering, balance begins to shift, and sleep gets harder because the moment the sheets touch your feet, they ache.

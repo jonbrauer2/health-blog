@@ -2,9 +2,11 @@
 layout: page
 title: "Mast Cell Activation Syndrome: What You Need to Know"
 permalink: /health-papers/mast-cell-activation-syndrome/
+systems: [immune]
+kind: condition
+lens: [contested]
+aliases: [MCAS, mast cell activation syndrome, histamine intolerance, mast cell disorder, tryptase, degranulation, flushing and hives, mastocytosis]
 ---
-
-
 ## TL;DR
 
 - MCAS is a condition in which mast cells — immune “first responders” found throughout your body — fire off chemical alarms too easily and too often, producing reactions across many organ systems (skin, gut, heart, brain, lungs) that can seem to defy logic.

@@ -2,8 +2,11 @@
 layout: page
 title: "Antibiotics vs Natural Approaches: Navigating Infection Prevention and Treatment Options"
 permalink: /health-papers/antibiotics-vs-natural-approaches/
+systems: [immune, digestive]
+kind: remedy
+lens: []
+aliases: [antibiotics, antibiotic resistance, natural antimicrobials, herbal antibiotics, probiotics, gut microbiome, infection treatment, garlic, oregano oil, echinacea, echinacea coneflower, Oil Oregano, oil of oregano]
 ---
-
 ## Introduction: Beyond False Either-Or Choices
 
 When facing an infection, you might feel pulled between two seemingly opposite worlds: conventional antibiotics and natural approaches. But this isn't actually an either-or choice. The reality is far more nuanced and interesting.

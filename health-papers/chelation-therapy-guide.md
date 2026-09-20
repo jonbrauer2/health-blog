@@ -2,8 +2,11 @@
 layout: page
 title: "Chelation Therapy: Understanding Medical Applications, Emerging Research, and Controversial Uses"
 permalink: /health-papers/chelation-therapy-guide/
+systems: [cardiovascular, blood-lymph, liver-detox]
+kind: evaluation
+lens: [contested]
+aliases: [chelation therapy, EDTA chelation, DMSA, heavy metal detox, lead poisoning treatment, TACT trial]
 ---
-
 Chelation therapy effectively treats acute heavy metal poisoning and iron overload, but recent research reveals a more complex picture when examining controversial applications for cardiovascular disease and autism. **Three deaths occurred between 2003-2005 from chelation-related complications**, underscoring the importance of understanding both legitimate medical uses and areas where evidence remains insufficient or contradictory. This handout navigates the established science, emerging research, and ongoing debates to help you make informed decisions about chelation therapy.
 
 Heavy metals like lead, mercury, and arsenic are increasingly recognized as cardiovascular disease risk factors—the American Heart Association declared in 2023 that "the burden of proof has been met" linking lead and cadmium to heart disease.[^1] Yet the leap from recognizing environmental toxins as health threats to therapeutic chelation remains controversial. The $31 million TACT trial in 2013 suggested possible benefits for post-heart attack patients,[^2] but the 2024 TACT2 replication study found no benefit despite using an identical protocol.[^3] This apparent contradiction reflects chelation therapy's complex reality: proven for some conditions, unproven or ineffective for others, and still being investigated for emerging applications.

@@ -2,9 +2,11 @@
 layout: page
 title: "Castor Oil Packs: A Health Education Guide for Informed Choices"
 permalink: /health-papers/castor-oil-packs/
+systems: [liver-detox, digestive]
+kind: remedy
+lens: []
+aliases: [castor oil pack, Palma Christi, abdominal pack, liver pack, Edgar Cayce remedy]
 ---
-
-
 -----
 
 ## TL;DR

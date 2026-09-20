@@ -2,8 +2,11 @@
 layout: page
 title: "Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches"
 permalink: /health-papers/ovarian-cysts-evidence-based-approaches/
+systems: [reproductive, endocrine]
+kind: condition
+lens: []
+aliases: [ovarian cysts, PCOS, polycystic ovary syndrome, functional cyst, corpus luteum cyst, dermoid cyst, ovarian torsion, endometrioma, POS]
 ---
-
 Most ovarian cysts resolve naturally within 2-3 menstrual cycles, but understanding when to support the body's healing process versus seeking immediate medical care can make the difference between empowered self-care and dangerous delay. While **no herbal or lifestyle intervention has been proven to shrink existing cysts**[^1], specific evidence-based approaches can address underlying hormonal imbalances, particularly in polycystic ovary syndrome (PCOS), and support overall reproductive health. This matters because ovarian cysts affect millions of women, with approximately 7.8% of asymptomatic women aged 24-40 having detectable adnexal cysts[^2], yet confusion about treatment options often leads to either unnecessary anxiety or inadequate medical attention. The key is knowing functional cysts typically need watchful waiting, while complex cysts, those larger than 10 cm, or any causing severe symptoms require medical intervention—usually within hours for emergencies like ovarian torsion[^3]. Beyond crisis management, lifestyle approaches show moderate to strong evidence for preventing recurrence in PCOS-related cases, with 5-10% weight loss, Mediterranean dietary patterns, and 150 minutes weekly of combined aerobic and resistance exercise demonstrating significant improvements in hormonal balance and menstrual regularity[^4].
 
 ## Understanding What's Actually Happening in Your Ovaries

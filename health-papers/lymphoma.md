@@ -2,9 +2,11 @@
 layout: page
 title: "Lymphoma: What It Is, What the Research Shows, and How to Support Your Body Through It"
 permalink: /health-papers/lymphoma/
+systems: [blood-lymph]
+kind: condition
+lens: []
+aliases: [lymphoma, Hodgkin lymphoma, non-Hodgkin lymphoma, NHL, lymph node cancer, DLBCL, CAR-T therapy, B symptoms, Reed-Sternberg cell]
 ---
-
-
 *A plain-language guide for people with lymphoma, their families, and the wellness professionals who walk beside them. This handout is for education only. It is not medical advice, and it is not a substitute for the care of your oncology team.*
 
 -----

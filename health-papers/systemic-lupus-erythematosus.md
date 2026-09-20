@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living Well"
 permalink: /health-papers/systemic-lupus-erythematosus/
+systems: [immune, musculoskeletal, skin]
+kind: condition
+lens: []
+aliases: [SLE, lupus, autoimmune disease, butterfly rash, lupus nephritis, discoid lupus, hydroxychloroquine, lupus flare]
 ---
-
-
 ## TL;DR
 
 - Systemic lupus erythematosus (SLE) is a chronic autoimmune disease in which the immune system attacks the body’s own tissues; it affects an estimated 204,295 Americans, strikes women about nine times more often than men, and hits Black, Hispanic, Asian, and Native American women hardest — yet it is highly variable and, with modern treatment, most people can live full lives.

@@ -2,9 +2,11 @@
 layout: page
 title: "Electrolyte Balance and Imbalance: What Your Body Needs, What Disrupts It, and How to Restore It"
 permalink: /health-papers/electrolyte-balance/
+systems: [blood-lymph, cardiovascular, musculoskeletal]
+kind: condition
+lens: []
+aliases: [electrolyte imbalance, sodium potassium balance, hyponatremia, muscle cramps, dehydration, Low Sodium, hyponatremia low blood sodium level]
 ---
-
-
 -----
 
 ## You May Already Know Something Is Off

@@ -3,8 +3,11 @@ layout: page
 title: "Living Well with Parkinson's Disease: An Evidence-Based Guide"
 subtitle: "Understanding the disease and taking action can help you thrive"
 permalink: /health-papers/living-well-with-parkinsons/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [Parkinson's disease, PD, Parkinson's, tremor, bradykinesia, dopamine, levodopa, Lewy body, shaking palsy, parkinsons disease]
 ---
-
 *Understanding the disease and taking action can help you thrive*
 
 **Parkinson's Disease (PD) affects over 930,000 people in North America, with that number expected to double by 2050.**[^1] While there's no cure yet, emerging research shows that lifestyle interventions—including targeted nutrition, strategic exercise, stress management, and environmental modifications—can meaningfully improve symptoms and quality of life. This matters because you have more control than you might think: studies reveal that what you eat, how you move, and how you manage stress can influence disease progression and daily function. The journey with PD varies dramatically from person to person, with some experiencing very slow progression over decades. Armed with evidence-based strategies and working closely with your healthcare team, many people with Parkinson's maintain active, fulfilling lives for years after diagnosis.

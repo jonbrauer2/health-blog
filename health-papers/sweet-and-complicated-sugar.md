@@ -2,9 +2,11 @@
 layout: page
 title: "Sweet and Complicated: What Sugar Really Does to Your Body, Brain, and Cravings"
 permalink: /health-papers/sweet-and-complicated-sugar/
+systems: [endocrine, liver-detox, mental-health]
+kind: nutrition
+lens: []
+aliases: [sugar, added sugar, fructose, glycation, AGEs, bliss point, de novo lipogenesis, blood sugar roller coaster]
 ---
-
-
 ---
 
 ## Opening: The Craving That Isn't Your Fault

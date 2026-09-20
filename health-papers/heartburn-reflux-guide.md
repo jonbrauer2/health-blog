@@ -2,8 +2,11 @@
 layout: page
 title: "When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux"
 permalink: /health-papers/heartburn-reflux-guide/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [GERD, heartburn, acid reflux, reflux, acid indigestion, hiatal hernia, LES, waterbrash]
 ---
-
 > **Quick orientation:** Heartburn is one of the most common—and most misunderstood—health complaints in the world. About 30% of adults in Western countries experience symptoms of gastroesophageal reflux disease (GERD), and millions take daily acid-blocking medications to cope.[^1][^2] Yet most cases respond dramatically to a handful of practical, low-cost lifestyle changes. This guide walks through what reflux really is, how to tell it apart from something more serious, what current research says about food, sleep position, weight, and medications, and exactly what you can do tonight to feel better tomorrow.
 
 ---

@@ -2,9 +2,11 @@
 layout: page
 title: "Erectile Dysfunction: What Every Man (and the People Who Care About Him) Should Know"
 permalink: /health-papers/erectile-dysfunction/
+systems: [reproductive, cardiovascular]
+kind: condition
+lens: []
+aliases: [ED, erectile dysfunction, impotence, erection problems]
 ---
-
-
 *A health education resource for wellness professionals and general audiences*
 
 -----

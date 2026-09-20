@@ -2,9 +2,11 @@
 layout: page
 title: "Lyme Disease and Coinfections: What You Need to Know About Ticks, Treatment, and Getting Your Life Back"
 permalink: /health-papers/lyme-disease-and-coinfections/
+systems: [immune, neurological]
+kind: condition
+lens: []
+aliases: [Lyme disease, tick bite, Borrelia, Babesia, coinfection, chronic Lyme, bull's-eye rash, erythema migrans, PTLDS]
 ---
-
-
 ## TL;DR
 
 - **Lyme disease is the most commonly reported vector-borne illness in the U.S.**, and while most people treated early recover fully, roughly **10–20% of treated patients** carry on with fatigue, brain fog, and pain for months or years — a phenomenon that is real, but whose cause is genuinely unsettled among mainstream physicians, integrative practitioners, and researchers.[^1][^37]

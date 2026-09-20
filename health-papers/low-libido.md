@@ -2,9 +2,11 @@
 layout: page
 title: "Low Libido: Understanding and Restoring Sexual Desire Naturally"
 permalink: /health-papers/low-libido/
+systems: [reproductive]
+kind: condition
+lens: []
+aliases: [low libido, low sex drive, HSDD, hypoactive sexual desire disorder, sexual dysfunction, desire discrepancy, loss of libido, testosterone deficiency, Aphrodisiac Remedies]
 ---
-
-
 Low or absent sexual desire is one of the most common — and most quietly suffered — health concerns among adults, and for most people it is not a fixed trait or a moral failing but a *symptom* with identifiable, often reversible causes.[^1][^2]
 
 ## TL;DR

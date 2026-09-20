@@ -2,9 +2,11 @@
 layout: page
 title: "Hashimoto’s Thyroiditis: What You Need to Know"
 permalink: /health-papers/hashimotos-thyroiditis/
+systems: [endocrine, immune]
+kind: condition
+lens: []
+aliases: [Hashimoto's, autoimmune thyroiditis, hypothyroidism, chronic lymphocytic thyroiditis, underactive thyroid]
 ---
-
-
 -----
 
 ## TL;DR

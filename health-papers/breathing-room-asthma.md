@@ -2,9 +2,11 @@
 layout: page
 title: "Breathing Room: A Practical Guide to Understanding and Managing Asthma"
 permalink: /health-papers/breathing-room-asthma/
+systems: [respiratory, immune]
+kind: condition
+lens: []
+aliases: [asthma, wheezing, bronchospasm, allergic asthma, exercise-induced bronchoconstriction, inhaler technique, GINA guidelines, rescue inhaler, black seed]
 ---
-
-
 ## What Is Asthma?
 
 Asthma is a chronic disease in which the airways become inflamed, swollen, and overly sensitive. When a “trigger” arrives, the muscles around the airways tighten (bronchospasm), the lining swells, and extra mucus is produced—narrowing the passages and making it hard to push air out. This is why wheezing, coughing, chest tightness, and breathlessness tend to come and go in waves.[^1] The Global Initiative for Asthma (GINA) describes asthma not as one disease but as a family of conditions (“phenotypes”) with different underlying mechanisms.[^1]

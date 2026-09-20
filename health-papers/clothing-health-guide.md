@@ -2,8 +2,11 @@
 layout: page
 title: "The Hidden Health Connection: What Your Clothes Are Doing to Your Body and Mind"
 permalink: /health-papers/clothing-health-guide/
+systems: [whole-body]
+kind: foundations
+lens: []
+aliases: [tight clothing, bra fit, high heels, UV protective clothing, clothing and body image]
 ---
-
 **Your clothing choices affect far more than your appearance.** From nerve compression and circulation problems to body image development and mental wellbeing, what you wear each day creates measurable impacts on your physical and psychological health. This isn't about fashion judgment—it's about understanding how fabric, fit, and function intersect with your body's needs so you can make informed choices that support both your values and your health.
 
 Why does this matter? Research shows that **59% of university students experience appearance anxiety**, contributing to social anxiety and mental health challenges[^1]. Meanwhile, physical health concerns are equally significant: tight clothing sends approximately **32-43 people per 100,000 to medical care annually** for nerve compression syndromes, while restrictive garments demonstrably affect breathing, digestion, and circulation. Your wardrobe isn't neutral—it's actively shaping your wellbeing every day.

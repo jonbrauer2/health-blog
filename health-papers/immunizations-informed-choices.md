@@ -2,8 +2,11 @@
 layout: page
 title: "Immunizations: Making Informed Choices for Your Family"
 permalink: /health-papers/immunizations-informed-choices/
+systems: [immune]
+kind: evaluation
+lens: []
+aliases: [vaccines, vaccination, immunization, vaccine safety, vaccine hesitancy, MMR, HPV vaccine, herd immunity]
 ---
-
 ## Introduction
 
 Vaccination represents one of medicine's most significant achievements. Over the past century, vaccines have prevented countless cases of serious illness and death, fundamentally transforming public health.[^1] Yet as diseases have become rare in many communities, questions about vaccination itself have grown more common. Parents, individuals, and health advocates increasingly want to understand how vaccines work, what risks and benefits they carry, and how vaccination decisions fit into their unique family circumstances.

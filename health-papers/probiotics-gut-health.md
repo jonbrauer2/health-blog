@@ -2,8 +2,11 @@
 layout: page
 title: "Your Guide to Probiotics: Supporting Gut Health Through Science and Wisdom"
 permalink: /health-papers/probiotics-gut-health/
+systems: [digestive, immune, mental-health]
+kind: nutrition
+lens: [adventist-heritage]
+aliases: [probiotics, gut microbiome, Lactobacillus, Bifidobacterium, fermented foods, Saccharomyces boulardii, gut-brain axis, dysbiosis]
 ---
-
 **Probiotics—live microorganisms that benefit your health when consumed in adequate amounts—represent one of the most promising frontiers in preventive health care.** Current research demonstrates that specific probiotic strains can support digestive wellness, strengthen immune function, and even influence mental health through the remarkable gut-brain connection.[^1] Understanding probiotics offers practical, evidence-based tools to enhance the body's natural health foundation. This guide translates the latest science into actionable wisdom for individuals and families seeking to optimize their wellbeing through informed nutrition choices.
 
 ## Understanding Probiotics and How They Work

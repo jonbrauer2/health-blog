@@ -2,9 +2,11 @@
 layout: page
 title: "Sciatica: When Your Back Pain Travels"
 permalink: /health-papers/sciatica/
+systems: [musculoskeletal, neurological]
+kind: condition
+lens: []
+aliases: [sciatica, sciatic nerve pain, radiculopathy, piriformis syndrome, herniated disc, leg pain, cauda equina syndrome, Slipped Disc]
 ---
-
-
 It starts as a twinge in the lower back. Then one morning you swing your legs out of bed and an electric jolt fires down the back of your thigh, past the knee, into the calf. Sitting hurts. Sneezing hurts. The drive to work becomes a 30-minute clenched-jaw negotiation with your own body. Sleep gets shallow. You start avoiding the stairs, the garden, the grandkids. You wonder if something is seriously wrong — and whether it will ever feel normal again.
 
 If any of that sounds familiar, you are in very large company. **Sciatica is one of the most common pain conditions on the planet**, and although it can be frightening and disabling, the great majority of people recover. This handout walks coaches, ministry leaders, and people living with sciatica through what is actually happening in the body, how doctors evaluate it, what treatments help (and which ones the research suggests we should be cautious about), and how everyday choices around movement, food, sleep, and mindset can change the course of recovery.

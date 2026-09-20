@@ -2,9 +2,11 @@
 layout: page
 title: "Restless Leg Syndrome: A Compassionate, Current Guide"
 permalink: /health-papers/restless-leg-syndrome/
+systems: [neurological, sleep]
+kind: condition
+lens: []
+aliases: [RLS, restless legs syndrome, Willis-Ekbom disease, periodic limb movement disorder, PLMD, leg cramps at night, iron deficiency, Night Time Leg Cramps, Deficiency Iron, iron requirement]
 ---
-
-
 If you have ever lain in bed exhausted and felt your legs come alive — a crawling, fizzing, electric urge that demands you move — you already know the strange cruelty of Restless Leg Syndrome (RLS), also called Willis-Ekbom Disease. Sleep slips away. The hours stretch. Some people describe ants under the skin, soda bubbles in the bones, or a deep itch that scratching cannot reach. Walking helps. Sitting back down brings it roaring back. By morning you are wrung out, and well-meaning people tell you to relax, drink less coffee, or "walk it off."
 
 RLS is not a habit, a quirk, or a nervous tic. It is a real neurologic condition with measurable changes in brain iron, dopamine signaling, glutamate, and adenosine — and with nineteen identified genetic risk loci.[^1] It affects somewhere between 5% and 15% of adults in North America and Europe, women about twice as often as men, with prevalence climbing with age.[^2][^3] Yet in one large study, only about 6% of people who described classic RLS symptoms to their primary care doctor received the correct diagnosis.[^4] Patient surveys document waits of seven, ten, even fifteen years before someone names what is happening.[^5] This guide aims to shorten that distance — to honor what you (or someone you love) are experiencing, to lay out what science actually shows, and to point toward treatments that work without trading short-term relief for long-term harm.

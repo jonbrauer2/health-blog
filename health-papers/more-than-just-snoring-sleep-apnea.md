@@ -2,9 +2,11 @@
 layout: page
 title: "More Than Just Snoring: A Practical Guide to Sleep Apnea"
 permalink: /health-papers/more-than-just-snoring-sleep-apnea/
+systems: [respiratory, sleep, cardiovascular]
+kind: condition
+lens: []
+aliases: [sleep apnea, OSA, obstructive sleep apnea, snoring, CPAP, apnea-hypopnea index, central sleep apnea, AHI]
 ---
-
-
 ## The Sleep Thief Nobody Talks About
 
 Picture this. A man wakes up after a full eight hours in bed and feels like he was hit by a truck. His wife has quietly moved to the guest room — again — because the snoring sounds like a chainsaw fighting a motorcycle. By mid-afternoon he is fighting to keep his eyes open at his desk, and on the drive home he catches his head dropping at a red light. He tells himself he is just getting older. He is not. Something is stealing his sleep from the inside, night after night, and he has no idea it is happening.

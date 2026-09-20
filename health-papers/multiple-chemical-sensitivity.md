@@ -2,9 +2,11 @@
 layout: page
 title: "Living with Multiple Chemical Sensitivity: A Compassionate, Honest Guide"
 permalink: /health-papers/multiple-chemical-sensitivity/
+systems: [whole-body]
+kind: condition
+lens: [contested]
+aliases: [MCS, multiple chemical sensitivity, chemical intolerance, TILT, idiopathic environmental intolerance, chemical sensitivity, environmental illness]
 ---
-
-
 ## TL;DR
 
 - Multiple Chemical Sensitivity (MCS) is a real, often disabling condition in which everyday low-level chemical exposures — fragrances, cleaning products, exhaust — trigger symptoms across many body systems; the science of *why* is still unsettled, but the suffering is not in question.

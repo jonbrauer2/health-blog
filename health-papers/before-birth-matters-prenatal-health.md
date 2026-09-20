@@ -2,9 +2,11 @@
 layout: page
 title: "Before Birth Matters: A Practical Guide to Prenatal and Preconception Health"
 permalink: /health-papers/before-birth-matters-prenatal-health/
+systems: [reproductive]
+kind: foundations
+lens: []
+aliases: [pregnancy, prenatal, preconception, folic acid, FASD, teratogens, pregnancy nutrition, birth defects, Vitamin Folic Acid (B9)]
 ---
-
-
 -----
 
 ## Introduction

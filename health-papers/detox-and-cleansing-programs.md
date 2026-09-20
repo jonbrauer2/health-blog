@@ -2,9 +2,11 @@
 layout: page
 title: "Detoxification and Cleansing Programs: A Practical, Evidence-Based Guide"
 permalink: /health-papers/detox-and-cleansing-programs/
+systems: [liver-detox, digestive]
+kind: evaluation
+lens: [contested]
+aliases: [detox, cleanse, juice cleanse, detox diet, cleansing program]
 ---
-
-
 *A Health Education Handout for Clients*
 
 -----

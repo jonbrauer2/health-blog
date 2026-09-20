@@ -2,9 +2,11 @@
 layout: page
 title: "What Your Blood Type Can (and Can't) Tell You About Your Diet"
 permalink: /health-papers/blood-type-diet/
+systems: [whole-body]
+kind: evaluation
+lens: [contested]
+aliases: [blood type diet, ABO blood type, lectins, Eat Right 4 Your Type, D'Adamo, blood group diet, agglutination]
 ---
-
-
 If you've spent any time around wellness culture in the last few decades, you've probably heard some version of it: Type O's should eat like cave dwellers, heavy on meat and light on grains. Type A's do best as vegetarians. Type B's can handle dairy that would make everyone else miserable. Type AB's get to split the difference. The idea has a name — the blood type diet — and it has sold millions of books, launched a small industry of blood-type-specific supplements, and quietly shaped the eating habits of people who have never read a single page of the original research behind it.
 
 Here's the thing worth knowing up front: there isn't much original research behind it. But there's a genuinely fascinating body of real science about what your blood type does mean for your health — some of it settled decades ago, some of it discovered during the COVID-19 pandemic. This piece walks through both. We'll look at where the blood type diet came from, why it's appealing, what actually happens when scientists put it to the test, and then spend real time on the part that gets skipped in most takedowns of this diet: the legitimate, well-documented ways your ABO blood type does shape your health. That part is more interesting than the diet ever was.

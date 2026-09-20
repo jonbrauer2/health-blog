@@ -2,9 +2,11 @@
 layout: page
 title: "Rooted in Wisdom: An Evidence-Based Guide to Herbal Medicine"
 permalink: /health-papers/rooted-in-wisdom-herbal-medicine/
+systems: [whole-body]
+kind: remedy
+lens: [contested]
+aliases: [herbal medicine, phytotherapy, botanical medicine, herbs, tinctures, natural remedies, plant medicine]
 ---
-
-
 ## For Health Ministry Leaders, Wellness Coaches, and Natural Health Advocates
 
 -----

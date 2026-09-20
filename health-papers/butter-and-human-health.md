@@ -2,9 +2,11 @@
 layout: page
 title: "Butter and Human Health: Separating the Evidence from the Hype"
 permalink: /health-papers/butter-and-human-health/
+systems: [cardiovascular, blood-lymph]
+kind: evaluation
+lens: [contested]
+aliases: [butter, saturated fat, LDL cholesterol, butter is back, grass-fed butter, CLA, vitamin K2, seed oils, cardiovascular disease, CLA conjugated linoleic acid, Heart Disease]
 ---
-
-
 ### An Evidence Audit for Health Coaches and Wellness Educators
 
 -----

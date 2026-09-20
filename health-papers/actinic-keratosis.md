@@ -2,9 +2,11 @@
 layout: page
 title: "When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis"
 permalink: /health-papers/actinic-keratosis/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [AK, solar keratosis, sun spots (precancerous), rough skin patches, squamous cell carcinoma precursor, field cancerization, Actinic Keratosis, Age Spots, Liver Spots]
 ---
-
-
 ## A patch you can feel before you see
 
 Run your fingertips slowly across the back of a sun-weathered hand, the edge of an ear, or the bald crown of a scalp, and you may catch the faintest snag of rough skin — like sandpaper hiding under your touch. That tiny patch has a name. It is called an **actinic keratosis**, or AK, and it is one of the most common skin findings on the planet. A 2024 systematic review pooling data from 60 studies estimated the global point prevalence of AK at roughly **14% of adults**, with prevalence rising steeply with age and outdoor sun exposure.[^1] In the United States, AK is the most common dermatologic diagnosis in patients aged 45 and older, with an estimated 58 million Americans affected.[^2] In subtropical Queensland, Australia, the figure climbs higher still — up to 83% of men in their sixties.[^3]

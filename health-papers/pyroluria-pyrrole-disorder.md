@@ -2,9 +2,11 @@
 layout: page
 title: "Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its Nutritional Connections"
 permalink: /health-papers/pyroluria-pyrrole-disorder/
+systems: [mental-health, endocrine]
+kind: evaluation
+lens: [contested]
+aliases: [pyroluria, pyrrole disorder, kryptopyroluria, KPU, HPU, mauve factor, zinc deficiency, vitamin B6, Deficiency Zinc, zinc requirement, vitamin B6 pyridoxine]
 ---
-
-
 *A health education handout for coaches and lay health ministry leaders*
 
 ---

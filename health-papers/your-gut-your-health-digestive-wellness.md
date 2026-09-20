@@ -2,9 +2,11 @@
 layout: page
 title: "Your Gut, Your Health: A Practical Guide to Digestive Wellness"
 permalink: /health-papers/your-gut-your-health-digestive-wellness/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [gut health, microbiome, digestive wellness, probiotics, leaky gut, gut-brain axis, fiber, fermented foods]
 ---
-
-
 ## TL;DR
 
 - **Your digestive system is far more powerful than a passive food tube** — it houses its own 500-million-neuron “second brain,” makes 90–95% of your body’s serotonin, and is in constant two-way conversation with your mind, immune system, and mood. Supporting it is one of the highest-leverage things you can do for whole-body health.[^1][^3][^6]

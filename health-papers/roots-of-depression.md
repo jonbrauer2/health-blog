@@ -2,9 +2,11 @@
 layout: page
 title: "The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery"
 permalink: /health-papers/roots-of-depression/
+systems: [mental-health, endocrine]
+kind: condition
+lens: []
+aliases: [depression, major depressive disorder, MDD, low mood, clinical depression, SMILES trial, Mediterranean diet depression]
 ---
-
-
 Depression affects **350 million people worldwide**, yet 11.5% of cases could be prevented through simple lifestyle changes[^1]. If you're reading this as someone struggling with depression, supporting a loved one, or serving in health ministry, this guide offers hope grounded in rigorous science: depression is highly treatable, and you have more power than you might think to influence your mental health through diet, movement, sleep, and daily choices—often with effects comparable to medication.
 
 The most important finding from recent research is that **depression responds to a multi-layered approach**. While professional treatment remains essential for moderate-to-severe cases, lifestyle interventions show remarkable effectiveness. Exercise demonstrates effect sizes of 0.53-0.75—equivalent to antidepressants for mild-to-moderate depression[^2][^3]. Mediterranean diet interventions achieve 32% remission rates[^4]. Proper sleep and light exposure reduce symptoms by medium-to-large margins (effect size -0.63)[^5]. Understanding that depression often signals underlying medical issues—from thyroid disorders to vitamin deficiencies—transforms how we approach treatment, moving from symptom suppression to root cause resolution.

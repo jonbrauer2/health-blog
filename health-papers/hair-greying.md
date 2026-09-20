@@ -2,9 +2,11 @@
 layout: page
 title: "Hair Greying: Causes, Implications, and What You Can Do About It"
 permalink: /health-papers/hair-greying/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [grey hair, gray hair, hair greying, canities, premature greying]
 ---
-
-
 ## Introduction: The Silver in the Mirror
 
 You spot it one morning in the bathroom mirror — a single, stubborn strand catching the light, brighter and coarser than all the rest. Maybe you’re 45 and you shrug. Maybe you’re 24 and your stomach drops. Either way, you’ve just witnessed one of the most universal events in human biology, and also one of the most misunderstood.

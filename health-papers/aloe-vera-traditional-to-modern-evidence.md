@@ -2,8 +2,11 @@
 layout: page
 title: "Aloe Vera: From Traditional Use to Modern Evidence"
 permalink: /health-papers/aloe-vera-traditional-to-modern-evidence/
+systems: [skin, digestive]
+kind: remedy
+lens: []
+aliases: [aloe vera, aloe gel, aloe latex, burn remedy, natural skin treatment, acemannan, aloe juice, herbal remedy]
 ---
-
 **Aloe vera demonstrates strong clinical evidence for treating second-degree burns (healing 4-9 days faster than standard care) and moderate evidence for psoriasis, with well-established safety for topical use.**[^1][^2] However, oral consumption requires careful consideration: the clear inner gel is generally safe short-term when properly processed (under 10 ppm aloin), but the yellow latex layer contains powerful laxative compounds banned by the FDA in 2002 and classified as a possible carcinogen.[^3][^4] This ancient medicinal plant—used for over 6,000 years from Egyptian pharaohs to Greek physicians—contains over 75 bioactive compounds including acemannan (the primary healing polysaccharide), vitamins, minerals, and enzymes that explain its therapeutic effects through anti-inflammatory, antimicrobial, and collagen-stimulating mechanisms.[^5] While traditional uses are extensive, modern research reveals significant gaps between historical applications and clinical proof, particularly for conditions like sunburn where controlled trials show no benefit despite widespread belief, making honest assessment of evidence quality essential for responsible health ministry guidance.[^6]
 
 ## Understanding Aloe Vera: Botanical and Historical Foundation

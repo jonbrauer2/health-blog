@@ -2,9 +2,11 @@
 layout: page
 title: "The Sound of Health: Understanding Noise Pollution's Impact on Your Wellbeing"
 permalink: /health-papers/sound-of-health-noise-pollution/
+systems: [cardiovascular, sensory, sleep]
+kind: exposure
+lens: []
+aliases: [noise pollution, hearing loss, tinnitus, traffic noise, noise-induced hearing loss, decibels, occupational noise, Ringing of the Ears]
 ---
-
-
 ## Introduction: The Pollution You Can’t See
 
 Imagine two homes. One sits on a quiet lane lined with trees; the other faces a six-lane highway where traffic never stops. The families inside look similar on paper—same ages, similar incomes, comparable diets. Yet over the years, the family by the highway is more likely to develop high blood pressure, sleep poorly, and feel chronically on edge. The difference isn’t something they can see, taste, or smell. It’s **noise**.

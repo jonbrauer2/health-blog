@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Hives: A Practical Guide to Relief, Research, and Living Well"
 permalink: /health-papers/understanding-hives/
+systems: [skin, immune]
+kind: condition
+lens: []
+aliases: [urticaria, chronic urticaria, welts, angioedema, histamine intolerance, mast cell activation syndrome, MCAS, wheals, Quincke's Edema]
 ---
-
-
 *A health information resource for individuals, families, wellness coaches, and community health leaders*
 
 -----

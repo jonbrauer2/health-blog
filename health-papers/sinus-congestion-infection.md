@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Head Won't Clear: Understanding Sinus Congestion and Infection"
 permalink: /health-papers/sinus-congestion-infection/
+systems: [respiratory]
+kind: condition
+lens: []
+aliases: [sinusitis, sinus infection, sinus congestion, rhinosinusitis, nasal congestion, neti pot, chronic rhinosinusitis, Congestion]
 ---
-
-
 You wake up and something is wrong. Your face feels like it's packed with wet cement. There's a dull, throbbing pressure behind your cheekbones, your eyes ache when you bend over to tie your shoes, and your voice has taken on that unmistakable head-cold flatness. By mid-morning you're standing in the pharmacy aisle staring at thirty boxes of pills and sprays — pseudoephedrine, phenylephrine, "severe daytime," "nighttime maximum," neti pots, saline mist, zinc lozenges, elderberry gummies — wondering which one will actually help and which will make things worse.
 
 If that sounds familiar, you have plenty of company. Sinus problems affect roughly **one in eight U.S. adults** and account for more than 30 million diagnoses each year, making them one of the most common reasons people miss work, lose sleep, and feel miserable for weeks at a stretch.[^1] Chronic sinus inflammation rivals heart failure in its impact on quality of life and costs the U.S. economy an estimated **$23 billion annually** in direct medical care and lost productivity.[^10] Yet most of what people do at the first sign of congestion — grab antibiotics, blast a decongestant spray for a week, or guess at supplements — is either unhelpful or quietly making things worse.

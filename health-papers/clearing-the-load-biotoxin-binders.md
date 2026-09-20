@@ -2,9 +2,11 @@
 layout: page
 title: "Clearing the Load: A Practical Guide to Biotoxin Binders"
 permalink: /health-papers/clearing-the-load-biotoxin-binders/
+systems: [liver-detox, digestive]
+kind: remedy
+lens: [contested]
+aliases: [biotoxin binders, activated charcoal, bentonite clay, cholestyramine, mold binder, heavy metal binder]
 ---
-
-
 ## TL;DR
 
 - Binders are substances that grab onto toxins in your gut so they leave in stool instead of being reabsorbed; the evidence is strongest for narrow medical uses (activated charcoal for acute poisoning, cholestyramine for bile acid diarrhea) and weaker—though biologically plausible—for chronic “toxic load” and mold-related illness.

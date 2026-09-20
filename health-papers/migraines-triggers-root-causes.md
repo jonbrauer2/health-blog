@@ -2,9 +2,11 @@
 layout: page
 title: "Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide"
 permalink: /health-papers/migraines-triggers-root-causes/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [migraine, migraines, CGRP, aura, chronic migraine, cortical spreading depression, migraine triggers, trigeminal nerve, Headaches - Migraine]
 ---
-
-
 ## TL;DR
 
 - Migraine is a complex neurological disease — not “just a headache” — affecting roughly 1.16 billion people worldwide and about 39 million Americans, and ranks among the top causes of disability on Earth, hitting women two to three times as often as men.[^1][^2][^9]

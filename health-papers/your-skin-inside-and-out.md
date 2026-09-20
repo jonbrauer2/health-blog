@@ -2,9 +2,11 @@
 layout: page
 title: "Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin"
 permalink: /health-papers/your-skin-inside-and-out/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [skin health, acne, eczema, psoriasis, rosacea, skincare, skin aging, gut-skin axis, Dermatitis, Acne Skin]
 ---
-
-
 ## TL;DR
 
 - Your skin is a living, multitasking organ whose appearance and health reflect what is happening inside your body — in your gut, your bloodstream, your stress hormones, and your sleep — so the most powerful “skincare” often happens through diet, sleep, stress management, and sun habits rather than from a jar.

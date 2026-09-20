@@ -2,8 +2,11 @@
 layout: page
 title: "Applied Kinesiology: A Balanced Look at Muscle Testing"
 permalink: /health-papers/applied-kinesiology/
+systems: [whole-body]
+kind: evaluation
+lens: [adventist-heritage, contested]
+aliases: [applied kinesiology, muscle testing, AK, alternative diagnostics, energy medicine, chiropractic, pseudoscience]
 ---
-
 *Prepared for distribution through the Adventist Health and Wellness Coaching Association (AAHWC)*
 
 -----

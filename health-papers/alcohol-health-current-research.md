@@ -2,9 +2,11 @@
 layout: page
 title: "Alcohol and Your Health"
 subtitle: "What Current Research Shows"
+systems: [cardiovascular, liver-detox]
+kind: exposure
+lens: []
+aliases: [alcohol, drinking, alcohol use disorder, AUD, binge drinking, moderate drinking, alcoholism, FASD, cirrhosis, alcohol withdrawal, delirium tremens, Cirrhosis Liver, Alcohol Addiction]
 ---
-
-
 **Alcohol use is deeply woven into social traditions worldwide, yet its health effects remain widely misunderstood.** Recent scientific evidence challenges long-held beliefs about "safe" or "moderate" drinking, revealing that even low levels of consumption carry measurable health risks. The World Health Organization stated in 2023 that "no amount of alcohol is truly safe," marking a significant shift from previous guidance.[^1] This comprehensive guide synthesizes current peer-reviewed research to help health coaches, wellness educators, ministry leaders, and individuals make informed decisions about alcohol and health.
 
 Understanding how alcohol affects the body—from individual cells to entire organ systems—empowers people to make choices aligned with their health goals. This information is presented without judgment, acknowledging that alcohol decisions are personal and often complex. Whether you're supporting someone concerned about their drinking, educating communities, or evaluating your own relationship with alcohol, the following evidence-based information provides a foundation for informed decision-making.

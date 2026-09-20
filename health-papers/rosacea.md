@@ -2,9 +2,11 @@
 layout: page
 title: "Rosacea: More Than a Blush — Understanding, Managing, and Living Well With a Misunderstood Skin Condition"
 permalink: /health-papers/rosacea/
+systems: [skin, digestive]
+kind: condition
+lens: []
+aliases: [rosacea, facial redness, flushing, telangiectasia, rhinophyma, ocular rosacea, Demodex mites]
 ---
-
-
 ## 1. It's not just blushing
 
 If you live with rosacea, you already know the look people give you. The well-meaning question about whether you've been out in the sun. The assumption that you're embarrassed, drunk, overheated, or all three. The strangers who ask if you're okay because your face is "so red." Rosacea is not blushing, and it is not in your head. It is a chronic inflammatory disease of the skin that affects an estimated 16 million Americans and roughly 5% of adults globally, with millions more undiagnosed because the early signs look so much like a temporary flush.[^1][^2]

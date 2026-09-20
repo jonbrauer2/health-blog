@@ -2,9 +2,11 @@
 layout: page
 title: "Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery"
 permalink: /health-papers/breathing-better-lung-health/
+systems: [respiratory, cardiovascular]
+kind: foundations
+lens: []
+aliases: [lung health, COPD, pulmonary fibrosis, bronchiectasis, lung cancer screening, radon, spirometry, breathing exercises, pursed-lip breathing, COPD chronic obstructive pulmonary disease]
 ---
-
-
 ## TL;DR
 
 - Your lungs are dynamic, self-repairing living tissue — the single most powerful thing you can do for them is avoid inhaled smoke (tobacco, vaping, cannabis) and test your home for radon, while a Mediterranean-style diet, regular movement, and breathing retraining offer real, measurable support.[^1][^7][^28]

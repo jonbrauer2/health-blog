@@ -1,6 +1,7 @@
 # Plan: Categories, Body Systems, and a Topic Index for Health Papers
 
-Status: **Phase 1 in progress** (Phase 0 dedup deferred, decided separately)
+Status: **Phase 2 complete** — all 181 papers tagged with `systems`/`kind`/`lens`/`aliases`.
+Next up: Phase 3 (browse UI). Phase 0 dedup still deferred, decided separately.
 Written: 2026-09-20
 Scope: `health-papers/` (182 files today, expected to keep growing past 200)
 

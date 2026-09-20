@@ -2,9 +2,11 @@
 layout: page
 title: "The Complete Guide to Oxalates: What Science Says and What You Really Need to Know"
 permalink: /health-papers/complete-guide-to-oxalates/
+systems: [urinary, digestive]
+kind: nutrition
+lens: []
+aliases: [oxalates, oxalate, kidney stones, calcium oxalate, low-oxalate diet, kidney stones urolithiasis]
 ---
-
-
 **If you’ve been told to avoid spinach, almonds, and chocolate because of oxalates, you’re not alone—but the truth is far more nuanced than most people realize.** Oxalates have become a hot topic in health circles, with claims ranging from the well-established (kidney stones) to the controversial (autism, fibromyalgia). This guide cuts through the confusion by examining what the research actually shows, who genuinely benefits from limiting oxalates, and why most people don’t need to fear their favorite healthy foods. The bottom line: for specific populations, oxalate management matters enormously, but blanket recommendations to “avoid oxalates” often miss the mark—and can even cause harm.
 
 -----

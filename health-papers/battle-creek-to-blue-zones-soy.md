@@ -2,9 +2,11 @@
 layout: page
 title: "From Battle Creek to Blue Zones: Soy Products and the Adventist Health Tradition"
 permalink: /health-papers/battle-creek-to-blue-zones-soy/
+systems: [reproductive, endocrine]
+kind: nutrition
+lens: [adventist-heritage]
+aliases: [soy, tofu, soy milk, isoflavones, phytoestrogens, tempeh, edamame, Adventist Health Study, soy protein]
 ---
-
-
 ## An Evidence-Based Guide for Health Ministry
 
 **Soy foods have been central to Seventh-day Adventist health ministry for over a century, and modern research largely validates their safety and benefits.** The Adventist Health Studies—among the largest investigations of vegetarian populations worldwide—demonstrate that Adventists consuming soy at Asian-comparable levels experience significantly lower rates of prostate cancer, breast cancer, and osteoporosis. While questions remain about optimal forms and doses, the overall evidence supports moderate soy consumption as part of a health-promoting plant-based diet.

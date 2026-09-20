@@ -2,9 +2,11 @@
 layout: page
 title: "Living Well with Multiple Sclerosis: A Whole-Person Guide"
 permalink: /health-papers/living-well-with-multiple-sclerosis/
+systems: [neurological, immune]
+kind: condition
+lens: []
+aliases: [multiple sclerosis, MS, demyelination, relapsing-remitting MS, RRMS, autoimmune disease, myelin, central nervous system disease]
 ---
-
-
 *An educational handout for people with MS, their families, and the people who support them. This is not medical advice. Always work with your own neurologist and care team.*
 
 -----

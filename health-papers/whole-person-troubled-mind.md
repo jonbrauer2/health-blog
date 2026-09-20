@@ -2,9 +2,11 @@
 layout: page
 title: "The Whole Person and the Troubled Mind: A Practical Guide to Lifestyle, Biology, and Hope in Depression, Bipolar Disorder, and Schizophrenia"
 permalink: /health-papers/whole-person-troubled-mind/
+systems: [mental-health]
+kind: condition
+lens: [adventist-heritage]
+aliases: [depression, bipolar disorder, schizophrenia, mental illness, mood disorder, psychosis, antidepressants, St Johns Wort, St. John's Wort (Hypericum perforatum), Antidepressant Medication]
 ---
-
-
 ## Introduction
 
 Imagine being told that one of the most powerful “prescriptions” for your mental health isn’t a pill at all — it’s what’s on your plate, when you go to bed, how often you move your body, and who sits beside you at dinner. For most of the last century, depression, bipolar disorder, and schizophrenia were treated almost exclusively as problems to be medicated. Medication remains essential and, for many people, life-saving. But a growing body of high-quality science now shows that the brain is an organ deeply embedded in the body and its daily rhythms — and that lifestyle is not a soft add-on but a genuine lever on brain biology.

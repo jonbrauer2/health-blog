@@ -2,9 +2,11 @@
 layout: page
 title: "Your Spine, Your Discs, and the Surprising Story of How They Heal"
 permalink: /health-papers/slipped-disc-herniation/
+systems: [musculoskeletal, neurological]
+kind: condition
+lens: []
+aliases: [herniated disc, slipped disc, disc bulge, disc protrusion, sciatica, cauda equina syndrome, degenerative disc disease, Herniated Cervical Disc, Intervertebral Disc Hernia]
 ---
-
-
 Most people who hear the words "herniated disc" picture something permanent — a piece of their spine that has snapped, slipped, or broken for good. The reality is far more hopeful. **Across pooled studies, roughly two out of three lumbar disc herniations shrink or disappear on their own**, often without surgery and sometimes without any treatment at all.[^1] That single fact reshapes nearly every conversation about back and neck pain. It means time, movement, and good self-care are not just "doing nothing" — they are often the treatment.
 
 This handout is for health coaches, ministry leaders, and curious readers who want a clear, honest, well-sourced map of what science says about disc herniation. It is educational, not medical advice. It will not promise miracles, and it will not dismiss things that lack large randomized trials but show real promise. The goal is to help you understand your spine, recognize when a symptom is urgent, and know which everyday choices most likely move the needle toward recovery.

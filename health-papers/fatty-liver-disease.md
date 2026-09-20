@@ -2,9 +2,11 @@
 layout: page
 title: "Your Liver Has Something to Say: Understanding and Reversing Fatty Liver Disease"
 permalink: /health-papers/fatty-liver-disease/
+systems: [liver-detox, endocrine]
+kind: condition
+lens: []
+aliases: [fatty liver, NAFLD, MASLD, NASH, MASH, steatosis]
 ---
-
-
 *A complete guide saved as `fatty-liver-disease.md`*
 
 ## TL;DR

@@ -2,9 +2,11 @@
 layout: page
 title: "Epstein-Barr Virus: What You Need to Know About Primary Infection and Reactivation"
 permalink: /health-papers/epstein-barr-virus/
+systems: [immune]
+kind: condition
+lens: []
+aliases: [EBV, mononucleosis, mono, kissing disease, HHV-4, Epstein Barr]
 ---
-
-
 -----
 
 ## A Virus Almost Everyone Has — and Almost No One Talks About

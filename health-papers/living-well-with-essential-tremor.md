@@ -2,9 +2,11 @@
 layout: page
 title: "Living Well with Essential Tremor: A Practical Guide for Patients, Families, Coaches, and Community Leaders"
 permalink: /health-papers/living-well-with-essential-tremor/
+systems: [neurological]
+kind: condition
+lens: []
+aliases: [essential tremor, ET, hand tremor, shaking hands, action tremor, familial tremor, tremor disorder]
 ---
-
-
 ## TL;DR
 
 - Essential tremor (ET) is the most common movement disorder, affecting about 5.79% of people over 65 and more than 20% of the very old; it is an *action* tremor often confused with Parkinson’s disease, but the two are distinct conditions.

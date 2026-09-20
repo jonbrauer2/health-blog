@@ -2,9 +2,11 @@
 layout: page
 title: "The Air You Breathe: A Practical Guide to Air Quality and Your Health"
 permalink: /health-papers/the-air-you-breathe-air-quality/
+systems: [respiratory, cardiovascular]
+kind: exposure
+lens: []
+aliases: [air pollution, PM2.5, indoor air quality, AQI, air purifiers, HEPA filters, ventilation, air quality index]
 ---
-
-
 -----
 
 ## TL;DR

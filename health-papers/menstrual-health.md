@@ -2,9 +2,11 @@
 layout: page
 title: "Menstrual Health: Making Sense of Heavy Bleeding, Painful Periods, and Cycle Irregularities"
 permalink: /health-papers/menstrual-health/
+systems: [reproductive]
+kind: condition
+lens: []
+aliases: [menstrual health, heavy menstrual bleeding, irregular periods, PCOS, uterine fibroids, PMDD, cycle irregularities, abnormal bleeding, Fibroids, Dysmenorrhea, Menstruation Issues, Menstrual Bleeding, Polycystic Ovary Syndrome, POS]
 ---
-
-
 ## TL;DR
 
 - Heavy, painful, and irregular periods are extraordinarily common and frequently dismissed — yet they are real medical issues that affect quality of life, fertility, iron stores, and can signal underlying conditions like endometriosis (which takes an average of 6.6 years to diagnose) and PCOS (up to 70% undiagnosed).

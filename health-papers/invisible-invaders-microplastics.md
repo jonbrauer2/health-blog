@@ -2,9 +2,11 @@
 layout: page
 title: "Invisible Invaders: What We Know About Microplastics and Your Health"
 permalink: /health-papers/invisible-invaders-microplastics/
+systems: [whole-body]
+kind: exposure
+lens: []
+aliases: [microplastics, nanoplastics, plastic exposure, plastic particles, BPA, phthalates, plastic pollution]
 ---
-
-
 ## A note before we begin
 
 You’ve probably seen the headline: *you eat a credit card’s worth of plastic every week.* It’s alarming, it’s sticky, and it’s everywhere. It also may not be quite true. The honest story of microplastics and your health is more interesting than any single scary number — and far more useful. This handout walks through what the science actually shows, where it’s solid, where it’s still emerging, and what you can reasonably do about it without losing sleep or your savings. The goal isn’t fear. It’s clarity.

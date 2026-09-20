@@ -2,9 +2,11 @@
 layout: page
 title: "Canker Sores: What’s Really Going On in Your Mouth — and What You Can Do About It"
 permalink: /health-papers/canker-sores/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [canker sore, aphthous ulcer, mouth ulcer, recurrent aphthous stomatitis, RAS, mouth sore]
 ---
-
-
 ## TL;DR
 
 - Canker sores (recurrent aphthous stomatitis, or RAS) are the most common ulcer disease of the mouth, affecting about 20% of people; they are an immune-driven inflammation — NOT contagious, and completely different from cold sores.

@@ -2,9 +2,11 @@
 layout: page
 title: "Adaptogens: Stress Resilience and the Science of Botanical Support"
 permalink: /health-papers/adaptogens-stress-resilience/
+systems: [mental-health, endocrine]
+kind: remedy
+lens: [contested]
+aliases: [ashwagandha, rhodiola, ginseng, HPA axis, cortisol, adrenal fatigue, burnout, adaptogenic herbs, stress herbs]
 ---
-
-
 ## TL;DR
 
 - **Adaptogens are a functional category of plants and mushrooms** studied for their ability to help the body resist and recover from stress; among the dozen-plus herbs marketed this way, **ashwagandha and rhodiola have the strongest human-trial evidence**, while most others rest on traditional use plus smaller or preliminary studies.[^1][^2]

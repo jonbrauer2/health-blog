@@ -2,8 +2,11 @@
 layout: page
 title: "What's Really Rising in Your Bread? A Closer Look at Baking Soda and Baking Powder"
 permalink: /health-papers/baking-soda-baking-powder-handout/
+systems: [digestive, cardiovascular, musculoskeletal]
+kind: nutrition
+lens: [adventist-heritage]
+aliases: [baking soda, baking powder, sodium bicarbonate, sodium aluminum sulfate, leavening agents, saleratus, antacid]
 ---
-
 *A health and wellness handout for clients, families, and community members*
 
 ## Introduction: The Quiet Ingredients

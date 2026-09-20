@@ -2,9 +2,11 @@
 layout: page
 title: "Calm in the Storm: A Whole-Person Guide to Nervous System Health and Stress Management"
 permalink: /health-papers/calm-in-the-storm-stress-management/
+systems: [mental-health, sleep]
+kind: foundations
+lens: [adventist-heritage]
+aliases: [stress management, nervous system, HPA axis, cortisol, allostatic load, stress resilience, sleep hygiene, gut-brain axis, mindfulness]
 ---
-
-
 -----
 
 ## Introduction

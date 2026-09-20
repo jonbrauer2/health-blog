@@ -2,9 +2,11 @@
 layout: page
 title: "Weight Loss — Understanding the Science, the Struggles, and What Actually Works"
 permalink: /health-papers/weight-loss/
+systems: [whole-body]
+kind: condition
+lens: []
+aliases: [obesity, biopsychosocial model, leptin, ghrelin, weight cycling, weight stigma, emotional eating, GLP-1 medications]
 ---
-
-
 ## Section 1: Why Weight Is So Much More Than Willpower
 
 If you’ve ever lost weight and then watched it creep back—despite doing “everything right”—you are not weak, and you are not alone. You are experiencing biology. For decades, the dominant story about body weight was a moral one: thin people had discipline, heavier people did not, and the solution was simply to “eat less and move more.” That story is tidy. It is also wrong, or at least so incomplete that it has done real harm.

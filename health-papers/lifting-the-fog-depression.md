@@ -2,9 +2,11 @@
 layout: page
 title: "Lifting the Fog: A Whole-Person Guide to Understanding and Healing Depression"
 permalink: /health-papers/lifting-the-fog-depression/
+systems: [mental-health]
+kind: condition
+lens: [adventist-heritage]
+aliases: [depression, major depressive disorder, low mood, MDD, antidepressants, SSRI, clinical depression, dysthymia, Antidepressant Medication]
 ---
-
-
 Depression is real, common, and treatable — and for a great many people, the most powerful tools are not found in a pill bottle but in the daily rhythms of how we eat, move, sleep, connect, and find meaning. This guide takes a “root-cause first” approach: it does not dismiss medication, which can be lifesaving for severe illness, but it asks a question too often skipped: *Why* is this person depressed, and what underlying biology, biochemistry, and lifestyle factors might be driving it?
 
 > **Key Fact #1:** Antidepressants are genuinely effective for some people, but their average advantage over placebo is modest. Across 522 trials and nearly 117,000 patients, all 21 studied antidepressants beat placebo, but the pooled standardized effect was only about 0.30.[^1] An earlier FDA-data analysis reported an average difference of under two points on the Hamilton scale.[^2]

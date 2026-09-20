@@ -2,9 +2,11 @@
 layout: page
 title: "The Great Oil Debate: What Science Really Shows"
 permalink: /health-papers/the-great-oil-debate/
+systems: [cardiovascular]
+kind: nutrition
+lens: []
+aliases: [cooking oils, olive oil, extra virgin olive oil, oil-free diet, Mediterranean diet, seed oils, canola oil, endothelial function]
 ---
-
-
 The question of whether to cook with olive oil and other plant oils or eliminate them entirely has sparked passionate debate in nutrition circles. On one side, researchers point to the Mediterranean diet's impressive cardiovascular benefits, where olive oil flows freely. On the other, plant-based pioneers argue that even healthy oils damage blood vessels and contribute to heart disease. Both camps cite scientific studies, both have helped people improve their health, and both make compelling arguments. This guide examines what peer-reviewed research actually shows[^1], helping you understand the evidence for both approaches so you can make the best decision for your health.
 
 The stakes are high. Heart disease remains the leading cause of death globally, and what we eat profoundly affects our cardiovascular health. Some physicians have documented remarkable heart disease reversals using ultra-low-fat, oil-free plant-based diets. Meanwhile, the largest dietary intervention trial for heart disease prevention found that Mediterranean diets rich in olive oil reduced cardiovascular events by 30%. How can both be true? The answer lies in understanding the nuances of the research, the contexts in which different approaches work, and the individual factors that influence how our bodies respond to dietary fats.

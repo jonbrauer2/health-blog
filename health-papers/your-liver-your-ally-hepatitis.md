@@ -2,9 +2,11 @@
 layout: page
 title: "Your Liver, Your Ally: A Practical Guide to Living Well With Hepatitis"
 permalink: /health-papers/your-liver-your-ally-hepatitis/
+systems: [liver-detox]
+kind: condition
+lens: []
+aliases: [hepatitis, liver disease, hepatitis B, hepatitis C, jaundice, liver inflammation, milk thistle, antivirals]
 ---
-
-
 -----
 
 ## TL;DR

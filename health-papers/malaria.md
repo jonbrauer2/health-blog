@@ -2,9 +2,11 @@
 layout: page
 title: "Malaria: What You Need to Know"
 permalink: /health-papers/malaria/
+systems: [immune]
+kind: condition
+lens: []
+aliases: [malaria, Plasmodium, mosquito-borne disease, tropical fever, falciparum, blood parasite, malaria prevention, antimalarial]
 ---
-
-
 *A practical guide for individuals, families, health coaches, and community health leaders*
 
 -----

@@ -2,9 +2,11 @@
 layout: page
 title: "HIV — Living Well, Understanding Treatment, and the Role of Lifestyle"
 permalink: /health-papers/hiv-living-well/
+systems: [immune]
+kind: condition
+lens: []
+aliases: [HIV, AIDS, antiretroviral therapy, ART, U=U, undetectable, PrEP, PEP, HIV positive]
 ---
-
-
 *A health education handout for wellness coaches and the people they serve*
 
 When Maria was diagnosed with HIV at 34, the first thing she pictured was a hospital bed and a short, frightening future — the images she had absorbed from television decades earlier. Her clinician gently corrected that picture. Today, Maria takes one pill a day, her virus is undetectable, she cannot pass HIV to her partner, and her doctors expect her to live into her eighties. Her story is now the rule, not the exception. HIV in the 2020s is, for most people who can reach and stay in care, a manageable long-term health condition — closer to well-controlled diabetes or high blood pressure than to the crisis of the 1980s. This handout is built around that reality. It is not about merely surviving HIV. It is about living well with it: understanding the medicine that makes long life possible, and understanding how nutrition, movement, rest, connection, and meaning can help a person thrive alongside that medicine — never instead of it.

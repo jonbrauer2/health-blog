@@ -2,9 +2,11 @@
 layout: page
 title: "Fatigue: Understanding, Investigating, and Restoring Energy"
 permalink: /health-papers/fatigue-restoring-energy/
+systems: [whole-body]
+kind: condition
+lens: []
+aliases: [fatigue, chronic fatigue, tiredness, exhaustion, low energy, ME/CFS]
 ---
-
-
 The alarm goes off, and you already feel behind. You drag yourself upright, pour the coffee, and wait for it to do its job. It doesn't, not really. By mid-morning you are running on fumes. By afternoon, the simplest decisions feel like calculus. You smile through a meeting. You answer the text. You move the laundry. But underneath all of it is a quiet, dragging weight — the sense that you are living life one full step behind yourself. Maybe you've told a friend, "I'm just so tired." Maybe they nodded and said, "Same." And nothing changed.
 
 Fatigue is one of the most common reasons adults visit a doctor — accounting for roughly 10 to 20 percent of all primary care consultations.[^1] And yet, despite how universal it feels, fatigue is one of the most poorly understood symptoms in modern medicine. It can mean a missed night of sleep, an undiagnosed thyroid problem, a slowly draining iron level, depression, a viral aftermath, or a metabolic shift that's been creeping up for years. Same word. Wildly different stories. The goal of this handout is to help you read your own story more clearly — to know what to investigate, what to try, and when to ask for help.

@@ -2,9 +2,11 @@
 layout: page
 title: "Leaky Gut and Intestinal Permeability: A Calibrated, Honest Guide"
 permalink: /health-papers/leaky-gut-calibrated-guide/
+systems: [digestive]
+kind: evaluation
+lens: [contested]
+aliases: [leaky gut, intestinal permeability, zonulin, leaky gut syndrome, gut barrier, tight junctions]
 ---
-
-
 ## TL;DR
 
 - “Leaky gut” describes a real, measurable phenomenon — increased intestinal permeability — that is well-documented in conditions like celiac disease, inflammatory bowel disease, and type 1 diabetes; but “leaky gut syndrome” as a stand-alone cause of most chronic illness is overclaimed and is not a recognized medical diagnosis.[^31]

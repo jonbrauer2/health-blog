@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Body Runs Too Hot: Understanding and Living Well with Hyperthyroidism"
 permalink: /health-papers/when-your-body-runs-too-hot-hyperthyroidism/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [hyperthyroidism, Graves disease, overactive thyroid, thyroid storm, racing heart, TSH, antithyroid medication, radioactive iodine]
 ---
-
-
 ## TL;DR
 
 - Hyperthyroidism—an overactive thyroid—affects about 1.2% of Americans (roughly 0.5% overt and 0.7% subclinical), and its most common cause, Graves’ disease, is an autoimmune condition that drives the gland to flood the body with hormone; left untreated it can damage the heart and bones, but it is highly treatable.[^1][^2]

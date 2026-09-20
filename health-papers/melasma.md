@@ -2,9 +2,11 @@
 layout: page
 title: "The Mask You Didn't Ask For: Understanding and Managing Melasma"
 permalink: /health-papers/melasma/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [melasma, hyperpigmentation, mask of pregnancy, dark patches, chloasma, skin discoloration, hydroquinone, melanin overproduction]
 ---
-
-
 ---
 
 You noticed it in the mirror — a shadow across your cheeks, a patch on your forehead, a brownish smear above your lip that wasn't there last summer. Or maybe it crept in slowly over a pregnancy and never quite left. Either way, the moment you noticed it, something shifted. Not because it hurts. Not because it's dangerous. But because your face is how the world sees you, and this wasn't part of the plan.

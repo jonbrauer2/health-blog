@@ -2,8 +2,11 @@
 layout: page
 title: "Looking Closer at Live Blood Analysis: What the Evidence Actually Shows"
 permalink: /health-papers/live-blood-analysis/
+systems: [blood-lymph]
+kind: evaluation
+lens: [contested]
+aliases: [live blood analysis, LBA, darkfield microscopy, nutritional blood analysis, live cell microscopy, Hemaview, blood testing scam, alternative diagnostics]
 ---
-
 *A health education handout for coaches, ministry leaders, and individuals weighing whether to pursue Live Blood Analysis (LBA)*
 
 -----

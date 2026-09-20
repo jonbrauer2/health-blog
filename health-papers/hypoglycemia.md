@@ -2,9 +2,11 @@
 layout: page
 title: "Hypoglycemia: Understanding, Managing, and Preventing Low Blood Sugar"
 permalink: /health-papers/hypoglycemia/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [low blood sugar, blood sugar crash, reactive hypoglycemia, Whipple's triad, sugar crash, insulin, glucose dip, insulin therapy]
 ---
-
-
 ## TL;DR
 
 - Low blood sugar (hypoglycemia) is usually defined as blood glucose below 70 mg/dL, but the experience is personal — some people feel shaky, anxious, or foggy at higher numbers, and the most reliable confirmation is the classic “Whipple’s triad”: symptoms, a measured low, and relief after eating.[^1][^2]

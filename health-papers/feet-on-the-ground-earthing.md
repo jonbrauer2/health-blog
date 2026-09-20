@@ -2,9 +2,11 @@
 layout: page
 title: "Feet on the Ground: A Clear-Eyed Guide to Earthing and Grounding"
 permalink: /health-papers/feet-on-the-ground-earthing/
+systems: [whole-body]
+kind: evaluation
+lens: [contested]
+aliases: [earthing, grounding, grounding mat, grounding sheet, barefoot walking]
 ---
-
-
 -----
 
 ## 1. Introduction: Taking Off Your Shoes and Asking Good Questions

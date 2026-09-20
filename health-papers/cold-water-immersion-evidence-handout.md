@@ -2,9 +2,11 @@
 layout: page
 title: "Cold Water Immersion: An Evidence-Informed Health Handout"
 permalink: /health-papers/cold-water-immersion-evidence-handout/
+systems: [cardiovascular]
+kind: remedy
+lens: []
+aliases: [cold plunge, ice bath, cold shower, cryotherapy, Wim Hof method]
 ---
-
-
 *For health coaches, church health ministry leaders, and curious individuals*
 
 -----

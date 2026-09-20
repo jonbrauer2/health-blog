@@ -2,9 +2,11 @@
 layout: page
 title: "Your Heart, Your Future: A Practical Guide to Cardiovascular Health"
 permalink: /health-papers/your-heart-your-future-cardiovascular-health/
+systems: [cardiovascular]
+kind: condition
+lens: []
+aliases: [heart disease, cardiovascular health, heart attack, stroke prevention, cholesterol, coronary artery disease, atherosclerosis, blood pressure, Cardiovascular Disease]
 ---
-
-
 -----
 
 ## The Number That Should Stop You in Your Tracks

@@ -2,9 +2,11 @@
 layout: page
 title: "Leaky Gut and Intestinal Permeability: What the Science Actually Says"
 permalink: /health-papers/leaky-gut-what-the-science-says/
+systems: [digestive]
+kind: evaluation
+lens: [contested]
+aliases: [leaky gut, intestinal permeability, zonulin, leaky gut syndrome, gut barrier dysfunction, tight junctions]
 ---
-
-
 ## TL;DR
 
 - **“Leaky gut” describes a real, measurable biological phenomenon — increased intestinal permeability — that is well-documented in conditions like celiac disease, inflammatory bowel disease, and Type 1 diabetes; but “leaky gut syndrome” as a stand-alone, root-cause-of-everything diagnosis is not recognized by mainstream gastroenterology, and no single validated test confirms it.** [^16]

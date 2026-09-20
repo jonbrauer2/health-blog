@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Body Won’t Reset: Understanding Chronic Stress, the HPA Axis, and the Science of Recovery"
 permalink: /health-papers/when-your-body-wont-reset-hpa-axis/
+systems: [endocrine]
+kind: evaluation
+lens: [contested]
+aliases: [adrenal fatigue, HPA axis dysregulation, cortisol, burnout, chronic stress, adaptogens, ashwagandha, cortisol awakening response]
 ---
-
-
 **A health information handout for educated adults, health coaches, and wellness practitioners**
 
 -----

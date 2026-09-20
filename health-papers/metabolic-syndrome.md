@@ -2,9 +2,11 @@
 layout: page
 title: "Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually Do About It"
 permalink: /health-papers/metabolic-syndrome/
+systems: [endocrine, cardiovascular]
+kind: condition
+lens: []
+aliases: [metabolic syndrome, insulin resistance, syndrome X, prediabetes, central obesity, dyslipidemia, cardiometabolic risk, visceral fat]
 ---
-
-
 ---
 
 You probably know someone with high blood pressure. You probably know someone with elevated blood sugar. You might know someone with a large waist circumference, low HDL cholesterol, or high triglycerides. What you might not know is that when three or more of these conditions show up together in the same person, they stop being unrelated problems and start becoming something much more consequential — a pattern that scientists call metabolic syndrome.

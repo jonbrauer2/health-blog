@@ -2,9 +2,11 @@
 layout: page
 title: "Fasting: A Clear-Eyed Guide to What It Does, What It Doesn't, and How to Think About It"
 permalink: /health-papers/fasting-benefits-risks-physiology/
+systems: [endocrine, digestive]
+kind: remedy
+lens: []
+aliases: [fasting, intermittent fasting, time-restricted eating, autophagy, ketosis]
 ---
-
-
 ---
 
 ## Introduction — Why Fasting Is Having a Moment (and Why It Deserves One)

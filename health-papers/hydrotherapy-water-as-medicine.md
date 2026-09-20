@@ -2,8 +2,11 @@
 layout: page
 title: "Water as Medicine: A Practical Guide to Hydrotherapy"
 permalink: /health-papers/hydrotherapy-water-as-medicine/
+systems: [whole-body]
+kind: remedy
+lens: [adventist-heritage]
+aliases: [hydrotherapy, water therapy, cold plunge, contrast shower, sauna, cold water immersion, balneotherapy, Kneipp therapy, ice bath]
 ---
-
 *An educational handout for health coaches and ministry leaders. This material is for general education and is not a substitute for individual medical advice.*
 
 -----

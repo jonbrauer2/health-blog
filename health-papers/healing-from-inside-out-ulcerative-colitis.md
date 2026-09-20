@@ -2,9 +2,11 @@
 layout: page
 title: "Healing from the Inside Out: A Research-Informed Guide to Ulcerative Colitis"
 permalink: /health-papers/healing-from-inside-out-ulcerative-colitis/
+systems: [digestive, immune]
+kind: condition
+lens: []
+aliases: [ulcerative colitis, UC, IBD, colitis]
 ---
-
-
 *Understanding, Managing, and Nourishing Your Gut*
 
 -----

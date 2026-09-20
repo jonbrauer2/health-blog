@@ -2,9 +2,11 @@
 layout: page
 title: "Healing Heel Pain: Your Complete Guide to Understanding and Overcoming Plantar Fasciitis"
 permalink: /health-papers/healing-heel-pain-plantar-fasciitis/
+systems: [musculoskeletal]
+kind: condition
+lens: []
+aliases: [plantar fasciitis, heel pain, heel spur, foot pain, plantar fasciopathy, fasciosis, arch pain, morning heel pain, Sore or Painful Feet, Sore Feet]
 ---
-
-
 -----
 
 ## TL;DR

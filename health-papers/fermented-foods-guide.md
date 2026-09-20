@@ -2,8 +2,11 @@
 layout: page
 title: "The Living Food Revolution: Your Practical Guide to Fermented Foods and Kombucha"
 permalink: /health-papers/fermented-foods-guide/
+systems: [digestive, immune]
+kind: nutrition
+lens: []
+aliases: [fermented foods, kombucha, kimchi, sauerkraut, probiotics, kefir, Kombucha Tea]
 ---
-
 **A fermented food renaissance is sweeping across dinner tables, transforming how we think about gut health—but does the science support the hype?** Recent landmark research shows that consuming fermented foods like yogurt, kimchi, and sauerkraut can increase microbiome diversity and decrease 19 inflammatory markers in just 10 weeks [^1]. Yet while these foods offer genuine health benefits, they're not the miracle cure that marketing often suggests. This guide cuts through the confusion, examining what research actually shows about fermented foods—from traditional sauerkraut to trendy kombucha—and provides practical guidance for incorporating these ancient foods into modern life. Understanding both the proven benefits and the limitations helps you make informed choices about whether fermented foods belong on your plate.
 
 ## The fermentation renaissance: ancient wisdom meets modern science

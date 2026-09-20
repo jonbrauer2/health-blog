@@ -2,9 +2,11 @@
 layout: page
 title: "Navigating Carbohydrates: Your Guide to High-Carb and Low-Carb Approaches"
 permalink: /health-papers/navigating-carbohydrates/
+systems: [endocrine, digestive]
+kind: nutrition
+lens: []
+aliases: [carbohydrates, low-carb diet, high-carb diet, ketogenic diet, glycemic index, glycemic load, keto, fiber]
 ---
-
-
 ## Introduction
 
 Walk into any bookstore or scroll through social media, and you'll find passionate advocates on both sides of the carbohydrate debate. Some tout high-carb diets rich in whole grains and fruits as the key to longevity, pointing to centenarians in Blue Zone regions who thrive on plant-based meals.[^1] Others champion low-carb and ketogenic approaches, citing dramatic improvements in blood sugar control and weight loss.[^2][^3] So who's right?

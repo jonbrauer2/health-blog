@@ -2,9 +2,11 @@
 layout: page
 title: "Melanoma: What You Need to Know"
 permalink: /health-papers/melanoma-what-you-need-to-know/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [melanoma, skin cancer, ABCDE rule, mole changes, melanocyte, BRAF mutation, immunotherapy, metastatic melanoma, skin lesion]
 ---
-
-
 ---
 
 Every year, doctors discover a new melanoma somewhere on someone's body roughly every four minutes in the United States.[^1] It is not the most common skin cancer — that distinction belongs to basal cell and squamous cell carcinomas, which outnumber melanoma cases by a wide margin. But melanoma is the one that kills. It accounts for only about 1% of skin cancers while causing the large majority of skin cancer deaths.[^1] That gap between incidence and mortality tells you something important about this disease: early, it is nearly always curable. Late, it is a different story entirely.

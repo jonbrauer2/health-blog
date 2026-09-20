@@ -3,8 +3,11 @@ layout: page
 title: "Essential Oils: What You Really Need to Know"
 subtitle: "A Practical Guide to Safe Use, Real Benefits, and Hidden Dangers"
 permalink: /health-papers/essential-oils-guide/
+systems: [mental-health, sleep, digestive]
+kind: remedy
+lens: []
+aliases: [essential oils, aromatherapy, lavender oil, peppermint oil, doTERRA, Young Living]
 ---
-
 **A Practical Guide to Safe Use, Real Benefits, and Hidden Dangers**
 
 Essential oils have exploded in popularity, showing up everywhere from diffusers in living rooms to supplements in medicine cabinets. Walk into any home gathering and you'll likely encounter someone eager to share how these fragrant liquids changed their life—or better yet, how you can sell them too. But here's what most people promoting essential oils won't tell you: **these highly concentrated plant extracts can be genuinely helpful for some things, genuinely dangerous for others, and the difference matters more than you think.**

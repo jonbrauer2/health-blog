@@ -2,9 +2,11 @@
 layout: page
 title: "Angular Cheilitis: A Practical Guide to the Cracked Corners of Your Mouth"
 permalink: /health-papers/angular-cheilitis/
+systems: [skin, endocrine, immune]
+kind: condition
+lens: []
+aliases: [cracked mouth corners, perleche, angular stomatitis, cheilosis, commissural cheilitis, mouth corner cracks, Stomatitis]
 ---
-
-
 ## TL;DR
 
 - Angular cheilitis is a common, treatable, and largely preventable inflammation of the corners of the mouth, usually caused by a mix of saliva-driven skin damage and infection with *Candida* yeast and/or *Staphylococcus aureus* bacteria — not by simple dry lips.

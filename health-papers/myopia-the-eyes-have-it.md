@@ -2,9 +2,11 @@
 layout: page
 title: "The Eyes Have It: Understanding Myopia, What's Driving It, and What Actually Helps"
 permalink: /health-papers/myopia-the-eyes-have-it/
+systems: [sensory]
+kind: condition
+lens: []
+aliases: [myopia, nearsightedness, shortsightedness, high myopia, retinal detachment, axial myopia, myopia in children, refractive error, Short Sightedness Eyes, Short Sightedness]
 ---
-
-
 ---
 
 ## A Quiet Epidemic You May Not Have Noticed

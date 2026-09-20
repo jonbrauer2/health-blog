@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Leukemia: A Health Education Handout for Patients, Families, and Wellness Professionals"
 permalink: /health-papers/understanding-leukemia/
+systems: [blood-lymph]
+kind: condition
+lens: []
+aliases: [blood cancer, ALL, AML, CLL, CML, bone marrow cancer, chemotherapy, CAR-T therapy]
 ---
-
-
 ## TL;DR
 
 - **Leukemia is not one disease but a family of blood cancers** with four main types (ALL, AML, CLL, CML) that differ dramatically in who they affect, how fast they progress, and how they are treated — and survival has improved so profoundly that childhood ALL five-year survival rose from under 10% in the 1960s to about 90% today, and CML has gone from a fatal disease to near-normal life expectancy on a daily pill.

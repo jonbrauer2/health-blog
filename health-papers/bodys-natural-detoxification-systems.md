@@ -2,9 +2,11 @@
 layout: page
 title: "The Body’s Natural Detoxification Systems: How Your Body Cleans House Every Day"
 permalink: /health-papers/bodys-natural-detoxification-systems/
+systems: [liver-detox, digestive]
+kind: foundations
+lens: []
+aliases: [detox, detoxification, liver detox, cleanse, glymphatic system, colon cleanse, sulforaphane, Phase I Phase II liver, NAC]
 ---
-
-
 ## TL;DR
 
 - Your body runs a sophisticated, around-the-clock detoxification operation through the liver, kidneys, gut, lymphatic system, skin, and lungs — no purchased “program” is required to make these systems work, and the strongest research supports simple lifestyle habits over commercial cleanses.

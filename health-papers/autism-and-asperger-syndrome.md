@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Autism and Asperger Syndrome: A Caring Guide for Coaches, Communities, and Families"
 permalink: /health-papers/autism-and-asperger-syndrome/
+systems: [neurological, mental-health, digestive]
+kind: condition
+lens: []
+aliases: [autism, ASD, Asperger syndrome, autism spectrum disorder, neurodivergent, stimming, sensory processing, masking]
 ---
-
-
 ## TL;DR
 
 - Autism is a lifelong, highly heritable difference in how the brain processes social information, sensory input, and patterns — now diagnosed as a single “spectrum” (autism spectrum disorder, or ASD) that includes what used to be called Asperger Syndrome. About 1 in 31 U.S. 8-year-olds is identified as autistic.

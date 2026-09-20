@@ -34,7 +34,7 @@ def flow_list(items):
     return "[" + ", ".join(items) + "]"
 
 
-def apply_tags(path, systems, kind, aliases, force):
+def apply_tags(path, systems, kind, lens, aliases, force):
     text = path.read_text()
     match = FRONT_MATTER_RE.match(text)
     if not match:
@@ -47,7 +47,7 @@ def apply_tags(path, systems, kind, aliases, force):
     new_lines = [
         f"systems: {flow_list(systems)}",
         f"kind: {kind}",
-        "lens: []",
+        f"lens: {flow_list(lens)}",
         f"aliases: {flow_list(aliases)}",
     ]
     new_front_matter = match.group(1).rstrip("\n") + "\n" + "\n".join(new_lines) + "\n"
@@ -72,6 +72,7 @@ def main():
         for row in csv.DictReader(f):
             systems = [s for s in row["systems"].split("|") if s]
             kind = row["kind"].strip()
+            lens = [l for l in row.get("lens", "").split("|") if l]
             aliases = [a for a in row["aliases"].split("|") if a]
 
             bad_systems = [s for s in systems if s not in vocab["systems"]]
@@ -80,6 +81,10 @@ def main():
                 continue
             if kind not in vocab["kind"]:
                 errors.append(f"{row['filename']}: unknown kind '{kind}'")
+                continue
+            bad_lens = [l for l in lens if l not in vocab["lens"]]
+            if bad_lens:
+                errors.append(f"{row['filename']}: unknown lens {bad_lens}")
                 continue
 
             path = PAPERS_DIR / row["filename"]
@@ -91,7 +96,7 @@ def main():
                 applied += 1
                 continue
 
-            result = apply_tags(path, systems, kind, aliases, args.force)
+            result = apply_tags(path, systems, kind, lens, aliases, args.force)
             print(result)
             if result.startswith("tagged"):
                 applied += 1

@@ -2,9 +2,11 @@
 layout: page
 title: "Microwaves and Your Health: What the Science Actually Shows"
 permalink: /health-papers/microwaves-and-your-health/
+systems: [whole-body]
+kind: evaluation
+lens: [contested]
+aliases: [microwave oven, EMF exposure, non-ionizing radiation, BPA, food safety, microwave radiation, plastic containers, electromagnetic fields]
 ---
-
-
 ---
 
 ## 1. The Appliance Everyone Has and No One Fully Trusts

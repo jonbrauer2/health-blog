@@ -2,9 +2,11 @@
 layout: page
 title: "Sugar Cravings: Why They Happen, What Sugar Does in the Body, and How to Work With Your Biology"
 permalink: /health-papers/sugar-cravings-work-with-your-biology/
+systems: [endocrine, mental-health]
+kind: nutrition
+lens: []
+aliases: [sugar cravings, added sugar, blood glucose dip, sugar addiction, fatty liver sugar, berberine, cinnamon blood sugar, berberine containing herbs]
 ---
-
-
 ## TL;DR
 
 - Sugar cravings are driven by your physiology — blood sugar swings, reward chemistry, stress hormones, lost sleep, gut bacteria, and an engineered food supply — not by a personal failing.

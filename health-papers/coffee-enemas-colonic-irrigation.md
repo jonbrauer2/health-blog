@@ -2,8 +2,11 @@
 layout: page
 title: "Coffee Enemas and Colonic Irrigation: What the Science Actually Shows"
 permalink: /health-papers/coffee-enemas-colonic-irrigation/
+systems: [digestive, liver-detox]
+kind: evaluation
+lens: [contested]
+aliases: [coffee enema, colonic irrigation, colon cleanse, Gerson therapy, colon hydrotherapy]
 ---
-
 **This handout provides health coaches and church health ministry leaders with evidence-based information about coffee enemas and colonic irrigation, including documented risks, scientific evidence, and safer alternatives for digestive health.**
 
 The appeal of coffee enemas and colonic irrigation is understandable—they promise quick detoxification, disease cure, and renewed energy. However, peer-reviewed medical research tells a strikingly different story. These practices have caused at least 10 documented deaths and numerous serious complications, while systematic reviews find zero evidence they improve health. Understanding what science reveals about these procedures—and why they remain popular despite risks—empowers health ministry leaders to guide people toward evidence-based digestive health approaches that actually work.

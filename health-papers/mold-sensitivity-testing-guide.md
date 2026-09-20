@@ -2,8 +2,11 @@
 layout: page
 title: "When Tests Say \"Normal\" But Bodies Say Otherwise: The Science of Mold Sensitivity and Testing Limitations"
 permalink: /health-papers/mold-sensitivity-testing-guide/
+systems: [immune, respiratory]
+kind: evaluation
+lens: [contested]
+aliases: [mold sensitivity, CIRS, chronic inflammatory response syndrome, mycotoxins, HLA-DR, biotoxin illness, black mold, mold testing]
 ---
-
 **Mold-sensitive individuals can experience genuine, scientifically explainable reactions even when standard spore trap testing shows "normal" results.**[^1][^2][^3] This disconnect exists because conventional air sampling measures only a narrow slice of the biological hazards present in water-damaged buildings, missing mycotoxins, bacterial endotoxins, volatile compounds, and submicron fragments that cause the majority of health effects.[^4][^5][^6] For the approximately 25% of the population with genetic susceptibilities affecting biotoxin processing, these unmeasured contaminants trigger systemic inflammatory responses at levels conventional testing cannot detect.[^1][^2][^3]
 
 Standard spore trap air sampling—the most common testing method—captures a 5-minute snapshot of airborne spores that can vary by 10,000-fold from minute to minute in the same location.[^7][^8] Meanwhile, individuals with Chronic Inflammatory Response Syndrome (CIRS) or HLA-DR gene variations respond not primarily to spores but to mycotoxins, microbial volatile organic compounds (MVOCs), and bacterial endotoxins that persist in buildings long after visible mold is remediated.[^1][^2][^9] Research from the WHO, CDC, and peer-reviewed studies consistently shows that qualitative assessments (visible dampness, musty odors, water damage) correlate better with health outcomes than quantitative spore counts, validating why symptoms persist despite "normal" test results.[^10][^11][^12]

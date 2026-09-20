@@ -2,9 +2,11 @@
 layout: page
 title: "Butter on the Table: Ellen White's Counsel and the Modern Evidence"
 permalink: /health-papers/butter-egw-and-modern-evidence/
+systems: [cardiovascular, blood-lymph]
+kind: evaluation
+lens: [adventist-heritage, contested]
+aliases: [butter, Ellen White, EGW health message, saturated fat, Adventist health reform, margarine, trans fat, olive oil, Ministry of Healing]
 ---
-
-
 *A reference handout for AAHWC health coaches and Adventist ministry leaders*
 
 ## TL;DR

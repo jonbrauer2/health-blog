@@ -2,8 +2,11 @@
 layout: page
 title: "Understanding Caffeine: A Health Information Resource"
 permalink: /health-papers/understanding-caffeine/
+systems: [sleep, cardiovascular, mental-health]
+kind: nutrition
+lens: []
+aliases: [coffee, energy drinks, caffeine withdrawal, caffeine dependence, caffeine use disorder, stimulant, caffeine sensitivity]
 ---
-
 *Evidence-Based Guidance for Individuals and Families*
 
 ---

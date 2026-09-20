@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Chest Won't Quit: A Practical Guide to Acute Bronchitis"
 permalink: /health-papers/acute-bronchitis/
+systems: [respiratory]
+kind: condition
+lens: []
+aliases: [chest cold, bronchitis, cough, chest infection, walking pneumonia, whooping cough (differential), Pertussis]
 ---
-
-
 ---
 
 ## A Note to Readers

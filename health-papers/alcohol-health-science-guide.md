@@ -2,8 +2,11 @@
 layout: page
 title: "What Alcohol Really Does to Your Body: A Science-Based Guide"
 permalink: /health-papers/alcohol-health-science-guide/
+systems: [liver-detox, reproductive]
+kind: exposure
+lens: []
+aliases: [alcohol, drinking, alcoholism, alcohol use disorder, binge drinking, hangover, fetal alcohol syndrome, sobriety, alcohol-free, moderate drinking myth, Alcohol Addiction]
 ---
-
 **The bottom line:** Recent research has fundamentally changed what we know about alcohol and health. There is **no safe level of alcohol consumption** for cancer risk, brain health, or overall wellness—even light drinking (less than one drink daily) increases risk for multiple diseases.[^1][^2][^3] The widely promoted idea that moderate drinking protects your heart has been debunked by rigorous studies from 2018-2025, which found that flawed research methods created this myth.[^4][^5][^6] Alcohol is classified as a Group 1 carcinogen causing at least seven cancer types,[^7] damages every organ system, and contributes to 3.3 million deaths globally each year.[^8] However, the body has remarkable healing capacity: many alcohol-related changes reverse within weeks to months of stopping,[^9] and both abstinence-based and harm-reduction approaches show evidence of effectiveness depending on individual circumstances.[^10] This guide provides current, comprehensive information to help you understand alcohol's effects and make empowered health decisions.
 
 [SUGGESTED INFOGRAPHIC: Timeline showing "What happens when you stop drinking" - liver recovery at 2-3 weeks, brain fog lifting at 1 month, cognitive improvements at 3-6 months, continued brain healing up to 2 years]

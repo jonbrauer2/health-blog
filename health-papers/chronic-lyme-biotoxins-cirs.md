@@ -2,9 +2,11 @@
 layout: page
 title: "Chronic Lyme Disease, Biotoxins, and CIRS: A Research-Based Guide for Health Coaches and Wellness Practitioners"
 permalink: /health-papers/chronic-lyme-biotoxins-cirs/
+systems: [whole-body]
+kind: evaluation
+lens: [contested]
+aliases: [chronic Lyme disease, CIRS, PTLDS, mold illness, biotoxin illness, Shoemaker protocol]
 ---
-
-
 *A balanced, evidence-based resource for health coaches, wellness practitioners, and church health ministry leaders.*
 
 -----

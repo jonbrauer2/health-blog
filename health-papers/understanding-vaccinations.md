@@ -2,8 +2,11 @@
 layout: page
 title: "Understanding Vaccinations: A Guide to Informed Decision-Making"
 permalink: /health-papers/understanding-vaccinations/
+systems: [immune]
+kind: remedy
+lens: []
+aliases: [vaccines, immunization, MMR, vaccine safety, herd immunity, vaccine schedule, anti-vax, vaccine hesitancy, VAERS]
 ---
-
 **Vaccines have saved an estimated 154 million lives over the past 50 years**[^1], preventing diseases that once devastated communities worldwide. Today, individuals and families face important decisions about immunization—choices that affect both personal health and community wellbeing. This guide provides current, scientifically-grounded information to support thoughtful decision-making about vaccines for yourself and those you care for.
 
 Making wise health decisions requires understanding both benefits and risks, acknowledging areas of scientific certainty and uncertainty, and considering how our choices affect vulnerable members of our communities. Whether you're a parent considering childhood vaccines, an adult reviewing your immunization status, or a health leader guiding others, this resource offers the knowledge foundation you need.

@@ -2,9 +2,11 @@
 layout: page
 title: "Tinnitus: Understanding and Managing the Sound Within"
 permalink: /health-papers/tinnitus/
+systems: [sensory, neurological]
+kind: condition
+lens: []
+aliases: [ringing in ears, ear ringing, buzzing in ears, hearing loss, hyperacusis, sound therapy, tinnitus retraining therapy]
 ---
-
-
 ## TL;DR
 
 - Tinnitus — hearing sound with no outside source — affects roughly 14% of adults worldwide (about 740 million people), and while there is no cure, real and meaningful improvement in quality of life is achievable for most people.[^1]

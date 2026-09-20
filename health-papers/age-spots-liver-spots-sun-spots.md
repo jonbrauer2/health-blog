@@ -2,9 +2,11 @@
 layout: page
 title: "Age Spots, Liver Spots, Sun Spots: What They Are, Why They Form, and What You Can Actually Do About Them"
 permalink: /health-papers/age-spots-liver-spots-sun-spots/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [age spots, liver spots, sun spots, solar lentigines, hyperpigmentation, melasma, Age Spots Skin]
 ---
-
-
 ---
 
 ## Introduction

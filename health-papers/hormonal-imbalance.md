@@ -2,9 +2,11 @@
 layout: page
 title: "Hormonal Imbalance: A Guide to Your Body’s Messaging System"
 permalink: /health-papers/hormonal-imbalance/
+systems: [endocrine, reproductive]
+kind: condition
+lens: []
+aliases: [hormone imbalance, adrenal fatigue, estrogen dominance, low testosterone, andropause, PCOS, thyroid imbalance, HPA axis, Polycystic Ovary Syndrome, POS]
 ---
-
-
 *Filename: hormonal-imbalance.md*
 
 ## TL;DR

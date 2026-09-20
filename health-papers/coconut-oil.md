@@ -2,9 +2,11 @@
 layout: page
 title: "Coconut Oil: A Balanced Look at What the Science Really Says"
 permalink: /health-papers/coconut-oil/
+systems: [cardiovascular]
+kind: nutrition
+lens: []
+aliases: [coconut oil, MCT oil, lauric acid, tropical oil, saturated fat]
 ---
-
-
 ## 1. Introduction: Why Is Coconut Oil So Confusing?
 
 Walk into any grocery store and you’ll see jars of coconut oil promoted as a “superfood.” Open a cardiology journal and you’ll read that coconut oil should be “avoided.” Read a wellness blog and you may see claims that it reverses Alzheimer’s disease. Read a major dementia charity and you’ll learn there is no good evidence that it does. How can a single food generate so many opposite messages?

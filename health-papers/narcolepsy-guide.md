@@ -2,8 +2,11 @@
 layout: page
 title: "Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally"
 permalink: /health-papers/narcolepsy-guide/
+systems: [neurological, sleep]
+kind: condition
+lens: [adventist-heritage]
+aliases: [narcolepsy, cataplexy, hypocretin, orexin, excessive daytime sleepiness, hypnagogic hallucinations, sleep paralysis]
 ---
-
 *A health education handout for individuals, families, health coaches, and ministry leaders*
 
 ---

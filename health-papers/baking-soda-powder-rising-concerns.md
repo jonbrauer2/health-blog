@@ -2,9 +2,11 @@
 layout: page
 title: "Rising Concerns: A Closer Look at Baking Soda and Baking Powder in Everyday Cooking"
 permalink: /health-papers/baking-soda-powder-rising-concerns/
+systems: [digestive, cardiovascular, musculoskeletal]
+kind: nutrition
+lens: [adventist-heritage]
+aliases: [baking soda, baking powder, sodium bicarbonate, aluminum, leavening agents, saleratus, Ellen White, antacid]
 ---
-
-
 Few ingredients sit more quietly in our pantries than the small boxes of baking soda and baking powder. They make biscuits fluffy, pancakes tender, and quick breads rise in minutes. Yet for more than 150 years, dietary reformers, physicians, and—more recently—peer-reviewed researchers have raised questions about what these alkaline powders may be doing inside the body. The science is now nuanced enough to move beyond simple “good or bad” answers. This handout summarizes what current evidence says, where caution is warranted, and how to make practical, healthful choices in your own kitchen.
 
 -----

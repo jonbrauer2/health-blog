@@ -2,9 +2,11 @@
 layout: page
 title: "Breaking Free: A Complete Guide to Quitting Smoking"
 permalink: /health-papers/breaking-free-quitting-smoking/
+systems: [respiratory, cardiovascular]
+kind: exposure
+lens: []
+aliases: [smoking cessation, quitting smoking, nicotine addiction, tobacco, vaping, e-cigarettes, NRT, nicotine withdrawal, varenicline]
 ---
-
-
 ## 1. Why This Matters
 
 Let’s start with the truth, because you deserve nothing less: quitting smoking is one of the hardest things a human being can do. If you’ve tried before and gone back, you are not weak, and you are not a failure. You are dealing with one of the most addictive substances known to science — and the deck has been stacked against you by an industry that engineered cigarettes to keep you coming back.

@@ -2,9 +2,11 @@
 layout: page
 title: "Living Well With Type 2 Diabetes: A Whole-Person Guide"
 permalink: /health-papers/living-well-type-2-diabetes/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [type 2 diabetes, T2D, diabetes mellitus, high blood sugar, insulin resistance, diabetes remission, HbA1c, prediabetes]
 ---
-
-
 -----
 
 ## TL;DR

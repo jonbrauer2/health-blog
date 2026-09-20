@@ -2,9 +2,11 @@
 layout: page
 title: "Your Hands Are Talking: A Practical Guide to Understanding and Living Well with Carpal Tunnel Syndrome"
 permalink: /health-papers/your-hands-are-talking-carpal-tunnel/
+systems: [neurological, musculoskeletal]
+kind: condition
+lens: []
+aliases: [carpal tunnel syndrome, CTS, median nerve compression, wrist pain, hand numbness, Tinel's sign, Phalen's test, vitamin B6, vitamin B6 pyridoxine]
 ---
-
-
 ## TL;DR
 
 - Carpal tunnel syndrome (CTS) is the most common nerve-compression disorder — nerve-conduction-confirmed median neuropathy at the wrist was found in 4.9% (95% CI 4.1–5.8%) of a general population, with clinically certain CTS in 3.8%[^1] — and the good news is that most people improve with conservative care, while even severe cases usually respond well to a straightforward surgery.[^2]

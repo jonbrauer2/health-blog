@@ -2,9 +2,11 @@
 layout: page
 title: "Biofilms and Biofilm Disruptors"
 permalink: /health-papers/biofilms-and-biofilm-disruptors/
+systems: [immune]
+kind: evaluation
+lens: [contested]
+aliases: [biofilms, biofilm disruptors, quorum sensing, chronic infection, EPS matrix, dental plaque, systemic biofilm, NAC, antibiotic resistance]
 ---
-
-
 ---
 
 ## A hidden city living inside us

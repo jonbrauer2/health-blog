@@ -2,9 +2,11 @@
 layout: page
 title: "The Whole Truth About Cheese: Pleasure, Nutrition, and the Fine Print"
 permalink: /health-papers/whole-truth-about-cheese/
+systems: [digestive, cardiovascular]
+kind: nutrition
+lens: []
+aliases: [cheese, dairy, lactose intolerance, tyramine, Listeria, raw milk cheese, casomorphins, saturated fat]
 ---
-
-
 -----
 
 ## TL;DR

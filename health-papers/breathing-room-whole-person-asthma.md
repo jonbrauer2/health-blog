@@ -2,9 +2,11 @@
 layout: page
 title: "Breathing Room: A Whole-Person Guide to Understanding and Living Well with Asthma"
 permalink: /health-papers/breathing-room-whole-person-asthma/
+systems: [respiratory, immune, mental-health]
+kind: condition
+lens: []
+aliases: [asthma, GINA, inhaled corticosteroids, biologics, asthma triggers, wheeze, reliever overuse, Buteyko breathing, asthma anxiety]
 ---
-
-
 ## TL;DR
 
 - Asthma is a chronic, inflammatory disease of the airways that affected an estimated 363 million people worldwide in 2023 and caused roughly 442,000 deaths — yet it is highly controllable, and most asthma deaths occur where diagnosis and treatment are lacking.[^1]

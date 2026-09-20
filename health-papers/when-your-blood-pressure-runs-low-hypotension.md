@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Blood Pressure Runs Low: Understanding, Managing, and Thriving with Hypotension"
 permalink: /health-papers/when-your-blood-pressure-runs-low-hypotension/
+systems: [cardiovascular]
+kind: condition
+lens: []
+aliases: [low blood pressure, orthostatic hypotension, POTS, dizziness on standing, fainting, syncope, postural tachycardia, dysautonomia, Vasovagal Syncope, Hypotension]
 ---
-
-
 ## Why Low Blood Pressure Deserves More Attention
 
 You stand up from the couch and the room slides sideways. Little gray sparkles crowd the edges of your vision. You grab the doorframe, wait a few seconds, and the world snaps back into focus. Or maybe it happens on a warm morning while you’re standing for a long stretch — your knees go soft, your ears start ringing, and the next thing you know, kind hands are helping you to the floor while someone fans your face. If either scene feels familiar, you already know something that medical textbooks are slow to say plainly: blood pressure that runs low is not always harmless, and living with it can be genuinely hard.[^1]

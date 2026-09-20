@@ -2,9 +2,11 @@
 layout: page
 title: "Shingles: Understanding, Managing, and Recovering from Herpes Zoster"
 permalink: /health-papers/shingles-herpes-zoster/
+systems: [skin, immune, neurological]
+kind: condition
+lens: []
+aliases: [shingles, herpes zoster, varicella-zoster virus, VZV, postherpetic neuralgia, chickenpox virus, shingles rash]
 ---
-
-
 ---
 
 ## Introduction: More Common Than You Think

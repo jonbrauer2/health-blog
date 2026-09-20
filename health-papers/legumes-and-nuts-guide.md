@@ -2,8 +2,11 @@
 layout: page
 title: "Legumes and Nuts: Building Health Through Plant Proteins"
 permalink: /health-papers/legumes-and-nuts-guide/
+systems: [digestive, cardiovascular]
+kind: nutrition
+lens: []
+aliases: [legumes, nuts, plant protein, beans, lentils, Adventist Health Study, plant-based diet, nut consumption]
 ---
-
 **Plant-based proteins from legumes and nuts offer profound health benefits while being economically accessible and environmentally sustainable.** Research from the Adventist Health Study-2—following 96,000 participants—demonstrates that regular consumption of these foods reduces cardiovascular death by **40%**, extends life expectancy by **2-10 years**, and prevents chronic diseases more effectively than nearly any other dietary intervention.[^1][^2] For Seventh-day Adventist communities and health ministry leaders, this evidence validates a dietary pattern already embraced by many and provides actionable guidance for those seeking to optimize health through nutrition. Beyond personal health, legumes cost **2-5 times less** than animal proteins per gram of protein, addressing food security while reducing environmental impact by up to **90%** compared to meat production.[^3]
 
 The science is clear: eating nuts **five times weekly** and legumes **2-3 times weekly** dramatically reduces risk of heart disease, diabetes, cancer, and premature death.[^4] This report synthesizes over 200 peer-reviewed studies from 2015-2025, integrating Adventist Health Study findings with global nutrition research to provide comprehensive, practical guidance.

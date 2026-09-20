@@ -2,8 +2,11 @@
 layout: page
 title: "Clothing Choices and Physical Health: A Lifestyle Medicine Perspective"
 permalink: /health-papers/clothing-choices-and-physical-health/
+systems: [whole-body]
+kind: foundations
+lens: []
+aliases: [tight clothing, compression garments, cold exposure clothing, clothing and health, meralgia paresthetica]
 ---
-
 Maria buttoned her wool coat tightly against the February wind, noticing her elderly neighbor shuffling to the mailbox in house slippers and a thin jacket. Two weeks later, that neighbor was hospitalized with influenza complications. Meanwhile, across town, a young professional named James struggled daily with acid reflux despite medication—until his doctor asked about his belt. **Cold exposure increases cardiovascular mortality by 1.6% for every single degree Celsius drop in temperature, while tight waistbands can triple the time acid remains in the esophagus**[^1][^2]. These aren't fashion choices—they're health decisions with measurable physiological consequences.
 
 The clothing we choose each morning affects our body temperature regulation, immune function, circulation, breathing, mental wellbeing, and even our children's development. This handout provides evidence-based guidance on how strategic clothing choices can support optimal health across the lifespan, backed by recent clinical research and practical wisdom for real-world application.

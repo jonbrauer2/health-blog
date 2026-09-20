@@ -2,9 +2,11 @@
 layout: page
 title: "Living Well with IBS: What the Research Says and What Actually Helps"
 permalink: /health-papers/living-well-with-ibs/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [IBS, irritable bowel syndrome, Rome IV, IBS-C, IBS-D, gut-brain axis, low FODMAP, abdominal pain, Stomach Ache]
 ---
-
-
 ## TL;DR
 
 - IBS is a real, common disorder of gut–brain interaction affecting roughly 4–11% of people worldwide and an estimated 6.1% of U.S. adults by the strict Rome IV definition — it is not “just stress,” not imaginary, and not a route to cancer.[^1][^2]

@@ -2,9 +2,11 @@
 layout: page
 title: "Understanding Oxalates: A Balanced Guide to What Science Really Shows"
 permalink: /health-papers/understanding-oxalates/
+systems: [urinary, digestive]
+kind: evaluation
+lens: [contested]
+aliases: [oxalate dumping, kidney stones, calcium oxalate, hyperoxaluria, oxalate sensitivity, low oxalate diet, vulvodynia, spinach oxalate, kidney stones urolithiasis]
 ---
-
-
 **What you need to know:** Oxalates are natural compounds found in many nutritious plant foods. While they genuinely cause problems for certain people—especially those with recurrent kidney stones or specific medical conditions—most healthy adults handle oxalates without issue. This guide separates established medical facts from emerging internet theories, helping you make informed decisions with your healthcare provider.
 
 -----

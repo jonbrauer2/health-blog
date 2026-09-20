@@ -2,9 +2,11 @@
 layout: page
 title: "Allergies: Understanding, Managing, and Living Well with an Overactive Immune System"
 permalink: /health-papers/allergies/
+systems: [immune, respiratory, skin]
+kind: condition
+lens: []
+aliases: [hay fever, allergic rhinitis, food allergy, anaphylaxis, hives, eczema, atopic dermatitis, IgE, histamine, oral allergy syndrome, Dermatitis, histamine therapy, Hives Urticaria]
 ---
-
-
 ## TL;DR
 
 - Allergic diseases now affect an estimated 10–30% of people worldwide, and rates have climbed steadily for decades — driven by a mix of changing microbial exposures, diet, environment, and a warming climate, with no single cause.[^1][^3]

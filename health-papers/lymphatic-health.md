@@ -2,9 +2,11 @@
 layout: page
 title: "Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What You Can Do to Support It"
 permalink: /health-papers/lymphatic-health/
+systems: [blood-lymph]
+kind: foundations
+lens: []
+aliases: [lymphatic system, lymphedema, lipedema, lymph nodes, lymphatic drainage, swollen glands, glymphatic system, manual lymphatic drainage, lymph flow]
 ---
-
-
 -----
 
 ## 1. Introduction

@@ -2,9 +2,11 @@
 layout: page
 title: "When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO"
 permalink: /health-papers/sibo/
+systems: [digestive]
+kind: condition
+lens: []
+aliases: [SIBO, small intestinal bacterial overgrowth, bloating, IMO, methane overgrowth, hydrogen breath test, migrating motor complex, Water Retention]
 ---
-
-
 ---
 
 ## When normal tests don't match how you feel

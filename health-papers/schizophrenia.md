@@ -2,9 +2,11 @@
 layout: page
 title: "Schizophrenia: What Families, Coaches, and Communities Need to Know"
 permalink: /health-papers/schizophrenia/
+systems: [mental-health, neurological]
+kind: condition
+lens: []
+aliases: [schizophrenia, psychosis, hallucinations, delusions, antipsychotics, positive symptoms, negative symptoms]
 ---
-
-
 ---
 
 ## 1. Why This Topic Matters

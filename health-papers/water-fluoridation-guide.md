@@ -2,8 +2,11 @@
 layout: page
 title: "Water Fluoridation: A Balanced Health Guide"
 permalink: /health-papers/water-fluoridation-guide/
+systems: [neurological, endocrine, musculoskeletal]
+kind: exposure
+lens: [contested]
+aliases: [fluoride, water fluoridation, dental fluorosis, fluoride safety, tooth decay prevention, fluoride IQ, thyroid fluoride]
 ---
-
 **For Health Coaches and Ministry Leaders**
 
 Nearly three out of four Americans drink fluoridated water every day, yet many remain uncertain about whether this 80-year-old public health practice helps or harms. The truth isn't simple. Fluoridation prevents about 25% of cavities even today, particularly benefiting those who can't afford dental care. But emerging research on developing brains and thyroid function, combined with the reality that we now get fluoride from many sources beyond water, has created genuine scientific debate. This guide presents both perspectives fairly so you can understand the evidence, recognize the uncertainties, and make informed decisions for your family and community.

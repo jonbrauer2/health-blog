@@ -2,9 +2,11 @@
 layout: page
 title: "When Hours Matter: Understanding Meningitis"
 permalink: /health-papers/meningitis-when-hours-matter/
+systems: [neurological, immune]
+kind: condition
+lens: []
+aliases: [meningitis, meningococcal disease, bacterial meningitis, stiff neck, meningitis rash, brain infection, spinal tap, Neisseria meningitidis]
 ---
-
-
 *A health education guide for individuals, families, and community health leaders*
 
 ---

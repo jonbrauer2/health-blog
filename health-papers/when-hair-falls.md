@@ -2,9 +2,11 @@
 layout: page
 title: "When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair Health"
 permalink: /health-papers/when-hair-falls/
+systems: [skin]
+kind: condition
+lens: []
+aliases: [hair loss, alopecia, female pattern hair loss, telogen effluvium, alopecia areata, traction alopecia, thinning hair, scalp health]
 ---
-
-
 -----
 
 She noticed it first in the shower drain. Then in the bristles of her hairbrush. Then in the way the part on the top of her head looked — wider somehow, more exposed. She told herself it was probably nothing. She Googled it at midnight. She felt embarrassed to bring it up with her doctor. She wondered if she was imagining it.

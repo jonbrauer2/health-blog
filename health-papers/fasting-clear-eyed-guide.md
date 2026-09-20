@@ -2,9 +2,11 @@
 layout: page
 title: "Fasting: A Clear-Eyed Guide to What It Does, What It Doesn't, and How to Think About It"
 permalink: /health-papers/fasting-clear-eyed-guide/
+systems: [endocrine, digestive]
+kind: remedy
+lens: []
+aliases: [fasting, intermittent fasting, time-restricted eating, autophagy, 16:8 fasting]
 ---
-
-
 ## TL;DR
 
 - **Fasting is a real physiological lever, not magic and not snake oil.** It reliably triggers a metabolic switch from burning sugar to burning fat-derived ketones (after roughly 12–36 hours), improves insulin sensitivity and several metabolic markers, and modestly lowers weight — but head-to-head, it usually performs about as well as simply eating fewer calories, so the deciding factor is which approach a person can actually sustain.

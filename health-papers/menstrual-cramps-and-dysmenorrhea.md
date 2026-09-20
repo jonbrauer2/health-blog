@@ -2,9 +2,11 @@
 layout: page
 title: "Menstrual Cramps and Dysmenorrhea: A Warm, Honest Guide to Understanding and Easing Period Pain"
 permalink: /health-papers/menstrual-cramps-and-dysmenorrhea/
+systems: [reproductive]
+kind: condition
+lens: []
+aliases: [menstrual cramps, dysmenorrhea, period pain, prostaglandins, endometriosis, painful periods, PMS, uterine cramping, painful menstruation dysmenorrhea, Menstruation Issues, Menstrual Bleeding, Heavy Menstrual Bleeding]
 ---
-
-
 ## TL;DR
 
 - Menstrual cramps (dysmenorrhea) are one of the most common — and most undertreated — pain conditions in the world, affecting roughly half to nine in ten menstruating people, yet pain is often minimized and care is delayed.[^1][^2]

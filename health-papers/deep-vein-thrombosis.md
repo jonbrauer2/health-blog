@@ -2,9 +2,11 @@
 layout: page
 title: "Deep Vein Thrombosis: A Whole-Person Guide to Understanding, Treating, and Preventing Blood Clots"
 permalink: /health-papers/deep-vein-thrombosis/
+systems: [cardiovascular]
+kind: condition
+lens: []
+aliases: [DVT, blood clot, venous thromboembolism, VTE, pulmonary embolism, Phlebitis, Blood Clots, Deep Vein Thrombosis]
 ---
-
-
 ## TL;DR
 
 - Deep vein thrombosis (DVT) is a blood clot in a deep vein, usually the leg, that may affect as many as 900,000 Americans every year; its most feared complication, pulmonary embolism (PE), can kill within hours, so suspected PE is always a medical emergency.[^1][^3]

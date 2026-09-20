@@ -3,9 +3,11 @@ layout: page
 title: "Your Bones Are Not Waiting for You to Notice Them"
 subtitle: "A Guide to Understanding, Preventing, and Addressing Bone Loss"
 permalink: /health-papers/your-bones-osteoporosis/
+systems: [musculoskeletal]
+kind: condition
+lens: []
+aliases: [osteoporosis, osteopenia, bone density, DEXA scan, bone loss, calcium, fracture risk, T-score]
 ---
-
-
 ---
 
 Somewhere around 54 million Americans — and roughly 500 million people worldwide — are walking around with bones that are thinner than they should be. Most of them have no idea.[^1] [^2] No pain. No symptoms. No obvious warning. Bone loss is slow, silent, and gradual — right up until the moment it isn't. A hip fracture, a collapsed vertebra, a wrist that snaps during a minor fall. That's often how people find out.

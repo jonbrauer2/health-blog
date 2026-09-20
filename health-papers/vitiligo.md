@@ -2,9 +2,11 @@
 layout: page
 title: "Vitiligo — Understanding, Managing, and Living Well with a Complex Skin Condition"
 permalink: /health-papers/vitiligo/
+systems: [skin, immune]
+kind: condition
+lens: []
+aliases: [vitiligo, skin depigmentation, white patches, melanocytes, autoimmune skin, Koebner phenomenon, ruxolitinib, Opzelura]
 ---
-
-
 ## The First White Patch
 
 It often starts small. A pale spot on the back of a hand. A light patch near the eyes or mouth. Maybe it shows up after a sunburn, a stressful season, or seemingly out of nowhere. At first you might think it’s dry skin or a fading scar. Then it doesn’t fade. It may even grow, or new patches appear somewhere else. And the questions begin: *What is this? Did I do something to cause it? Will it spread? Will it ever go away? What will people think?*

@@ -2,8 +2,11 @@
 layout: page
 title: "When the Body Says \"Yes\": A Biblical Response to Applied Kinesiology"
 permalink: /health-papers/applied-kinesiology-biblical-response/
+systems: [whole-body]
+kind: evaluation
+lens: [adventist-heritage, contested]
+aliases: [applied kinesiology, muscle testing, AK, energy medicine, chiropractic, New Age, biblical discernment, EGW, Adventist]
 ---
-
 *A health-education and missiological handout for the Adventist Association of Health and Wellness Coaching*
 
 -----

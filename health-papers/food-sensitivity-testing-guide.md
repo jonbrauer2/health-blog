@@ -2,8 +2,11 @@
 layout: page
 title: "Understanding Food Sensitivity Testing: A Balanced Guide"
 permalink: /health-papers/food-sensitivity-testing-guide/
+systems: [digestive, immune]
+kind: evaluation
+lens: [contested]
+aliases: [food sensitivity testing, IgG food test, food intolerance, elimination diet, ALCAT]
 ---
-
 **Food sensitivity testing is controversial, with major medical organizations rejecting common commercial tests while patients and some practitioners report significant benefits.** This divide reflects genuine scientific uncertainty about delayed food reactions—where conventional medicine's lack of validated tests meets functional medicine's clinical observations. About 15-20% of people experience food-related symptoms beyond classic allergies[^1], yet the best way to identify problem foods remains hotly debated. Understanding what research actually shows—and doesn't show—helps you make informed decisions about testing and treatment while avoiding both unnecessary restrictions and missed opportunities for symptom relief.
 
 **Why this matters:** You may waste $400-700 on tests major medical organizations call scientifically invalid[^2], potentially leading to nutritional deficiencies from unnecessary food elimination. Yet some peer-reviewed studies show certain approaches help specific conditions like irritable bowel syndrome. **What's really happening:** The immune system's response to food is far more complex than originally understood, involving delayed reactions that conventional IgE allergy tests miss entirely. The crucial backstory: Food can trigger symptoms through multiple pathways—true IgE allergies (immediate, potentially life-threatening), delayed immune reactions (hours to days later), enzyme deficiencies (like lactose intolerance), and sensitivity to food chemicals (like histamine)—each requiring different diagnostic approaches. **The broader implication:** This controversy highlights how medicine struggles when patient-reported improvements outpace scientific validation, forcing both doctors and patients to navigate genuine uncertainty.

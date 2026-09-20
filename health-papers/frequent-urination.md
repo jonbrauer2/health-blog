@@ -2,9 +2,11 @@
 layout: page
 title: "Frequent Urination: A Caring, Practical Guide to Understanding and Managing It"
 permalink: /health-papers/frequent-urination/
+systems: [urinary]
+kind: condition
+lens: []
+aliases: [overactive bladder, OAB, nocturia, urinary frequency, frequent urination, Nocturnal Urination, Night Time Urination]
 ---
-
-
 ## TL;DR
 
 - Needing to urinate often — more than about eight times in 24 hours, or waking two or more times at night (nocturia) — is common, frequently underreported, and very often improvable through behavioral, dietary, and medical approaches.

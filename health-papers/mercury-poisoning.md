@@ -2,9 +2,11 @@
 layout: page
 title: "Mercury Poisoning: What You Need to Know, Who's at Risk, and What Actually Helps"
 permalink: /health-papers/mercury-poisoning/
+systems: [neurological]
+kind: exposure
+lens: [contested]
+aliases: [mercury poisoning, mercury toxicity, methylmercury, heavy metal toxicity, dental amalgam, fish mercury, chelation, mercury exposure, mercury toxicity amalgam illness]
 ---
-
-
 *A health education guide for coaches, community health leaders, and families*
 
 ---

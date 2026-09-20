@@ -2,8 +2,11 @@
 layout: page
 title: "Fat Intake Levels: Ultra-Low-Fat vs. Moderate Healthy Fats"
 permalink: /health-papers/fat-intake-guide/
+systems: [cardiovascular, digestive]
+kind: nutrition
+lens: []
+aliases: [dietary fat, low-fat diet, healthy fats, saturated fat, omega-3]
 ---
-
 ## Table of Contents
 
 1. Introduction: The Fat Debate

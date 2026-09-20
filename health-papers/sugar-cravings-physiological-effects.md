@@ -2,9 +2,11 @@
 layout: page
 title: "Sugar Cravings, Dangers, and Physiological Effects"
 permalink: /health-papers/sugar-cravings-physiological-effects/
+systems: [endocrine, mental-health]
+kind: nutrition
+lens: []
+aliases: [sugar cravings, added sugar, sugar addiction, blood sugar crash, dopamine reward, sweet cravings, sugar withdrawal]
 ---
-
-
 *A Guide to Understanding What Sugar Does in Your Body — and What You Can Realistically Do About It*
 
 ---

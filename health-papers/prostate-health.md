@@ -2,9 +2,11 @@
 layout: page
 title: "Prostate Health: What Every Man Should Know"
 permalink: /health-papers/prostate-health/
+systems: [reproductive, urinary]
+kind: condition
+lens: []
+aliases: [prostate, BPH, benign prostatic hyperplasia, prostatitis, prostate cancer, LUTS, enlarged prostate, PSA, Benign Prostatic Hypertrophy (BPH), Prostate - Enlarged]
 ---
-
-
 *A practical guide to understanding, protecting, and monitoring one of the body’s most overlooked organs*
 
 -----

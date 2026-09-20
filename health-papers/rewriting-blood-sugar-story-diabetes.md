@@ -2,9 +2,11 @@
 layout: page
 title: "Rewriting Your Blood Sugar Story: Food, Movement, and the Power to Change Type 2 Diabetes"
 permalink: /health-papers/rewriting-blood-sugar-story-diabetes/
+systems: [endocrine]
+kind: condition
+lens: []
+aliases: [type 2 diabetes, blood sugar, insulin resistance, diabetes remission, HbA1c, DiRECT trial, low-carb diabetes diet]
 ---
-
-
 -----
 
 ## TL;DR

@@ -2,9 +2,11 @@
 layout: page
 title: "Working With Your Joints: A Practical Guide to Managing Arthritis Through Diet, Movement, and Daily Habits"
 permalink: /health-papers/working-with-your-joints-arthritis/
+systems: [musculoskeletal]
+kind: condition
+lens: []
+aliases: [arthritis, osteoarthritis, rheumatoid arthritis, joint pain, gout, nightshades, joint stiffness, cartilage, RA, Joints Inflammation, Joint Inflammation]
 ---
-
-
 If you live with stiff, aching joints, you have more control than you may have been told. While no lifestyle change cures arthritis, a growing and increasingly rigorous body of research shows that what you eat, how you move, and how you manage your weight can meaningfully reduce pain, improve function, and—in some cases—lower the medication you need. This guide focuses on osteoarthritis (OA), the most common form, while addressing rheumatoid arthritis (RA), psoriatic arthritis, and gout where the science diverges.
 
 ## TL;DR
