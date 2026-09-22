@@ -2,10 +2,6 @@
 # Flattened, deduped index of paper titles + aliases -> paper(s).
 # Re-run the script after changing any paper's title/aliases.
 
-- term: '10 Foundations for Lifelong Vitality: A Science-Based Wellness Guide'
-  papers:
-  - title: '10 Foundations for Lifelong Vitality: A Science-Based Wellness Guide'
-    url: /health-papers/ten-foundations-for-lifelong-vitality/
 - term: 10-pass ozone
   papers:
   - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
@@ -59,10 +55,6 @@
     url: /health-papers/acid-reflux-what-your-body-is-trying-to-tell-you/
   - title: 'When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux'
     url: /health-papers/heartburn-reflux-guide/
-- term: 'Acid Reflux: What Your Body Is Trying to Tell You'
-  papers:
-  - title: 'Acid Reflux: What Your Body Is Trying to Tell You'
-    url: /health-papers/acid-reflux-what-your-body-is-trying-to-tell-you/
 - term: acne
   papers:
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
@@ -72,10 +64,6 @@
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
     url: /health-papers/your-skin-inside-and-out/
 - term: acne vulgaris
-  papers:
-  - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
-    url: /health-papers/acne-more-than-skin-deep/
-- term: 'Acne: More Than Skin Deep — A Guide to the Evidence'
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
     url: /health-papers/acne-more-than-skin-deep/
@@ -110,10 +98,6 @@
   - title: 'When Your Body Won’t Reset: Understanding Chronic Stress, the HPA Axis,
       and the Science of Recovery'
     url: /health-papers/when-your-body-wont-reset-hpa-axis/
-- term: 'Adaptogens: Stress Resilience and the Science of Botanical Support'
-  papers:
-  - title: 'Adaptogens: Stress Resilience and the Science of Botanical Support'
-    url: /health-papers/adaptogens-stress-resilience/
 - term: added sugar
   papers:
   - title: Sugar Cravings, Dangers, and Physiological Effects
@@ -170,12 +154,6 @@
   - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
     url: /health-papers/actinic-keratosis/
 - term: Age Spots Skin
-  papers:
-  - title: 'Age Spots, Liver Spots, Sun Spots: What They Are, Why They Form, and What
-      You Can Actually Do About Them'
-    url: /health-papers/age-spots-liver-spots-sun-spots/
-- term: 'Age Spots, Liver Spots, Sun Spots: What They Are, Why They Form, and What
-    You Can Actually Do About Them'
   papers:
   - title: 'Age Spots, Liver Spots, Sun Spots: What They Are, Why They Form, and What
       You Can Actually Do About Them'
@@ -247,10 +225,6 @@
     url: /health-papers/alcohol-health-current-research/
   - title: 'What Alcohol Really Does to Your Body: A Science-Based Guide'
     url: /health-papers/alcohol-health-science-guide/
-- term: Alcohol and Your Health
-  papers:
-  - title: Alcohol and Your Health
-    url: /health-papers/alcohol-health-current-research/
 - term: alcohol use disorder
   papers:
   - title: Alcohol and Your Health
@@ -285,12 +259,6 @@
   - title: 'Allergies: Understanding, Managing, and Living Well with an Overactive
       Immune System'
     url: /health-papers/allergies/
-- term: 'Allergies: Understanding, Managing, and Living Well with an Overactive Immune
-    System'
-  papers:
-  - title: 'Allergies: Understanding, Managing, and Living Well with an Overactive
-      Immune System'
-    url: /health-papers/allergies/
 - term: allostatic load
   papers:
   - title: 'Calm in the Storm: A Whole-Person Guide to Nervous System Health and Stress
@@ -309,10 +277,6 @@
   - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
     url: /health-papers/aloe-vera-traditional-to-modern-evidence/
 - term: aloe vera
-  papers:
-  - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
-    url: /health-papers/aloe-vera-traditional-to-modern-evidence/
-- term: 'Aloe Vera: From Traditional Use to Modern Evidence'
   papers:
   - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
     url: /health-papers/aloe-vera-traditional-to-modern-evidence/
@@ -374,10 +338,6 @@
   - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
       Well'
     url: /health-papers/understanding-hives/
-- term: 'Angular Cheilitis: A Practical Guide to the Cracked Corners of Your Mouth'
-  papers:
-  - title: 'Angular Cheilitis: A Practical Guide to the Cracked Corners of Your Mouth'
-    url: /health-papers/angular-cheilitis/
 - term: angular stomatitis
   papers:
   - title: 'Angular Cheilitis: A Practical Guide to the Cracked Corners of Your Mouth'
@@ -414,12 +374,6 @@
     url: /health-papers/antibiotics-vs-natural-approaches/
   - title: 'Smart Choices About Antibiotics: A Balanced Guide'
     url: /health-papers/smart-choices-about-antibiotics/
-- term: 'Antibiotics vs Natural Approaches: Navigating Infection Prevention and Treatment
-    Options'
-  papers:
-  - title: 'Antibiotics vs Natural Approaches: Navigating Infection Prevention and
-      Treatment Options'
-    url: /health-papers/antibiotics-vs-natural-approaches/
 - term: Antidepressant Medication
   papers:
   - title: 'Lifting the Fog: A Whole-Person Guide to Understanding and Healing Depression'
@@ -480,10 +434,6 @@
     url: /health-papers/applied-kinesiology/
   - title: 'When the Body Says "Yes": A Biblical Response to Applied Kinesiology'
     url: /health-papers/applied-kinesiology-biblical-response/
-- term: 'Applied Kinesiology: A Balanced Look at Muscle Testing'
-  papers:
-  - title: 'Applied Kinesiology: A Balanced Look at Muscle Testing'
-    url: /health-papers/applied-kinesiology/
 - term: AQI
   papers:
   - title: Breathing Better
@@ -682,11 +632,6 @@
   papers:
   - title: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
     url: /health-papers/muscular-dystrophy/
-- term: 'Before Birth Matters: A Practical Guide to Prenatal and Preconception Health'
-  papers:
-  - title: 'Before Birth Matters: A Practical Guide to Prenatal and Preconception
-      Health'
-    url: /health-papers/before-birth-matters-prenatal-health/
 - term: benign prostatic hyperplasia
   papers:
   - title: 'Prostate Health: What Every Man Should Know'
@@ -713,11 +658,6 @@
   - title: 'Sugar Cravings: Why They Happen, What Sugar Does in the Body, and How
       to Work With Your Biology'
     url: /health-papers/sugar-cravings-work-with-your-biology/
-- term: 'Beyond the Medicine Cabinet: Effective Natural Approaches to Pain and Fever'
-  papers:
-  - title: 'Beyond the Medicine Cabinet: Effective Natural Approaches to Pain and
-      Fever'
-    url: /health-papers/beyond-medicine-cabinet-pain-fever/
 - term: biblical discernment
   papers:
   - title: 'When the Body Says "Yes": A Biblical Response to Applied Kinesiology'
@@ -741,10 +681,6 @@
   - title: Biofilms and Biofilm Disruptors
     url: /health-papers/biofilms-and-biofilm-disruptors/
 - term: biofilms
-  papers:
-  - title: Biofilms and Biofilm Disruptors
-    url: /health-papers/biofilms-and-biofilm-disruptors/
-- term: Biofilms and Biofilm Disruptors
   papers:
   - title: Biofilms and Biofilm Disruptors
     url: /health-papers/biofilms-and-biofilm-disruptors/
@@ -777,10 +713,6 @@
   - title: 'The Whole Person and the Troubled Mind: A Practical Guide to Lifestyle,
       Biology, and Hope in Depression, Bipolar Disorder, and Schizophrenia'
     url: /health-papers/whole-person-troubled-mind/
-- term: 'Bipolar Disorder: Root Causes, Body Systems, and Whole-Person Support'
-  papers:
-  - title: 'Bipolar Disorder: Root Causes, Body Systems, and Whole-Person Support'
-    url: /health-papers/bipolar-disorder-whole-person-support/
 - term: birth defects
   papers:
   - title: 'Before Birth Matters: A Practical Guide to Prenatal and Preconception
@@ -932,10 +864,6 @@
   papers:
   - title: 'When Hours Matter: Understanding Meningitis'
     url: /health-papers/meningitis-when-hours-matter/
-- term: 'Breaking Free: A Complete Guide to Quitting Smoking'
-  papers:
-  - title: 'Breaking Free: A Complete Guide to Quitting Smoking'
-    url: /health-papers/breaking-free-quitting-smoking/
 - term: breakouts
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
@@ -944,28 +872,10 @@
   papers:
   - title: 'Soy Products: A Century of Adventist History and Modern Evidence'
     url: /health-papers/soy-adventist-history-and-modern-evidence/
-- term: Breathing Better
-  papers:
-  - title: Breathing Better
-    url: /health-papers/breathing-better-air-quality/
-- term: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
-  papers:
-  - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
-    url: /health-papers/breathing-better-lung-health/
 - term: breathing exercises
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
-- term: 'Breathing Room: A Practical Guide to Understanding and Managing Asthma'
-  papers:
-  - title: 'Breathing Room: A Practical Guide to Understanding and Managing Asthma'
-    url: /health-papers/breathing-room-asthma/
-- term: 'Breathing Room: A Whole-Person Guide to Understanding and Living Well with
-    Asthma'
-  papers:
-  - title: 'Breathing Room: A Whole-Person Guide to Understanding and Living Well
-      with Asthma'
-    url: /health-papers/breathing-room-whole-person-asthma/
 - term: Bristol stool scale
   papers:
   - title: 'What Your Gut Is Telling You: Understanding and Resolving Diarrhea and
@@ -1015,18 +925,10 @@
     url: /health-papers/butter-and-human-health/
   - title: 'Butter on the Table: Ellen White''s Counsel and the Modern Evidence'
     url: /health-papers/butter-egw-and-modern-evidence/
-- term: 'Butter and Human Health: Separating the Evidence from the Hype'
-  papers:
-  - title: 'Butter and Human Health: Separating the Evidence from the Hype'
-    url: /health-papers/butter-and-human-health/
 - term: butter is back
   papers:
   - title: 'Butter and Human Health: Separating the Evidence from the Hype'
     url: /health-papers/butter-and-human-health/
-- term: 'Butter on the Table: Ellen White''s Counsel and the Modern Evidence'
-  papers:
-  - title: 'Butter on the Table: Ellen White''s Counsel and the Modern Evidence'
-    url: /health-papers/butter-egw-and-modern-evidence/
 - term: butterfly rash
   papers:
   - title: 'Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living
@@ -1069,23 +971,11 @@
     url: /health-papers/complete-guide-to-oxalates/
   - title: 'Understanding Oxalates: A Balanced Guide to What Science Really Shows'
     url: /health-papers/understanding-oxalates/
-- term: 'Calm in the Storm: A Whole-Person Guide to Nervous System Health and Stress
-    Management'
-  papers:
-  - title: 'Calm in the Storm: A Whole-Person Guide to Nervous System Health and Stress
-      Management'
-    url: /health-papers/calm-in-the-storm-stress-management/
 - term: canities
   papers:
   - title: 'Hair Greying: Causes, Implications, and What You Can Do About It'
     url: /health-papers/hair-greying/
 - term: canker sore
-  papers:
-  - title: 'Canker Sores: What’s Really Going On in Your Mouth — and What You Can
-      Do About It'
-    url: /health-papers/canker-sores/
-- term: 'Canker Sores: What’s Really Going On in Your Mouth — and What You Can Do
-    About It'
   papers:
   - title: 'Canker Sores: What’s Really Going On in Your Mouth — and What You Can
       Do About It'
@@ -1144,10 +1034,6 @@
   papers:
   - title: 'Castor Oil Packs: A Health Education Guide for Informed Choices'
     url: /health-papers/castor-oil-packs/
-- term: 'Castor Oil Packs: A Health Education Guide for Informed Choices'
-  papers:
-  - title: 'Castor Oil Packs: A Health Education Guide for Informed Choices'
-    url: /health-papers/castor-oil-packs/
 - term: cataplexy
   papers:
   - title: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
@@ -1196,12 +1082,6 @@
       Helps'
     url: /health-papers/mercury-poisoning/
 - term: chelation therapy
-  papers:
-  - title: 'Chelation Therapy: Understanding Medical Applications, Emerging Research,
-      and Controversial Uses'
-    url: /health-papers/chelation-therapy-guide/
-- term: 'Chelation Therapy: Understanding Medical Applications, Emerging Research,
-    and Controversial Uses'
   papers:
   - title: 'Chelation Therapy: Understanding Medical Applications, Emerging Research,
       and Controversial Uses'
@@ -1291,12 +1171,6 @@
   - title: 'Chronic Lyme Disease, Biotoxins, and CIRS: A Research-Based Guide for
       Health Coaches and Wellness Practitioners'
     url: /health-papers/chronic-lyme-biotoxins-cirs/
-- term: 'Chronic Lyme Disease, Biotoxins, and CIRS: A Research-Based Guide for Health
-    Coaches and Wellness Practitioners'
-  papers:
-  - title: 'Chronic Lyme Disease, Biotoxins, and CIRS: A Research-Based Guide for
-      Health Coaches and Wellness Practitioners'
-    url: /health-papers/chronic-lyme-biotoxins-cirs/
 - term: chronic lymphocytic thyroiditis
   papers:
   - title: 'Hashimoto’s Thyroiditis: What You Need to Know'
@@ -1374,10 +1248,6 @@
   papers:
   - title: 'Detoxification and Cleansing Programs: A Practical, Evidence-Based Guide'
     url: /health-papers/detox-and-cleansing-programs/
-- term: 'Clearing the Load: A Practical Guide to Biotoxin Binders'
-  papers:
-  - title: 'Clearing the Load: A Practical Guide to Biotoxin Binders'
-    url: /health-papers/clearing-the-load-biotoxin-binders/
 - term: clinical depression
   papers:
   - title: 'Lifting the Fog: A Whole-Person Guide to Understanding and Healing Depression'
@@ -1402,10 +1272,6 @@
   papers:
   - title: 'Clothing Choices and Physical Health: A Lifestyle Medicine Perspective'
     url: /health-papers/clothing-choices-and-physical-health/
-- term: 'Clothing Choices and Physical Health: A Lifestyle Medicine Perspective'
-  papers:
-  - title: 'Clothing Choices and Physical Health: A Lifestyle Medicine Perspective'
-    url: /health-papers/clothing-choices-and-physical-health/
 - term: CML
   papers:
   - title: 'Understanding Leukemia: A Health Education Handout for Patients, Families,
@@ -1415,19 +1281,11 @@
   papers:
   - title: 'Coconut Oil: A Balanced Look at What the Science Really Says'
     url: /health-papers/coconut-oil/
-- term: 'Coconut Oil: A Balanced Look at What the Science Really Says'
-  papers:
-  - title: 'Coconut Oil: A Balanced Look at What the Science Really Says'
-    url: /health-papers/coconut-oil/
 - term: coffee
   papers:
   - title: 'Understanding Caffeine: A Health Information Resource'
     url: /health-papers/understanding-caffeine/
 - term: coffee enema
-  papers:
-  - title: 'Coffee Enemas and Colonic Irrigation: What the Science Actually Shows'
-    url: /health-papers/coffee-enemas-colonic-irrigation/
-- term: 'Coffee Enemas and Colonic Irrigation: What the Science Actually Shows'
   papers:
   - title: 'Coffee Enemas and Colonic Irrigation: What the Science Actually Shows'
     url: /health-papers/coffee-enemas-colonic-irrigation/
@@ -1470,14 +1328,6 @@
   papers:
   - title: 'Water as Medicine: A Practical Guide to Hydrotherapy'
     url: /health-papers/hydrotherapy-water-as-medicine/
-- term: 'Cold Water Immersion: An Evidence-Informed Health Handout'
-  papers:
-  - title: 'Cold Water Immersion: An Evidence-Informed Health Handout'
-    url: /health-papers/cold-water-immersion-evidence-handout/
-- term: 'Cold Water Immersion: From Hippocrates to Wim Hof'
-  papers:
-  - title: 'Cold Water Immersion: From Hippocrates to Wim Hof'
-    url: /health-papers/cold-water-immersion/
 - term: Colds
   papers:
   - title: Hydrotherapy for Common Cold Relief
@@ -1663,12 +1513,6 @@
   - title: 'Deep Vein Thrombosis: A Whole-Person Guide to Understanding, Treating,
       and Preventing Blood Clots'
     url: /health-papers/deep-vein-thrombosis/
-- term: 'Deep Vein Thrombosis: A Whole-Person Guide to Understanding, Treating, and
-    Preventing Blood Clots'
-  papers:
-  - title: 'Deep Vein Thrombosis: A Whole-Person Guide to Understanding, Treating,
-      and Preventing Blood Clots'
-    url: /health-papers/deep-vein-thrombosis/
 - term: Deficiency Iron
   papers:
   - title: 'Restless Leg Syndrome: A Compassionate, Current Guide'
@@ -1774,10 +1618,6 @@
   - title: 'The Body’s Natural Detoxification Systems: How Your Body Cleans House
       Every Day'
     url: /health-papers/bodys-natural-detoxification-systems/
-- term: 'Detoxification and Cleansing Programs: A Practical, Evidence-Based Guide'
-  papers:
-  - title: 'Detoxification and Cleansing Programs: A Practical, Evidence-Based Guide'
-    url: /health-papers/detox-and-cleansing-programs/
 - term: DEXA scan
   papers:
   - title: Your Bones Are Not Waiting for You to Notice Them
@@ -1819,10 +1659,6 @@
   - title: 'Fat Intake Levels: Ultra-Low-Fat vs. Moderate Healthy Fats'
     url: /health-papers/fat-intake-guide/
 - term: dietary oxalate
-  papers:
-  - title: 'Dietary Oxalates: A Comprehensive Guide to Navigating the Evidence'
-    url: /health-papers/dietary-oxalates-evidence-guide/
-- term: 'Dietary Oxalates: A Comprehensive Guide to Navigating the Evidence'
   papers:
   - title: 'Dietary Oxalates: A Comprehensive Guide to Navigating the Evidence'
     url: /health-papers/dietary-oxalates-evidence-guide/
@@ -1924,10 +1760,6 @@
   papers:
   - title: 'Breaking Free: A Complete Guide to Quitting Smoking'
     url: /health-papers/breaking-free-quitting-smoking/
-- term: 'Ear Aches: Understanding, Prevention, and Care'
-  papers:
-  - title: 'Ear Aches: Understanding, Prevention, and Care'
-    url: /health-papers/ear-aches/
 - term: ear damage
   papers:
   - title: 'Hearing Loss: What You Need to Know — and What You Can Do About It'
@@ -2005,12 +1837,6 @@
   papers:
   - title: 'Butter on the Table: Ellen White''s Counsel and the Modern Evidence'
     url: /health-papers/butter-egw-and-modern-evidence/
-- term: 'Electrolyte Balance and Imbalance: What Your Body Needs, What Disrupts It,
-    and How to Restore It'
-  papers:
-  - title: 'Electrolyte Balance and Imbalance: What Your Body Needs, What Disrupts
-      It, and How to Restore It'
-    url: /health-papers/electrolyte-balance/
 - term: electrolyte imbalance
   papers:
   - title: 'Electrolyte Balance and Imbalance: What Your Body Needs, What Disrupts
@@ -2028,10 +1854,6 @@
   papers:
   - title: 'Understanding Food Sensitivity Testing: A Balanced Guide'
     url: /health-papers/food-sensitivity-testing-guide/
-- term: 'Ellen G. White on Cheese vs. Modern Science: A Scholarly Reassessment'
-  papers:
-  - title: 'Ellen G. White on Cheese vs. Modern Science: A Scholarly Reassessment'
-    url: /health-papers/egw-cheese-modern-science/
 - term: Ellen White
   papers:
   - title: 'Butter on the Table: Ellen White''s Counsel and the Modern Evidence'
@@ -2092,18 +1914,7 @@
   - title: 'Epstein-Barr Virus: What You Need to Know About Primary Infection and
       Reactivation'
     url: /health-papers/epstein-barr-virus/
-- term: 'Epstein-Barr Virus: What You Need to Know About Primary Infection and Reactivation'
-  papers:
-  - title: 'Epstein-Barr Virus: What You Need to Know About Primary Infection and
-      Reactivation'
-    url: /health-papers/epstein-barr-virus/
 - term: erectile dysfunction
-  papers:
-  - title: 'Erectile Dysfunction: What Every Man (and the People Who Care About Him)
-      Should Know'
-    url: /health-papers/erectile-dysfunction/
-- term: 'Erectile Dysfunction: What Every Man (and the People Who Care About Him)
-    Should Know'
   papers:
   - title: 'Erectile Dysfunction: What Every Man (and the People Who Care About Him)
       Should Know'
@@ -2123,10 +1934,6 @@
   - title: 'Sweet Without Sugar: Understanding the Real Effects of Artificial Sweeteners'
     url: /health-papers/artificial-sweeteners/
 - term: essential oils
-  papers:
-  - title: 'Essential Oils: What You Really Need to Know'
-    url: /health-papers/essential-oils-guide/
-- term: 'Essential Oils: What You Really Need to Know'
   papers:
   - title: 'Essential Oils: What You Really Need to Know'
     url: /health-papers/essential-oils-guide/
@@ -2153,10 +1960,6 @@
     url: /health-papers/living-well-with-essential-tremor/
   - title: 'When Your Hands Won''t Stay Still: Understanding and Addressing Hand Tremors'
     url: /health-papers/hand-tremors-and-shaky-hands/
-- term: Evidence-Based Guide to Alzheimer's Disease Prevention and Cognitive Health
-  papers:
-  - title: Evidence-Based Guide to Alzheimer's Disease Prevention and Cognitive Health
-    url: /health-papers/alzheimers-prevention-guide/
 - term: excessive daytime sleepiness
   papers:
   - title: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
@@ -2217,24 +2020,7 @@
   - title: 'Fasting: A Clear-Eyed Guide to What It Does, What It Doesn''t, and How
       to Think About It'
     url: /health-papers/fasting-clear-eyed-guide/
-- term: 'Fasting: A Clear-Eyed Guide to What It Does, What It Doesn''t, and How to
-    Think About It'
-  papers:
-  - title: 'Fasting: A Clear-Eyed Guide to What It Does, What It Doesn''t, and How
-      to Think About It'
-    url: /health-papers/fasting-benefits-risks-physiology/
-  - title: 'Fasting: A Clear-Eyed Guide to What It Does, What It Doesn''t, and How
-      to Think About It'
-    url: /health-papers/fasting-clear-eyed-guide/
-- term: 'Fat Intake Levels: Ultra-Low-Fat vs. Moderate Healthy Fats'
-  papers:
-  - title: 'Fat Intake Levels: Ultra-Low-Fat vs. Moderate Healthy Fats'
-    url: /health-papers/fat-intake-guide/
 - term: fatigue
-  papers:
-  - title: 'Fatigue: Understanding, Investigating, and Restoring Energy'
-    url: /health-papers/fatigue-restoring-energy/
-- term: 'Fatigue: Understanding, Investigating, and Restoring Energy'
   papers:
   - title: 'Fatigue: Understanding, Investigating, and Restoring Energy'
     url: /health-papers/fatigue-restoring-energy/
@@ -2267,22 +2053,12 @@
   papers:
   - title: Living Beyond Agoraphobia
     url: /health-papers/living-beyond-agoraphobia/
-- term: 'Feet on the Ground: A Clear-Eyed Guide to Earthing and Grounding'
-  papers:
-  - title: 'Feet on the Ground: A Clear-Eyed Guide to Earthing and Grounding'
-    url: /health-papers/feet-on-the-ground-earthing/
 - term: female pattern hair loss
   papers:
   - title: 'When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair
       Health'
     url: /health-papers/when-hair-falls/
 - term: female sexual dysfunction
-  papers:
-  - title: 'Female Sexual Dysfunction: A Guide for Women, Their Partners, and Those
-      Who Support Them'
-    url: /health-papers/female-sexual-dysfunction/
-- term: 'Female Sexual Dysfunction: A Guide for Women, Their Partners, and Those Who
-    Support Them'
   papers:
   - title: 'Female Sexual Dysfunction: A Guide for Women, Their Partners, and Those
       Who Support Them'
@@ -2395,22 +2171,7 @@
   - title: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
       It'
     url: /health-papers/frequent-urination/
-- term: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
-    It'
-  papers:
-  - title: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
-      It'
-    url: /health-papers/frequent-urination/
-- term: 'From Battle Creek to Blue Zones: Soy Products and the Adventist Health Tradition'
-  papers:
-  - title: 'From Battle Creek to Blue Zones: Soy Products and the Adventist Health
-      Tradition'
-    url: /health-papers/battle-creek-to-blue-zones-soy/
 - term: frozen shoulder
-  papers:
-  - title: 'Frozen Shoulder: Understanding, Unthawing, and Moving Forward'
-    url: /health-papers/frozen-shoulder/
-- term: 'Frozen Shoulder: Understanding, Unthawing, and Moving Forward'
   papers:
   - title: 'Frozen Shoulder: Understanding, Unthawing, and Moving Forward'
     url: /health-papers/frozen-shoulder/
@@ -2597,10 +2358,6 @@
   papers:
   - title: 'Hair Greying: Causes, Implications, and What You Can Do About It'
     url: /health-papers/hair-greying/
-- term: 'Hair Greying: Causes, Implications, and What You Can Do About It'
-  papers:
-  - title: 'Hair Greying: Causes, Implications, and What You Can Do About It'
-    url: /health-papers/hair-greying/
 - term: hair loss
   papers:
   - title: Understanding Hair Loss in Men
@@ -2647,10 +2404,6 @@
   papers:
   - title: 'Thyroid Health: A Practical Guide to the Gland That Runs Your Body'
     url: /health-papers/thyroid-health/
-- term: 'Hashimoto’s Thyroiditis: What You Need to Know'
-  papers:
-  - title: 'Hashimoto’s Thyroiditis: What You Need to Know'
-    url: /health-papers/hashimotos-thyroiditis/
 - term: hay fever
   papers:
   - title: 'Allergies: Understanding, Managing, and Living Well with an Overactive
@@ -2671,16 +2424,6 @@
   papers:
   - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
     url: /health-papers/migraines-triggers-root-causes/
-- term: 'Healing from the Inside Out: A Research-Informed Guide to Ulcerative Colitis'
-  papers:
-  - title: 'Healing from the Inside Out: A Research-Informed Guide to Ulcerative Colitis'
-    url: /health-papers/healing-from-inside-out-ulcerative-colitis/
-- term: 'Healing Heel Pain: Your Complete Guide to Understanding and Overcoming Plantar
-    Fasciitis'
-  papers:
-  - title: 'Healing Heel Pain: Your Complete Guide to Understanding and Overcoming
-      Plantar Fasciitis'
-    url: /health-papers/healing-heel-pain-plantar-fasciitis/
 - term: health foundations
   papers:
   - title: '10 Foundations for Lifelong Vitality: A Science-Based Wellness Guide'
@@ -2703,10 +2446,6 @@
     url: /health-papers/sound-of-health-noise-pollution/
   - title: 'Tinnitus: Understanding and Managing the Sound Within'
     url: /health-papers/tinnitus/
-- term: 'Hearing Loss: What You Need to Know — and What You Can Do About It'
-  papers:
-  - title: 'Hearing Loss: What You Need to Know — and What You Can Do About It'
-    url: /health-papers/hearing-loss/
 - term: heart attack
   papers:
   - title: 'Your Heart, Your Future: A Practical Guide to Cardiovascular Health'
@@ -2838,10 +2577,6 @@
     url: /health-papers/acid-reflux-what-your-body-is-trying-to-tell-you/
   - title: 'When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux'
     url: /health-papers/heartburn-reflux-guide/
-- term: High Blood Pressure
-  papers:
-  - title: High Blood Pressure
-    url: /health-papers/high-blood-pressure/
 - term: high blood sugar
   papers:
   - title: 'Living Well With Type 2 Diabetes: A Whole-Person Guide'
@@ -2889,10 +2624,6 @@
   papers:
   - title: HIV — Living Well, Understanding Treatment, and the Role of Lifestyle
     url: /health-papers/hiv-living-well/
-- term: HIV — Living Well, Understanding Treatment, and the Role of Lifestyle
-  papers:
-  - title: HIV — Living Well, Understanding Treatment, and the Role of Lifestyle
-    url: /health-papers/hiv-living-well/
 - term: hives
   papers:
   - title: 'Allergies: Understanding, Managing, and Living Well with an Overactive
@@ -2917,10 +2648,6 @@
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
     url: /health-papers/acne-more-than-skin-deep/
-- term: 'Hormonal Imbalance: A Guide to Your Body’s Messaging System'
-  papers:
-  - title: 'Hormonal Imbalance: A Guide to Your Body’s Messaging System'
-    url: /health-papers/hormonal-imbalance/
 - term: hormone imbalance
   papers:
   - title: 'Hormonal Imbalance: A Guide to Your Body’s Messaging System'
@@ -2976,10 +2703,6 @@
     url: /health-papers/hydrotherapy-for-common-cold-relief/
   - title: 'Water as Medicine: A Practical Guide to Hydrotherapy'
     url: /health-papers/hydrotherapy-water-as-medicine/
-- term: Hydrotherapy for Common Cold Relief
-  papers:
-  - title: Hydrotherapy for Common Cold Relief
-    url: /health-papers/hydrotherapy-for-common-cold-relief/
 - term: hydroxychloroquine
   papers:
   - title: 'Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living
@@ -3034,10 +2757,6 @@
   papers:
   - title: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
     url: /health-papers/narcolepsy-guide/
-- term: 'Hypoglycemia: Understanding, Managing, and Preventing Low Blood Sugar'
-  papers:
-  - title: 'Hypoglycemia: Understanding, Managing, and Preventing Low Blood Sugar'
-    url: /health-papers/hypoglycemia/
 - term: hypomania
   papers:
   - title: 'Bipolar Disorder: Root Causes, Body Systems, and Whole-Person Support'
@@ -3063,12 +2782,6 @@
     url: /health-papers/hashimotos-thyroiditis/
   - title: 'Thyroid Health: A Practical Guide to the Gland That Runs Your Body'
     url: /health-papers/thyroid-health/
-- term: 'Hypothyroidism: Understanding, Supporting, and Living Well with an Underactive
-    Thyroid'
-  papers:
-  - title: 'Hypothyroidism: Understanding, Supporting, and Living Well with an Underactive
-      Thyroid'
-    url: /health-papers/hypothyroidism/
 - term: IBD
   papers:
   - title: 'Healing from the Inside Out: A Research-Informed Guide to Ulcerative Colitis'
@@ -3115,10 +2828,6 @@
     url: /health-papers/immunizations-informed-choices/
   - title: 'Understanding Vaccinations: A Guide to Informed Decision-Making'
     url: /health-papers/understanding-vaccinations/
-- term: 'Immunizations: Making Informed Choices for Your Family'
-  papers:
-  - title: 'Immunizations: Making Informed Choices for Your Family'
-    url: /health-papers/immunizations-informed-choices/
 - term: immunotherapy
   papers:
   - title: 'Melanoma: What You Need to Know'
@@ -3211,10 +2920,6 @@
     url: /health-papers/leaky-gut-calibrated-guide/
   - title: 'Leaky Gut and Intestinal Permeability: What the Science Actually Says'
     url: /health-papers/leaky-gut-what-the-science-says/
-- term: 'Invisible Invaders: What We Know About Microplastics and Your Health'
-  papers:
-  - title: 'Invisible Invaders: What We Know About Microplastics and Your Health'
-    url: /health-papers/invisible-invaders-microplastics/
 - term: iron deficiency
   papers:
   - title: 'Restless Leg Syndrome: A Compassionate, Current Guide'
@@ -3404,14 +3109,6 @@
     url: /health-papers/leaky-gut-what-the-science-says/
   - title: 'Your Gut, Your Health: A Practical Guide to Digestive Wellness'
     url: /health-papers/your-gut-your-health-digestive-wellness/
-- term: 'Leaky Gut and Intestinal Permeability: A Calibrated, Honest Guide'
-  papers:
-  - title: 'Leaky Gut and Intestinal Permeability: A Calibrated, Honest Guide'
-    url: /health-papers/leaky-gut-calibrated-guide/
-- term: 'Leaky Gut and Intestinal Permeability: What the Science Actually Says'
-  papers:
-  - title: 'Leaky Gut and Intestinal Permeability: What the Science Actually Says'
-    url: /health-papers/leaky-gut-what-the-science-says/
 - term: leaky gut syndrome
   papers:
   - title: 'Leaky Gut and Intestinal Permeability: A Calibrated, Honest Guide'
@@ -3442,10 +3139,6 @@
   papers:
   - title: 'Legumes and Nuts: Building Health Through Plant Proteins'
     url: /health-papers/legumes-and-nuts-guide/
-- term: 'Legumes and Nuts: Building Health Through Plant Proteins'
-  papers:
-  - title: 'Legumes and Nuts: Building Health Through Plant Proteins'
-    url: /health-papers/legumes-and-nuts-guide/
 - term: lentils
   papers:
   - title: 'Legumes and Nuts: Building Health Through Plant Proteins'
@@ -3472,10 +3165,6 @@
   papers:
   - title: 'Living Well with Parkinson''s Disease: An Evidence-Based Guide'
     url: /health-papers/living-well-with-parkinsons/
-- term: 'Lifting the Fog: A Whole-Person Guide to Understanding and Healing Depression'
-  papers:
-  - title: 'Lifting the Fog: A Whole-Person Guide to Understanding and Healing Depression'
-    url: /health-papers/lifting-the-fog-depression/
 - term: limb-girdle muscular dystrophy
   papers:
   - title: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
@@ -3532,44 +3221,10 @@
     url: /health-papers/age-spots-liver-spots-sun-spots/
   - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
     url: /health-papers/actinic-keratosis/
-- term: Living Beyond Agoraphobia
-  papers:
-  - title: Living Beyond Agoraphobia
-    url: /health-papers/living-beyond-agoraphobia/
-- term: 'Living Well with Essential Tremor: A Practical Guide for Patients, Families,
-    Coaches, and Community Leaders'
-  papers:
-  - title: 'Living Well with Essential Tremor: A Practical Guide for Patients, Families,
-      Coaches, and Community Leaders'
-    url: /health-papers/living-well-with-essential-tremor/
-- term: 'Living Well with IBS: What the Research Says and What Actually Helps'
-  papers:
-  - title: 'Living Well with IBS: What the Research Says and What Actually Helps'
-    url: /health-papers/living-well-with-ibs/
-- term: 'Living Well with Multiple Sclerosis: A Whole-Person Guide'
-  papers:
-  - title: 'Living Well with Multiple Sclerosis: A Whole-Person Guide'
-    url: /health-papers/living-well-with-multiple-sclerosis/
-- term: 'Living Well with Parkinson''s Disease: An Evidence-Based Guide'
-  papers:
-  - title: 'Living Well with Parkinson''s Disease: An Evidence-Based Guide'
-    url: /health-papers/living-well-with-parkinsons/
-- term: 'Living Well With Type 2 Diabetes: A Whole-Person Guide'
-  papers:
-  - title: 'Living Well With Type 2 Diabetes: A Whole-Person Guide'
-    url: /health-papers/living-well-type-2-diabetes/
-- term: 'Living with Multiple Chemical Sensitivity: A Compassionate, Honest Guide'
-  papers:
-  - title: 'Living with Multiple Chemical Sensitivity: A Compassionate, Honest Guide'
-    url: /health-papers/multiple-chemical-sensitivity/
 - term: longevity
   papers:
   - title: '10 Foundations for Lifelong Vitality: A Science-Based Wellness Guide'
     url: /health-papers/ten-foundations-for-lifelong-vitality/
-- term: 'Looking Closer at Live Blood Analysis: What the Evidence Actually Shows'
-  papers:
-  - title: 'Looking Closer at Live Blood Analysis: What the Evidence Actually Shows'
-    url: /health-papers/live-blood-analysis/
 - term: loss of libido
   papers:
   - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
@@ -3596,10 +3251,6 @@
   - title: 'Female Sexual Dysfunction: A Guide for Women, Their Partners, and Those
       Who Support Them'
     url: /health-papers/female-sexual-dysfunction/
-  - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
-    url: /health-papers/low-libido/
-- term: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
-  papers:
   - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
     url: /health-papers/low-libido/
 - term: low mood
@@ -3684,12 +3335,6 @@
   - title: 'Lyme Disease and Coinfections: What You Need to Know About Ticks, Treatment,
       and Getting Your Life Back'
     url: /health-papers/lyme-disease-and-coinfections/
-- term: 'Lyme Disease and Coinfections: What You Need to Know About Ticks, Treatment,
-    and Getting Your Life Back'
-  papers:
-  - title: 'Lyme Disease and Coinfections: What You Need to Know About Ticks, Treatment,
-      and Getting Your Life Back'
-    url: /health-papers/lyme-disease-and-coinfections/
 - term: lymph flow
   papers:
   - title: 'Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What
@@ -3710,12 +3355,6 @@
   - title: 'Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What
       You Can Do to Support It'
     url: /health-papers/lymphatic-health/
-- term: 'Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What
-    You Can Do to Support It'
-  papers:
-  - title: 'Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What
-      You Can Do to Support It'
-    url: /health-papers/lymphatic-health/
 - term: lymphatic system
   papers:
   - title: 'Lymphatic Health: How Your Body’s Hidden Drainage System Works — and What
@@ -3727,12 +3366,6 @@
       You Can Do to Support It'
     url: /health-papers/lymphatic-health/
 - term: lymphoma
-  papers:
-  - title: 'Lymphoma: What It Is, What the Research Shows, and How to Support Your
-      Body Through It'
-    url: /health-papers/lymphoma/
-- term: 'Lymphoma: What It Is, What the Research Shows, and How to Support Your Body
-    Through It'
   papers:
   - title: 'Lymphoma: What It Is, What the Research Shows, and How to Support Your
       Body Through It'
@@ -3752,10 +3385,6 @@
   - title: 'Malaria: What You Need to Know'
     url: /health-papers/malaria/
 - term: malaria prevention
-  papers:
-  - title: 'Malaria: What You Need to Know'
-    url: /health-papers/malaria/
-- term: 'Malaria: What You Need to Know'
   papers:
   - title: 'Malaria: What You Need to Know'
     url: /health-papers/malaria/
@@ -3812,10 +3441,6 @@
   - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
       Well'
     url: /health-papers/understanding-hives/
-- term: 'Mast Cell Activation Syndrome: What You Need to Know'
-  papers:
-  - title: 'Mast Cell Activation Syndrome: What You Need to Know'
-    url: /health-papers/mast-cell-activation-syndrome/
 - term: mast cell disorder
   papers:
   - title: 'Mast Cell Activation Syndrome: What You Need to Know'
@@ -3888,10 +3513,6 @@
   papers:
   - title: 'Melanoma: What You Need to Know'
     url: /health-papers/melanoma-what-you-need-to-know/
-- term: 'Melanoma: What You Need to Know'
-  papers:
-  - title: 'Melanoma: What You Need to Know'
-    url: /health-papers/melanoma-what-you-need-to-know/
 - term: melasma
   papers:
   - title: 'Age Spots, Liver Spots, Sun Spots: What They Are, Why They Form, and What
@@ -3928,19 +3549,7 @@
   - title: 'Menstrual Cramps and Dysmenorrhea: A Warm, Honest Guide to Understanding
       and Easing Period Pain'
     url: /health-papers/menstrual-cramps-and-dysmenorrhea/
-- term: 'Menstrual Cramps and Dysmenorrhea: A Warm, Honest Guide to Understanding
-    and Easing Period Pain'
-  papers:
-  - title: 'Menstrual Cramps and Dysmenorrhea: A Warm, Honest Guide to Understanding
-      and Easing Period Pain'
-    url: /health-papers/menstrual-cramps-and-dysmenorrhea/
 - term: menstrual health
-  papers:
-  - title: 'Menstrual Health: Making Sense of Heavy Bleeding, Painful Periods, and
-      Cycle Irregularities'
-    url: /health-papers/menstrual-health/
-- term: 'Menstrual Health: Making Sense of Heavy Bleeding, Painful Periods, and Cycle
-    Irregularities'
   papers:
   - title: 'Menstrual Health: Making Sense of Heavy Bleeding, Painful Periods, and
       Cycle Irregularities'
@@ -3972,12 +3581,6 @@
   - title: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
       Helps'
     url: /health-papers/mercury-poisoning/
-- term: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
-    Helps'
-  papers:
-  - title: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
-      Helps'
-    url: /health-papers/mercury-poisoning/
 - term: mercury toxicity
   papers:
   - title: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
@@ -3989,12 +3592,6 @@
       Helps'
     url: /health-papers/mercury-poisoning/
 - term: metabolic syndrome
-  papers:
-  - title: 'Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually
-      Do About It'
-    url: /health-papers/metabolic-syndrome/
-- term: 'Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually
-    Do About It'
   papers:
   - title: 'Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually
       Do About It'
@@ -4032,10 +3629,6 @@
   papers:
   - title: 'Microwaves and Your Health: What the Science Actually Shows'
     url: /health-papers/microwaves-and-your-health/
-- term: 'Microwaves and Your Health: What the Science Actually Shows'
-  papers:
-  - title: 'Microwaves and Your Health: What the Science Actually Shows'
-    url: /health-papers/microwaves-and-your-health/
 - term: migraine
   papers:
   - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
@@ -4045,10 +3638,6 @@
   - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
     url: /health-papers/migraines-triggers-root-causes/
 - term: migraines
-  papers:
-  - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
-    url: /health-papers/migraines-triggers-root-causes/
-- term: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
   papers:
   - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
     url: /health-papers/migraines-triggers-root-causes/
@@ -4138,10 +3727,6 @@
   papers:
   - title: 'Bipolar Disorder: Root Causes, Body Systems, and Whole-Person Support'
     url: /health-papers/bipolar-disorder-whole-person-support/
-- term: 'More Than Just Snoring: A Practical Guide to Sleep Apnea'
-  papers:
-  - title: 'More Than Just Snoring: A Practical Guide to Sleep Apnea'
-    url: /health-papers/more-than-just-snoring-sleep-apnea/
 - term: morning heel pain
   papers:
   - title: 'Healing Heel Pain: Your Complete Guide to Understanding and Overcoming
@@ -4256,10 +3841,6 @@
   papers:
   - title: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
     url: /health-papers/narcolepsy-guide/
-- term: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
-  papers:
-  - title: 'Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally'
-    url: /health-papers/narcolepsy-guide/
 - term: nasal congestion
   papers:
   - title: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
@@ -4294,10 +3875,6 @@
   papers:
   - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
     url: /health-papers/aloe-vera-traditional-to-modern-evidence/
-- term: 'Navigating Carbohydrates: Your Guide to High-Carb and Low-Carb Approaches'
-  papers:
-  - title: 'Navigating Carbohydrates: Your Guide to High-Carb and Low-Carb Approaches'
-    url: /health-papers/navigating-carbohydrates/
 - term: nearsightedness
   papers:
   - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
@@ -4542,10 +4119,6 @@
   papers:
   - title: 'Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches'
     url: /health-papers/ovarian-cysts-evidence-based-approaches/
-- term: 'Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches'
-  papers:
-  - title: 'Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches'
-    url: /health-papers/ovarian-cysts-evidence-based-approaches/
 - term: ovarian torsion
   papers:
   - title: 'Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches'
@@ -4594,10 +4167,6 @@
   - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
     url: /health-papers/ozone-therapy/
 - term: ozone therapy
-  papers:
-  - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
-    url: /health-papers/ozone-therapy/
-- term: 'Ozone Therapy: A Balanced Look at Promise and Peril'
   papers:
   - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
     url: /health-papers/ozone-therapy/
@@ -4927,10 +4496,6 @@
   papers:
   - title: 'Soy Products: A Century of Adventist History and Modern Evidence'
     url: /health-papers/soy-adventist-history-and-modern-evidence/
-- term: 'Prostate Health: What Every Man Should Know'
-  papers:
-  - title: 'Prostate Health: What Every Man Should Know'
-    url: /health-papers/prostate-health/
 - term: prostatitis
   papers:
   - title: 'Prostate Health: What Every Man Should Know'
@@ -4976,12 +4541,6 @@
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
 - term: pyroluria
-  papers:
-  - title: 'Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its
-      Nutritional Connections'
-    url: /health-papers/pyroluria-pyrrole-disorder/
-- term: 'Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its
-    Nutritional Connections'
   papers:
   - title: 'Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its
       Nutritional Connections'
@@ -5044,11 +4603,6 @@
   papers:
   - title: 'Hypoglycemia: Understanding, Managing, and Preventing Low Blood Sugar'
     url: /health-papers/hypoglycemia/
-- term: 'Reclaiming Your Sleep: A Complete Guide to Understanding and Overcoming Insomnia'
-  papers:
-  - title: 'Reclaiming Your Sleep: A Complete Guide to Understanding and Overcoming
-      Insomnia'
-    url: /health-papers/reclaiming-your-sleep-insomnia/
 - term: rectal insufflation
   papers:
   - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
@@ -5100,10 +4654,6 @@
   papers:
   - title: 'Breathing Room: A Practical Guide to Understanding and Managing Asthma'
     url: /health-papers/breathing-room-asthma/
-- term: 'Restless Leg Syndrome: A Compassionate, Current Guide'
-  papers:
-  - title: 'Restless Leg Syndrome: A Compassionate, Current Guide'
-    url: /health-papers/restless-leg-syndrome/
 - term: restless legs syndrome
   papers:
   - title: 'Restless Leg Syndrome: A Compassionate, Current Guide'
@@ -5117,12 +4667,6 @@
   - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
       Helps'
     url: /health-papers/myopia-the-eyes-have-it/
-- term: 'Rewriting Your Blood Sugar Story: Food, Movement, and the Power to Change
-    Type 2 Diabetes'
-  papers:
-  - title: 'Rewriting Your Blood Sugar Story: Food, Movement, and the Power to Change
-      Type 2 Diabetes'
-    url: /health-papers/rewriting-blood-sugar-story-diabetes/
 - term: rheumatoid arthritis
   papers:
   - title: 'Working With Your Joints: A Practical Guide to Managing Arthritis Through
@@ -5156,12 +4700,6 @@
   - title: 'The Itch That Isn''t Worms: Understanding and Overcoming Ringworm (Tinea
       Corporis)'
     url: /health-papers/ringworm-tinea-corporis/
-- term: 'Rising Concerns: A Closer Look at Baking Soda and Baking Powder in Everyday
-    Cooking'
-  papers:
-  - title: 'Rising Concerns: A Closer Look at Baking Soda and Baking Powder in Everyday
-      Cooking'
-    url: /health-papers/baking-soda-powder-rising-concerns/
 - term: RLS
   papers:
   - title: 'Restless Leg Syndrome: A Compassionate, Current Guide'
@@ -5170,10 +4708,6 @@
   papers:
   - title: 'Living Well with IBS: What the Research Says and What Actually Helps'
     url: /health-papers/living-well-with-ibs/
-- term: 'Rooted in Wisdom: An Evidence-Based Guide to Herbal Medicine'
-  papers:
-  - title: 'Rooted in Wisdom: An Evidence-Based Guide to Herbal Medicine'
-    url: /health-papers/rooted-in-wisdom-herbal-medicine/
 - term: rosacea
   papers:
   - title: 'Rosacea: More Than a Blush — Understanding, Managing, and Living Well
@@ -5181,12 +4715,6 @@
     url: /health-papers/rosacea/
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
     url: /health-papers/your-skin-inside-and-out/
-- term: 'Rosacea: More Than a Blush — Understanding, Managing, and Living Well With
-    a Misunderstood Skin Condition'
-  papers:
-  - title: 'Rosacea: More Than a Blush — Understanding, Managing, and Living Well
-      With a Misunderstood Skin Condition'
-    url: /health-papers/rosacea/
 - term: rough skin patches
   papers:
   - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
@@ -5249,10 +4777,6 @@
   - title: 'The Whole Person and the Troubled Mind: A Practical Guide to Lifestyle,
       Biology, and Hope in Depression, Bipolar Disorder, and Schizophrenia'
     url: /health-papers/whole-person-troubled-mind/
-- term: 'Schizophrenia: What Families, Coaches, and Communities Need to Know'
-  papers:
-  - title: 'Schizophrenia: What Families, Coaches, and Communities Need to Know'
-    url: /health-papers/schizophrenia/
 - term: sciatic nerve pain
   papers:
   - title: 'Sciatica: When Your Back Pain Travels'
@@ -5263,10 +4787,6 @@
     url: /health-papers/sciatica/
   - title: Your Spine, Your Discs, and the Surprising Story of How They Heal
     url: /health-papers/slipped-disc-herniation/
-- term: 'Sciatica: When Your Back Pain Travels'
-  papers:
-  - title: 'Sciatica: When Your Back Pain Travels'
-    url: /health-papers/sciatica/
 - term: seed oils
   papers:
   - title: 'Butter and Human Health: Separating the Evidence from the Hype'
@@ -5311,10 +4831,6 @@
   papers:
   - title: 'Shingles: Understanding, Managing, and Recovering from Herpes Zoster'
     url: /health-papers/shingles-herpes-zoster/
-- term: 'Shingles: Understanding, Managing, and Recovering from Herpes Zoster'
-  papers:
-  - title: 'Shingles: Understanding, Managing, and Recovering from Herpes Zoster'
-    url: /health-papers/shingles-herpes-zoster/
 - term: Shoemaker protocol
   papers:
   - title: 'Chronic Lyme Disease, Biotoxins, and CIRS: A Research-Based Guide for
@@ -5343,7 +4859,7 @@
   papers:
   - title: 'When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO'
     url: /health-papers/sibo/
-- term: Sickle Cell Disease
+- term: sickle cell disease
   papers:
   - title: Sickle Cell Disease
     url: /health-papers/sickle-cell-disease/
@@ -5450,10 +4966,6 @@
   papers:
   - title: 'When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO'
     url: /health-papers/sibo/
-- term: 'Smart Choices About Antibiotics: A Balanced Guide'
-  papers:
-  - title: 'Smart Choices About Antibiotics: A Balanced Guide'
-    url: /health-papers/smart-choices-about-antibiotics/
 - term: SMILES trial
   papers:
   - title: 'The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery'
@@ -5542,16 +5054,6 @@
     url: /health-papers/battle-creek-to-blue-zones-soy/
   - title: 'Soy Products: A Century of Adventist History and Modern Evidence'
     url: /health-papers/soy-adventist-history-and-modern-evidence/
-- term: 'Soy Products: A Century of Adventist History and Modern Evidence'
-  papers:
-  - title: 'Soy Products: A Century of Adventist History and Modern Evidence'
-    url: /health-papers/soy-adventist-history-and-modern-evidence/
-- term: 'Soy Products: What the Research Actually Says About Benefits and Phytoestrogen
-    Concerns'
-  papers:
-  - title: 'Soy Products: What the Research Actually Says About Benefits and Phytoestrogen
-      Concerns'
-    url: /health-papers/soy-phytoestrogens-research/
 - term: soy protein
   papers:
   - title: 'From Battle Creek to Blue Zones: Soy Products and the Adventist Health
@@ -5561,10 +5063,6 @@
       Concerns'
     url: /health-papers/soy-phytoestrogens-research/
 - term: spider veins
-  papers:
-  - title: 'Spider Veins Demystified: What Your Legs and Face Are Telling You'
-    url: /health-papers/spider-veins/
-- term: 'Spider Veins Demystified: What Your Legs and Face Are Telling You'
   papers:
   - title: 'Spider Veins Demystified: What Your Legs and Face Are Telling You'
     url: /health-papers/spider-veins/
@@ -5697,16 +5195,6 @@
   - title: 'Sugar Cravings: Why They Happen, What Sugar Does in the Body, and How
       to Work With Your Biology'
     url: /health-papers/sugar-cravings-work-with-your-biology/
-- term: Sugar Cravings, Dangers, and Physiological Effects
-  papers:
-  - title: Sugar Cravings, Dangers, and Physiological Effects
-    url: /health-papers/sugar-cravings-physiological-effects/
-- term: 'Sugar Cravings: Why They Happen, What Sugar Does in the Body, and How to
-    Work With Your Biology'
-  papers:
-  - title: 'Sugar Cravings: Why They Happen, What Sugar Does in the Body, and How
-      to Work With Your Biology'
-    url: /health-papers/sugar-cravings-work-with-your-biology/
 - term: sugar substitutes
   papers:
   - title: 'Sweet Without Sugar: Understanding the Real Effects of Artificial Sweeteners'
@@ -5729,19 +5217,10 @@
   papers:
   - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
     url: /health-papers/actinic-keratosis/
-- term: 'Sweet and Complicated: What Sugar Really Does to Your Body, Brain, and Cravings'
-  papers:
-  - title: 'Sweet and Complicated: What Sugar Really Does to Your Body, Brain, and
-      Cravings'
-    url: /health-papers/sweet-and-complicated-sugar/
 - term: sweet cravings
   papers:
   - title: Sugar Cravings, Dangers, and Physiological Effects
     url: /health-papers/sugar-cravings-physiological-effects/
-- term: 'Sweet Without Sugar: Understanding the Real Effects of Artificial Sweeteners'
-  papers:
-  - title: 'Sweet Without Sugar: Understanding the Real Effects of Artificial Sweeteners'
-    url: /health-papers/artificial-sweeteners/
 - term: swimmer's ear
   papers:
   - title: 'Ear Aches: Understanding, Prevention, and Care'
@@ -5804,80 +5283,6 @@
   papers:
   - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
     url: /health-papers/low-libido/
-- term: 'The Air You Breathe: A Practical Guide to Air Quality and Your Health'
-  papers:
-  - title: 'The Air You Breathe: A Practical Guide to Air Quality and Your Health'
-    url: /health-papers/the-air-you-breathe-air-quality/
-- term: 'The Body’s Natural Detoxification Systems: How Your Body Cleans House Every
-    Day'
-  papers:
-  - title: 'The Body’s Natural Detoxification Systems: How Your Body Cleans House
-      Every Day'
-    url: /health-papers/bodys-natural-detoxification-systems/
-- term: 'The Complete Guide to Oxalates: What Science Says and What You Really Need
-    to Know'
-  papers:
-  - title: 'The Complete Guide to Oxalates: What Science Says and What You Really
-      Need to Know'
-    url: /health-papers/complete-guide-to-oxalates/
-- term: 'The Daniel Fast: A Closer Look at the Science'
-  papers:
-  - title: 'The Daniel Fast: A Closer Look at the Science'
-    url: /health-papers/daniel-fast/
-- term: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
-    Helps'
-  papers:
-  - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
-      Helps'
-    url: /health-papers/myopia-the-eyes-have-it/
-- term: 'The Great Oil Debate: What Science Really Shows'
-  papers:
-  - title: 'The Great Oil Debate: What Science Really Shows'
-    url: /health-papers/the-great-oil-debate/
-- term: 'The Hidden Health Connection: What Your Clothes Are Doing to Your Body and
-    Mind'
-  papers:
-  - title: 'The Hidden Health Connection: What Your Clothes Are Doing to Your Body
-      and Mind'
-    url: /health-papers/clothing-health-guide/
-- term: 'The Itch That Isn''t Worms: Understanding and Overcoming Ringworm (Tinea
-    Corporis)'
-  papers:
-  - title: 'The Itch That Isn''t Worms: Understanding and Overcoming Ringworm (Tinea
-      Corporis)'
-    url: /health-papers/ringworm-tinea-corporis/
-- term: 'The Living Food Revolution: Your Practical Guide to Fermented Foods and Kombucha'
-  papers:
-  - title: 'The Living Food Revolution: Your Practical Guide to Fermented Foods and
-      Kombucha'
-    url: /health-papers/fermented-foods-guide/
-- term: 'The Mask You Didn''t Ask For: Understanding and Managing Melasma'
-  papers:
-  - title: 'The Mask You Didn''t Ask For: Understanding and Managing Melasma'
-    url: /health-papers/melasma/
-- term: 'The Quiet Powerhouse: What Your Liver Does Every Day — and How to Help It'
-  papers:
-  - title: 'The Quiet Powerhouse: What Your Liver Does Every Day — and How to Help
-      It'
-    url: /health-papers/quiet-powerhouse-liver/
-- term: 'The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery'
-  papers:
-  - title: 'The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery'
-    url: /health-papers/roots-of-depression/
-- term: 'The Sound of Health: Understanding Noise Pollution''s Impact on Your Wellbeing'
-  papers:
-  - title: 'The Sound of Health: Understanding Noise Pollution''s Impact on Your Wellbeing'
-    url: /health-papers/sound-of-health-noise-pollution/
-- term: 'The Whole Person and the Troubled Mind: A Practical Guide to Lifestyle, Biology,
-    and Hope in Depression, Bipolar Disorder, and Schizophrenia'
-  papers:
-  - title: 'The Whole Person and the Troubled Mind: A Practical Guide to Lifestyle,
-      Biology, and Hope in Depression, Bipolar Disorder, and Schizophrenia'
-    url: /health-papers/whole-person-troubled-mind/
-- term: 'The Whole Truth About Cheese: Pleasure, Nutrition, and the Fine Print'
-  papers:
-  - title: 'The Whole Truth About Cheese: Pleasure, Nutrition, and the Fine Print'
-    url: /health-papers/whole-truth-about-cheese/
 - term: thinning hair
   papers:
   - title: 'When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair
@@ -5887,10 +5292,6 @@
   papers:
   - title: 'Water Fluoridation: A Balanced Health Guide'
     url: /health-papers/water-fluoridation-guide/
-- term: 'Thyroid Health: A Practical Guide to the Gland That Runs Your Body'
-  papers:
-  - title: 'Thyroid Health: A Practical Guide to the Gland That Runs Your Body'
-    url: /health-papers/thyroid-health/
 - term: thyroid hormone deficiency
   papers:
   - title: 'Hypothyroidism: Understanding, Supporting, and Living Well with an Underactive
@@ -5974,10 +5375,6 @@
   - title: 'The Sound of Health: Understanding Noise Pollution''s Impact on Your Wellbeing'
     url: /health-papers/sound-of-health-noise-pollution/
 - term: tinnitus retraining therapy
-  papers:
-  - title: 'Tinnitus: Understanding and Managing the Sound Within'
-    url: /health-papers/tinnitus/
-- term: 'Tinnitus: Understanding and Managing the Sound Within'
   papers:
   - title: 'Tinnitus: Understanding and Managing the Sound Within'
     url: /health-papers/tinnitus/
@@ -6100,73 +5497,10 @@
     url: /health-papers/hypothyroidism/
   - title: 'Thyroid Health: A Practical Guide to the Gland That Runs Your Body'
     url: /health-papers/thyroid-health/
-- term: 'Understanding Autism and Asperger Syndrome: A Caring Guide for Coaches, Communities,
-    and Families'
-  papers:
-  - title: 'Understanding Autism and Asperger Syndrome: A Caring Guide for Coaches,
-      Communities, and Families'
-    url: /health-papers/autism-and-asperger-syndrome/
-- term: 'Understanding Caffeine: A Health Information Resource'
-  papers:
-  - title: 'Understanding Caffeine: A Health Information Resource'
-    url: /health-papers/understanding-caffeine/
-- term: 'Understanding Food Sensitivity Testing: A Balanced Guide'
-  papers:
-  - title: 'Understanding Food Sensitivity Testing: A Balanced Guide'
-    url: /health-papers/food-sensitivity-testing-guide/
-- term: Understanding Hair Loss in Men
-  papers:
-  - title: Understanding Hair Loss in Men
-    url: /health-papers/hair-loss-in-men/
-- term: 'Understanding Hives: A Practical Guide to Relief, Research, and Living Well'
-  papers:
-  - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
-      Well'
-    url: /health-papers/understanding-hives/
-- term: 'Understanding Leukemia: A Health Education Handout for Patients, Families,
-    and Wellness Professionals'
-  papers:
-  - title: 'Understanding Leukemia: A Health Education Handout for Patients, Families,
-      and Wellness Professionals'
-    url: /health-papers/understanding-leukemia/
-- term: 'Understanding MSG: What It Does in Your Body, Who Responds to It, and What
-    the Science Actually Shows'
-  papers:
-  - title: 'Understanding MSG: What It Does in Your Body, Who Responds to It, and
-      What the Science Actually Shows'
-    url: /health-papers/understanding-msg/
-- term: 'Understanding Neuropathy: A Guide to Nerve Health, Common Causes, and What
-    You Can Do About It'
-  papers:
-  - title: 'Understanding Neuropathy: A Guide to Nerve Health, Common Causes, and
-      What You Can Do About It'
-    url: /health-papers/understanding-neuropathy/
-- term: 'Understanding Oxalates: A Balanced Guide to What Science Really Shows'
-  papers:
-  - title: 'Understanding Oxalates: A Balanced Guide to What Science Really Shows'
-    url: /health-papers/understanding-oxalates/
-- term: 'Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living
-    Well'
-  papers:
-  - title: 'Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living
-      Well'
-    url: /health-papers/systemic-lupus-erythematosus/
-- term: 'Understanding Vaccinations: A Guide to Informed Decision-Making'
-  papers:
-  - title: 'Understanding Vaccinations: A Guide to Informed Decision-Making'
-    url: /health-papers/understanding-vaccinations/
-- term: 'Understanding Weight Loss: What the Science Says and What Actually Works'
-  papers:
-  - title: 'Understanding Weight Loss: What the Science Says and What Actually Works'
-    url: /health-papers/understanding-weight-loss/
 - term: undetectable
   papers:
   - title: HIV — Living Well, Understanding Treatment, and the Role of Lifestyle
     url: /health-papers/hiv-living-well/
-- term: 'Uninvited Guests: A Practical Guide to Parasites and Gut Health'
-  papers:
-  - title: 'Uninvited Guests: A Practical Guide to Parasites and Gut Health'
-    url: /health-papers/uninvited-guests-parasites-and-gut-health/
 - term: urinary frequency
   papers:
   - title: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
@@ -6316,11 +5650,6 @@
   - title: Vitiligo — Understanding, Managing, and Living Well with a Complex Skin
       Condition
     url: /health-papers/vitiligo/
-- term: Vitiligo — Understanding, Managing, and Living Well with a Complex Skin Condition
-  papers:
-  - title: Vitiligo — Understanding, Managing, and Living Well with a Complex Skin
-      Condition
-    url: /health-papers/vitiligo/
 - term: VOCs
   papers:
   - title: Breathing Better
@@ -6349,19 +5678,11 @@
   papers:
   - title: 'When Your Chest Won''t Quit: A Practical Guide to Acute Bronchitis'
     url: /health-papers/acute-bronchitis/
-- term: 'Water as Medicine: A Practical Guide to Hydrotherapy'
-  papers:
-  - title: 'Water as Medicine: A Practical Guide to Hydrotherapy'
-    url: /health-papers/hydrotherapy-water-as-medicine/
 - term: water cure
   papers:
   - title: Hydrotherapy for Common Cold Relief
     url: /health-papers/hydrotherapy-for-common-cold-relief/
 - term: water fluoridation
-  papers:
-  - title: 'Water Fluoridation: A Balanced Health Guide'
-    url: /health-papers/water-fluoridation-guide/
-- term: 'Water Fluoridation: A Balanced Health Guide'
   papers:
   - title: 'Water Fluoridation: A Balanced Health Guide'
     url: /health-papers/water-fluoridation-guide/
@@ -6378,12 +5699,6 @@
   - title: 'When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux'
     url: /health-papers/heartburn-reflux-guide/
 - term: weight cycling
-  papers:
-  - title: Weight Loss — Understanding the Science, the Struggles, and What Actually
-      Works
-    url: /health-papers/weight-loss/
-- term: Weight Loss — Understanding the Science, the Struggles, and What Actually
-    Works
   papers:
   - title: Weight Loss — Understanding the Science, the Struggles, and What Actually
       Works
@@ -6414,29 +5729,6 @@
   - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
       Well'
     url: /health-papers/understanding-hives/
-- term: 'What Alcohol Really Does to Your Body: A Science-Based Guide'
-  papers:
-  - title: 'What Alcohol Really Does to Your Body: A Science-Based Guide'
-    url: /health-papers/alcohol-health-science-guide/
-- term: What Are These Lumps, Anyway? A Plain-Language Guide to Lipomas
-  papers:
-  - title: What Are These Lumps, Anyway? A Plain-Language Guide to Lipomas
-    url: /health-papers/lipomas/
-- term: What Your Blood Type Can (and Can't) Tell You About Your Diet
-  papers:
-  - title: What Your Blood Type Can (and Can't) Tell You About Your Diet
-    url: /health-papers/blood-type-diet/
-- term: 'What Your Gut Is Telling You: Understanding and Resolving Diarrhea and Constipation'
-  papers:
-  - title: 'What Your Gut Is Telling You: Understanding and Resolving Diarrhea and
-      Constipation'
-    url: /health-papers/what-your-gut-is-telling-you/
-- term: What's Really Rising in Your Bread? A Closer Look at Baking Soda and Baking
-    Powder
-  papers:
-  - title: What's Really Rising in Your Bread? A Closer Look at Baking Soda and Baking
-      Powder
-    url: /health-papers/baking-soda-baking-powder-handout/
 - term: wheals
   papers:
   - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
@@ -6451,79 +5743,6 @@
   papers:
   - title: 'Breathing Room: A Practical Guide to Understanding and Managing Asthma'
     url: /health-papers/breathing-room-asthma/
-- term: 'When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair Health'
-  papers:
-  - title: 'When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair
-      Health'
-    url: /health-papers/when-hair-falls/
-- term: 'When Hours Matter: Understanding Meningitis'
-  papers:
-  - title: 'When Hours Matter: Understanding Meningitis'
-    url: /health-papers/meningitis-when-hours-matter/
-- term: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
-  papers:
-  - title: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
-    url: /health-papers/muscular-dystrophy/
-- term: 'When Sleep Won''t Let Go: Understanding Sleep Paralysis'
-  papers:
-  - title: 'When Sleep Won''t Let Go: Understanding Sleep Paralysis'
-    url: /health-papers/sleep-paralysis/
-- term: 'When Tests Say "Normal" But Bodies Say Otherwise: The Science of Mold Sensitivity
-    and Testing Limitations'
-  papers:
-  - title: 'When Tests Say "Normal" But Bodies Say Otherwise: The Science of Mold
-      Sensitivity and Testing Limitations'
-    url: /health-papers/mold-sensitivity-testing-guide/
-- term: 'When the Body Says "Yes": A Biblical Response to Applied Kinesiology'
-  papers:
-  - title: 'When the Body Says "Yes": A Biblical Response to Applied Kinesiology'
-    url: /health-papers/applied-kinesiology-biblical-response/
-- term: 'When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux'
-  papers:
-  - title: 'When the Fire Rises: A Whole-Person Guide to Calming Heartburn and Reflux'
-    url: /health-papers/heartburn-reflux-guide/
-- term: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
-  papers:
-  - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
-    url: /health-papers/actinic-keratosis/
-- term: 'When Your Blood Pressure Runs Low: Understanding, Managing, and Thriving
-    with Hypotension'
-  papers:
-  - title: 'When Your Blood Pressure Runs Low: Understanding, Managing, and Thriving
-      with Hypotension'
-    url: /health-papers/when-your-blood-pressure-runs-low-hypotension/
-- term: 'When Your Body Runs Too Hot: Understanding and Living Well with Hyperthyroidism'
-  papers:
-  - title: 'When Your Body Runs Too Hot: Understanding and Living Well with Hyperthyroidism'
-    url: /health-papers/when-your-body-runs-too-hot-hyperthyroidism/
-- term: 'When Your Body Won’t Reset: Understanding Chronic Stress, the HPA Axis, and
-    the Science of Recovery'
-  papers:
-  - title: 'When Your Body Won’t Reset: Understanding Chronic Stress, the HPA Axis,
-      and the Science of Recovery'
-    url: /health-papers/when-your-body-wont-reset-hpa-axis/
-- term: 'When Your Chest Won''t Quit: A Practical Guide to Acute Bronchitis'
-  papers:
-  - title: 'When Your Chest Won''t Quit: A Practical Guide to Acute Bronchitis'
-    url: /health-papers/acute-bronchitis/
-- term: 'When Your Feet Feel Like They’re on Fire: Understanding, Treating, and Living
-    with Burning Feet'
-  papers:
-  - title: 'When Your Feet Feel Like They’re on Fire: Understanding, Treating, and
-      Living with Burning Feet'
-    url: /health-papers/when-your-feet-feel-like-theyre-on-fire/
-- term: 'When Your Hands Won''t Stay Still: Understanding and Addressing Hand Tremors'
-  papers:
-  - title: 'When Your Hands Won''t Stay Still: Understanding and Addressing Hand Tremors'
-    url: /health-papers/hand-tremors-and-shaky-hands/
-- term: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
-  papers:
-  - title: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
-    url: /health-papers/sinus-congestion-infection/
-- term: 'When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO'
-  papers:
-  - title: 'When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO'
-    url: /health-papers/sibo/
 - term: Whipple's triad
   papers:
   - title: 'Hypoglycemia: Understanding, Managing, and Preventing Low Blood Sugar'
@@ -6556,12 +5775,6 @@
     url: /health-papers/cold-water-immersion-evidence-handout/
   - title: 'Cold Water Immersion: From Hippocrates to Wim Hof'
     url: /health-papers/cold-water-immersion/
-- term: 'Working With Your Joints: A Practical Guide to Managing Arthritis Through
-    Diet, Movement, and Daily Habits'
-  papers:
-  - title: 'Working With Your Joints: A Practical Guide to Managing Arthritis Through
-      Diet, Movement, and Daily Habits'
-    url: /health-papers/working-with-your-joints-arthritis/
 - term: worms
   papers:
   - title: 'Uninvited Guests: A Practical Guide to Parasites and Gut Health'
@@ -6575,52 +5788,6 @@
   papers:
   - title: 'Essential Oils: What You Really Need to Know'
     url: /health-papers/essential-oils-guide/
-- term: Your Bones Are Not Waiting for You to Notice Them
-  papers:
-  - title: Your Bones Are Not Waiting for You to Notice Them
-    url: /health-papers/your-bones-osteoporosis/
-- term: 'Your Guide to Probiotics: Supporting Gut Health Through Science and Wisdom'
-  papers:
-  - title: 'Your Guide to Probiotics: Supporting Gut Health Through Science and Wisdom'
-    url: /health-papers/probiotics-gut-health/
-- term: 'Your Gut, Your Health: A Practical Guide to Digestive Wellness'
-  papers:
-  - title: 'Your Gut, Your Health: A Practical Guide to Digestive Wellness'
-    url: /health-papers/your-gut-your-health-digestive-wellness/
-- term: 'Your Hands Are Talking: A Practical Guide to Understanding and Living Well
-    with Carpal Tunnel Syndrome'
-  papers:
-  - title: 'Your Hands Are Talking: A Practical Guide to Understanding and Living
-      Well with Carpal Tunnel Syndrome'
-    url: /health-papers/your-hands-are-talking-carpal-tunnel/
-- term: 'Your Heart, Your Future: A Practical Guide to Cardiovascular Health'
-  papers:
-  - title: 'Your Heart, Your Future: A Practical Guide to Cardiovascular Health'
-    url: /health-papers/your-heart-your-future-cardiovascular-health/
-- term: 'Your Liver Has Something to Say: Understanding and Reversing Fatty Liver
-    Disease'
-  papers:
-  - title: 'Your Liver Has Something to Say: Understanding and Reversing Fatty Liver
-      Disease'
-    url: /health-papers/fatty-liver-disease/
-- term: 'Your Liver, Your Ally: A Practical Guide to Living Well With Hepatitis'
-  papers:
-  - title: 'Your Liver, Your Ally: A Practical Guide to Living Well With Hepatitis'
-    url: /health-papers/your-liver-your-ally-hepatitis/
-- term: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
-  papers:
-  - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
-    url: /health-papers/your-skin-inside-and-out/
-- term: Your Spine, Your Discs, and the Surprising Story of How They Heal
-  papers:
-  - title: Your Spine, Your Discs, and the Surprising Story of How They Heal
-    url: /health-papers/slipped-disc-herniation/
-- term: 'Your Urinary Health: A Complete Guide to Prevention, UTIs, and Long-Term
-    Wellness'
-  papers:
-  - title: 'Your Urinary Health: A Complete Guide to Prevention, UTIs, and Long-Term
-      Wellness'
-    url: /health-papers/urinary-health-and-utis/
 - term: zinc deficiency
   papers:
   - title: 'Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its

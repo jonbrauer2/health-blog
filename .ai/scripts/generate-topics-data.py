@@ -42,10 +42,11 @@ def load_papers():
 
 def build_terms(papers):
     # key: lowercased term -> {"term": display form, "entries": [{"title","url"}]}
+    # Note: deliberately aliases only, not paper titles — the topic index is
+    # for symptoms/common names you'd search by, not a second list of titles.
     terms = {}
     for paper in papers:
-        candidates = [paper["title"]] + list(paper["aliases"])
-        for term in candidates:
+        for term in paper["aliases"]:
             term = term.strip()
             if not term:
                 continue
