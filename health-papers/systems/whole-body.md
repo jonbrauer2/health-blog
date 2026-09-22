@@ -9,7 +9,7 @@ exclude_from_papers: true
 
 Fatigue, 10 foundations, weight loss, chronic Lyme/CIRS, MCS
 
-[← All health papers](/health-papers/)
+[← All health papers]({{ "/health-papers/" | relative_url }})
 
 {% assign papers = site.pages | where_exp: "p", "p.path contains 'health-papers/'" | where_exp: "p", "p.exclude_from_papers != true" | where_exp: "p", "p.systems contains 'whole-body'" | sort: "title" %}
 {% if papers.size == 0 %}

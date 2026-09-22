@@ -9,7 +9,7 @@ exclude_from_papers: true
 
 Parkinson's, MS, neuropathy, migraines, essential tremor, carpal tunnel
 
-[← All health papers](/health-papers/)
+[← All health papers]({{ "/health-papers/" | relative_url }})
 
 {% assign papers = site.pages | where_exp: "p", "p.path contains 'health-papers/'" | where_exp: "p", "p.exclude_from_papers != true" | where_exp: "p", "p.systems contains 'neurological'" | sort: "title" %}
 {% if papers.size == 0 %}

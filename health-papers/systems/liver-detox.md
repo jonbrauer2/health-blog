@@ -9,7 +9,7 @@ exclude_from_papers: true
 
 Fatty liver, hepatitis, the liver, natural detox systems, binders
 
-[← All health papers](/health-papers/)
+[← All health papers]({{ "/health-papers/" | relative_url }})
 
 {% assign papers = site.pages | where_exp: "p", "p.path contains 'health-papers/'" | where_exp: "p", "p.exclude_from_papers != true" | where_exp: "p", "p.systems contains 'liver-detox'" | sort: "title" %}
 {% if papers.size == 0 %}

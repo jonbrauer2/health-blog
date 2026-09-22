@@ -2,4 +2,4 @@
 layout: null
 sitemap: false
 ---
-{{ site.data.topics | jsonify }}
+[{% for t in site.data.topics %}{"term":{{ t.term | jsonify }},"papers":[{% for p in t.papers %}{"title":{{ p.title | jsonify }},"url":{{ p.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]}{% unless forloop.last %},{% endunless %}{% endfor %}]

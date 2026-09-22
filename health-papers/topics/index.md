@@ -10,7 +10,7 @@ An A–Z index of terms, symptoms, and common names covered across the health
 papers — useful when you don't know the "official" name for what you're
 looking for. Click a term to see its paper(s).
 
-[← All health papers](/health-papers/)
+[← All health papers]({{ "/health-papers/" | relative_url }})
 
 {% assign topics = site.data.topics %}
 {% assign grouped = topics | group_by_exp: "t", "t.term | slice: 0, 1 | upcase" %}

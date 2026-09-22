@@ -9,7 +9,7 @@ exclude_from_papers: true
 
 Lupus, Hashimoto's, allergies, MCAS, vaccines, HIV
 
-[← All health papers](/health-papers/)
+[← All health papers]({{ "/health-papers/" | relative_url }})
 
 {% assign papers = site.pages | where_exp: "p", "p.path contains 'health-papers/'" | where_exp: "p", "p.exclude_from_papers != true" | where_exp: "p", "p.systems contains 'immune'" | sort: "title" %}
 {% if papers.size == 0 %}

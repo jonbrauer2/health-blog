@@ -9,7 +9,7 @@ Evidence-based health guides written for coaches, ministry leaders, and curious 
 
 ## Content Sections
 
-### [📄 Health Papers](/health-blog/health-papers/)
+### [📄 Health Papers]({{ "/health-papers/" | relative_url }})
 Long-form, reference-rich health guides on topics like diabetes, depression, hydrotherapy, nutrition, and more. Each paper includes citations, practical takeaways, and a full-text search across the entire collection.
 
 ---
