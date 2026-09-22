@@ -67,6 +67,14 @@
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
     url: /health-papers/acne-more-than-skin-deep/
+- term: acrochordon
+  papers:
+  - title: 'Skin Tags: What They''re Telling You and What You Can Do About It'
+    url: /health-papers/skin-tags/
+- term: acrochordons
+  papers:
+  - title: 'Skin Tags: What They''re Telling You and What You Can Do About It'
+    url: /health-papers/skin-tags/
 - term: Actinic Keratosis
   papers:
   - title: 'When the Sun Leaves Its Mark: Understanding and Managing Actinic Keratosis'
@@ -483,6 +491,10 @@
   - title: 'Understanding Autism and Asperger Syndrome: A Caring Guide for Coaches,
       Communities, and Families'
     url: /health-papers/autism-and-asperger-syndrome/
+- term: aspiration pneumonia
+  papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
 - term: asthma
   papers:
   - title: 'Breathing Room: A Practical Guide to Understanding and Managing Asthma'
@@ -536,6 +548,10 @@
   papers:
   - title: 'Ozone Therapy: A Balanced Look at Promise and Peril'
     url: /health-papers/ozone-therapy/
+- term: autoimmune
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: autoimmune disease
   papers:
   - title: 'Living Well with Multiple Sclerosis: A Whole-Person Guide'
@@ -624,6 +640,11 @@
   papers:
   - title: 'Acid Reflux: What Your Body Is Trying to Tell You'
     url: /health-papers/acid-reflux-what-your-body-is-trying-to-tell-you/
+- term: basal metabolic rate
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
 - term: beans
   papers:
   - title: 'Legumes and Nuts: Building Health Through Plant Proteins'
@@ -801,6 +822,11 @@
   papers:
   - title: What Your Blood Type Can (and Can't) Tell You About Your Diet
     url: /health-papers/blood-type-diet/
+- term: BMR
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
 - term: bone density
   papers:
   - title: Your Bones Are Not Waiting for You to Notice Them
@@ -1110,6 +1136,8 @@
     url: /health-papers/acute-bronchitis/
 - term: chest infection
   papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
   - title: 'When Your Chest Won''t Quit: A Practical Guide to Acute Bronchitis'
     url: /health-papers/acute-bronchitis/
 - term: chickenpox virus
@@ -1359,6 +1387,10 @@
   papers:
   - title: Hydrotherapy for Common Cold Relief
     url: /health-papers/hydrotherapy-for-common-cold-relief/
+- term: community-acquired pneumonia
+  papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
 - term: compression garments
   papers:
   - title: 'Clothing Choices and Physical Health: A Lifestyle Medicine Perspective'
@@ -1440,6 +1472,10 @@
   - title: 'Your Hands Are Talking: A Practical Guide to Understanding and Living
       Well with Carpal Tunnel Syndrome'
     url: /health-papers/your-hands-are-talking-carpal-tunnel/
+- term: cutaneous papilloma
+  papers:
+  - title: 'Skin Tags: What They''re Telling You and What You Can Do About It'
+    url: /health-papers/skin-tags/
 - term: CVI
   papers:
   - title: 'Spider Veins Demystified: What Your Legs and Face Are Telling You'
@@ -1721,6 +1757,14 @@
     url: /health-papers/alcohol-health-current-research/
   - title: 'What Alcohol Really Does to Your Body: A Science-Based Guide'
     url: /health-papers/alcohol-health-science-guide/
+- term: dry eye syndrome
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
+- term: dry mouth
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: Duchenne muscular dystrophy
   papers:
   - title: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
@@ -2090,6 +2134,10 @@
     url: /health-papers/what-your-gut-is-telling-you/
   - title: 'Your Gut, Your Health: A Practical Guide to Digestive Wellness'
     url: /health-papers/your-gut-your-health-digestive-wellness/
+- term: fibroepithelial polyp
+  papers:
+  - title: 'Skin Tags: What They''re Telling You and What You Can Do About It'
+    url: /health-papers/skin-tags/
 - term: Fibroids
   papers:
   - title: 'Menstrual Health: Making Sense of Heavy Bleeding, Painful Periods, and
@@ -2988,6 +3036,10 @@
   - title: 'The Living Food Revolution: Your Practical Guide to Fermented Foods and
       Kombucha'
     url: /health-papers/fermented-foods-guide/
+- term: keratoconjunctivitis sicca
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: keto
   papers:
   - title: 'Navigating Carbohydrates: Your Guide to High-Carb and Low-Carb Approaches'
@@ -3311,6 +3363,10 @@
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
+- term: lung infection
+  papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
 - term: lupus
   papers:
   - title: 'Understanding Systemic Lupus Erythematosus: A Whole-Person Guide to Living
@@ -3591,6 +3647,16 @@
   - title: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
       Helps'
     url: /health-papers/mercury-poisoning/
+- term: metabolic adaptation
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
+- term: metabolic rate
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
 - term: metabolic syndrome
   papers:
   - title: 'Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually
@@ -4388,6 +4454,10 @@
   - title: 'Menstrual Cramps and Dysmenorrhea: A Warm, Honest Guide to Understanding
       and Easing Period Pain'
     url: /health-papers/menstrual-cramps-and-dysmenorrhea/
+- term: pneumococcal pneumonia
+  papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
 - term: Polycystic Ovary Syndrome
   papers:
   - title: 'Hormonal Imbalance: A Guide to Your Body’s Messaging System'
@@ -4855,10 +4925,18 @@
   papers:
   - title: 'Frozen Shoulder: Understanding, Unthawing, and Moving Forward'
     url: /health-papers/frozen-shoulder/
+- term: sialadenitis
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: SIBO
   papers:
   - title: 'When Your Small Intestine Has the Wrong Neighbors: Understanding SIBO'
     url: /health-papers/sibo/
+- term: Sicca syndrome
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: sickle cell disease
   papers:
   - title: Sickle Cell Disease
@@ -4891,6 +4969,10 @@
   papers:
   - title: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
     url: /health-papers/sinus-congestion-infection/
+- term: Sjogren's syndrome
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: skin aging
   papers:
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
@@ -4916,6 +4998,10 @@
   papers:
   - title: 'Melanoma: What You Need to Know'
     url: /health-papers/melanoma-what-you-need-to-know/
+- term: skin tag removal
+  papers:
+  - title: 'Skin Tags: What They''re Telling You and What You Can Do About It'
+    url: /health-papers/skin-tags/
 - term: skincare
   papers:
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
@@ -4954,6 +5040,11 @@
     url: /health-papers/sciatica/
   - title: Your Spine, Your Discs, and the Surprising Story of How They Heal
     url: /health-papers/slipped-disc-herniation/
+- term: slow metabolism
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
 - term: small fiber neuropathy
   papers:
   - title: 'Understanding Neuropathy: A Guide to Nerve Health, Common Causes, and
@@ -5676,6 +5767,8 @@
     url: /health-papers/sleep-paralysis/
 - term: walking pneumonia
   papers:
+  - title: 'Understanding Pneumonia: Prevention, Recovery, and Whole-Person Care'
+    url: /health-papers/pneumonia/
   - title: 'When Your Chest Won''t Quit: A Practical Guide to Acute Bronchitis'
     url: /health-papers/acute-bronchitis/
 - term: water cure
@@ -5707,6 +5800,11 @@
   papers:
   - title: 'Understanding Weight Loss: What the Science Says and What Actually Works'
     url: /health-papers/understanding-weight-loss/
+- term: weight plateau
+  papers:
+  - title: Why Is My Metabolism So Slow? Understanding, Assessing, and Reviving Your
+      Body's Engine
+    url: /health-papers/slow-metabolism/
 - term: weight regain
   papers:
   - title: 'Understanding Weight Loss: What the Science Says and What Actually Works'
@@ -5784,6 +5882,10 @@
   - title: 'Your Hands Are Talking: A Practical Guide to Understanding and Living
       Well with Carpal Tunnel Syndrome'
     url: /health-papers/your-hands-are-talking-carpal-tunnel/
+- term: xerostomia
+  papers:
+  - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
+    url: /health-papers/sjogrens-syndrome/
 - term: Young Living
   papers:
   - title: 'Essential Oils: What You Really Need to Know'
