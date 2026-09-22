@@ -64,6 +64,13 @@ More papers coming soon.
   #hp-groups h3 { margin-bottom: 0.3em; }
   #hp-groups .hp-group { margin-bottom: 1.2em; }
   .hp-kind-tag { font-size: 0.75em; color: #888; margin-left: 0.4em; }
+  #hp-topic-matches { margin-bottom: 1em; }
+  #hp-topic-matches h4 { margin: 0 0 0.3em; font-size: 0.85em; color: #666; text-transform: uppercase; letter-spacing: 0.03em; }
+  .hp-topic { margin: 0; padding: 0.15em 0; border-bottom: 1px solid #eee; }
+  .hp-topic summary { cursor: pointer; font-size: 0.9em; }
+  .hp-topic summary:hover { color: #000; }
+  .hp-topic ul { margin: 0.2em 0 0.4em 1.4em; padding: 0; }
+  .hp-topic li { margin: 0; }
 </style>
 
 <script>
@@ -81,6 +88,7 @@ More papers coming soon.
   var lunrIndex = null;
   var docsById = null;
   var allDocs = null;
+  var allTopics = null;
   var activeSystem = '';
   var activeKind = '';
   var activeLens = '';
@@ -184,15 +192,23 @@ More papers coming soon.
   function loadDocs() {
     if (state === 'ready' || state === 'loading') return;
     state = 'loading';
-    fetch({{ "/health-papers/search-index.json" | relative_url | jsonify }})
-      .then(function (r) {
+    Promise.all([
+      fetch({{ "/health-papers/search-index.json" | relative_url | jsonify }}).then(function (r) {
         if (!r.ok) throw new Error('index fetch failed: ' + r.status);
         return r.json();
+      }),
+      fetch({{ "/health-papers/topics-index.json" | relative_url | jsonify }}).then(function (r) {
+        if (!r.ok) throw new Error('topics fetch failed: ' + r.status);
+        return r.json();
+      }).catch(function (err) {
+        console.error(err);
+        return [];
       })
-      .then(function (docs) {
-        allDocs = docs;
+    ]).then(function (results) {
+        allDocs = results[0];
+        allTopics = results[1];
         docsById = {};
-        docs.forEach(function (d) { docsById[d.i] = d; });
+        allDocs.forEach(function (d) { docsById[d.i] = d; });
         state = 'ready';
         renderGroups();
         applyFilters();
@@ -203,6 +219,27 @@ More papers coming soon.
         state = 'error';
         console.error(err);
       });
+  }
+
+  function renderTopicMatches(q) {
+    if (!allTopics) return '';
+    var lower = q.toLowerCase();
+    var matches = allTopics.filter(function (t) { return t.term.toLowerCase().indexOf(lower) !== -1; });
+    matches.sort(function (a, b) {
+      var aStarts = a.term.toLowerCase().indexOf(lower) === 0 ? 0 : 1;
+      var bStarts = b.term.toLowerCase().indexOf(lower) === 0 ? 0 : 1;
+      if (aStarts !== bStarts) return aStarts - bStarts;
+      return a.term.localeCompare(b.term);
+    });
+    matches = matches.slice(0, 8);
+    if (!matches.length) return '';
+    var items = matches.map(function (t) {
+      var papers = t.papers.map(function (p) {
+        return '<li><a href="' + escapeHtml(p.url) + '">' + escapeHtml(p.title) + '</a></li>';
+      }).join('');
+      return '<details class="hp-topic"><summary>' + escapeHtml(t.term) + ' (' + t.papers.length + ')</summary><ul>' + papers + '</ul></details>';
+    }).join('');
+    return '<div id="hp-topic-matches"><h4>Topics</h4>' + items + '</div>';
   }
 
   function ensureLunr() {
@@ -236,36 +273,47 @@ More papers coming soon.
       showBrowse(state === 'ready' ? 'groups' : 'list');
       return;
     }
-    if (lunrState !== 'ready') return;
-
-    var hits = [];
-    try {
-      hits = lunrIndex.search(q);
-    } catch (e) {
-      try {
-        var soft = q.split(/\s+/).map(function (t) {
-          return t.replace(/[^\wÀ-￿]/g, '') + '*';
-        }).filter(Boolean).join(' ');
-        if (soft) hits = lunrIndex.search(soft);
-      } catch (e2) { hits = []; }
-    }
 
     groups.hidden = true;
     list.hidden = true;
     results.hidden = false;
 
-    if (!hits.length) {
-      results.innerHTML = '<p><em>No matches for &ldquo;' + escapeHtml(q) + '&rdquo;.</em></p>';
-      return;
+    var topicsHtml = state === 'ready' ? renderTopicMatches(q) : '';
+    var papersHtml;
+
+    if (lunrState === 'ready') {
+      var hits = [];
+      try {
+        hits = lunrIndex.search(q);
+      } catch (e) {
+        try {
+          var soft = q.split(/\s+/).map(function (t) {
+            return t.replace(/[^\wÀ-￿]/g, '') + '*';
+          }).filter(Boolean).join(' ');
+          if (soft) hits = lunrIndex.search(soft);
+        } catch (e2) { hits = []; }
+      }
+      if (!hits.length) {
+        papersHtml = '<p><em>No matches for &ldquo;' + escapeHtml(q) + '&rdquo;.</em></p>';
+      } else {
+        papersHtml = '<ol>';
+        hits.forEach(function (h) {
+          var d = docsById[h.ref];
+          if (d) papersHtml += '<li><a href="' + escapeHtml(d.u) + '">' + escapeHtml(d.t) + '</a></li>';
+        });
+        papersHtml += '</ol>';
+      }
+    } else if (lunrState === 'error') {
+      papersHtml = '';
+    } else {
+      papersHtml = '<p><em>Loading full-text search…</em></p>';
     }
 
-    var html = '<ol>';
-    hits.forEach(function (h) {
-      var d = docsById[h.ref];
-      if (d) html += '<li><a href="' + escapeHtml(d.u) + '">' + escapeHtml(d.t) + '</a></li>';
-    });
-    html += '</ol>';
-    results.innerHTML = html;
+    if (!topicsHtml && !papersHtml) {
+      results.innerHTML = '<p><em>No matches for &ldquo;' + escapeHtml(q) + '&rdquo;.</em></p>';
+    } else {
+      results.innerHTML = topicsHtml + papersHtml;
+    }
   }
 
   document.addEventListener('click', function (e) {
@@ -287,8 +335,8 @@ More papers coming soon.
 
   input.addEventListener('focus', ensureLunr);
   input.addEventListener('input', function () {
-    if (lunrState === 'ready') runSearch();
-    else if (lunrState === 'idle') ensureLunr();
+    if (lunrState === 'idle') ensureLunr();
+    runSearch();
   });
 
   loadDocs();
