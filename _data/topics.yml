@@ -36,6 +36,10 @@
   papers:
   - title: What Your Blood Type Can (and Can't) Tell You About Your Diet
     url: /health-papers/blood-type-diet/
+- term: absence seizure
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
 - term: acemannan
   papers:
   - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
@@ -769,6 +773,14 @@
   - title: 'Your Urinary Health: A Complete Guide to Prevention, UTIs, and Long-Term
       Wellness'
     url: /health-papers/urinary-health-and-utis/
+- term: blepharitis
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
+- term: blepharospasm
+  papers:
+  - title: 'The Jumping Eyelid: Understanding Eye Twitches and How to Calm Them'
+    url: /health-papers/eye-twitches/
 - term: bliss point
   papers:
   - title: 'Sweet and Complicated: What Sugar Really Does to Your Body, Brain, and
@@ -1423,6 +1435,10 @@
   papers:
   - title: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
     url: /health-papers/sinus-congestion-infection/
+- term: conjunctivitis
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
 - term: constipation
   papers:
   - title: 'What Your Gut Is Telling You: Understanding and Resolving Diarrhea and
@@ -1996,6 +2012,14 @@
   papers:
   - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
     url: /health-papers/epididymitis/
+- term: epilepsy
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
+- term: epileptic seizure
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
 - term: EPS matrix
   papers:
   - title: Biofilms and Biofilm Disruptors
@@ -2072,6 +2096,18 @@
   papers:
   - title: 'The Great Oil Debate: What Science Really Shows'
     url: /health-papers/the-great-oil-debate/
+- term: eye floaters
+  papers:
+  - title: 'Eye Floaters: What Those Drifting Spots Mean and What Might Help'
+    url: /health-papers/eye-floaters/
+- term: eye twitch
+  papers:
+  - title: 'The Jumping Eyelid: Understanding Eye Twitches and How to Calm Them'
+    url: /health-papers/eye-twitches/
+- term: eyelid myokymia
+  papers:
+  - title: 'The Jumping Eyelid: Understanding Eye Twitches and How to Calm Them'
+    url: /health-papers/eye-twitches/
 - term: facial redness
   papers:
   - title: 'Rosacea: More Than a Blush — Understanding, Managing, and Living Well
@@ -2199,6 +2235,10 @@
   - title: 'Mercury Poisoning: What You Need to Know, Who''s at Risk, and What Actually
       Helps'
     url: /health-papers/mercury-poisoning/
+- term: flashes of light
+  papers:
+  - title: 'Eye Floaters: What Those Drifting Spots Mean and What Might Help'
+    url: /health-papers/eye-floaters/
 - term: flavor enhancer
   papers:
   - title: 'Understanding MSG: What It Does in Your Body, Who Responds to It, and
@@ -2225,6 +2265,10 @@
   papers:
   - title: 'Mast Cell Activation Syndrome: What You Need to Know'
     url: /health-papers/mast-cell-activation-syndrome/
+- term: focal seizure
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
 - term: folic acid
   papers:
   - title: 'Before Birth Matters: A Practical Guide to Prenatal and Preconception
@@ -2618,6 +2662,10 @@
   papers:
   - title: 'Looking Closer at Live Blood Analysis: What the Evidence Actually Shows'
     url: /health-papers/live-blood-analysis/
+- term: hemifacial spasm
+  papers:
+  - title: 'The Jumping Eyelid: Understanding Eye Twitches and How to Calm Them'
+    url: /health-papers/eye-twitches/
 - term: hemoglobin S
   papers:
   - title: Sickle Cell Disease
@@ -2760,6 +2808,10 @@
   - title: 'Lymphoma: What It Is, What the Research Shows, and How to Support Your
       Body Through It'
     url: /health-papers/lymphoma/
+- term: hordeolum
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
 - term: hormonal acne
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
@@ -3104,6 +3156,10 @@
   - title: 'The Living Food Revolution: Your Practical Guide to Fermented Foods and
       Kombucha'
     url: /health-papers/fermented-foods-guide/
+- term: keratitis
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
 - term: keratoconjunctivitis sicca
   papers:
   - title: 'More Than Dry Eyes: Sjögren''s Syndrome'
@@ -3933,6 +3989,10 @@
   papers:
   - title: 'Living Well with Multiple Sclerosis: A Whole-Person Guide'
     url: /health-papers/living-well-with-multiple-sclerosis/
+- term: myokymia
+  papers:
+  - title: 'The Jumping Eyelid: Understanding Eye Twitches and How to Calm Them'
+    url: /health-papers/eye-twitches/
 - term: myopia
   papers:
   - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
@@ -4472,6 +4532,10 @@
   papers:
   - title: 'Acne: More Than Skin Deep — A Guide to the Evidence'
     url: /health-papers/acne-more-than-skin-deep/
+- term: pink eye
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
 - term: pinworm
   papers:
   - title: 'Uninvited Guests: A Practical Guide to Parasites and Gut Health'
@@ -4572,6 +4636,10 @@
   papers:
   - title: 'Schizophrenia: What Families, Coaches, and Communities Need to Know'
     url: /health-papers/schizophrenia/
+- term: posterior vitreous detachment
+  papers:
+  - title: 'Eye Floaters: What Those Drifting Spots Mean and What Might Help'
+    url: /health-papers/eye-floaters/
 - term: postherpetic neuralgia
   papers:
   - title: 'Shingles: Understanding, Managing, and Recovering from Herpes Zoster'
@@ -4710,6 +4778,10 @@
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
+- term: PVD
+  papers:
+  - title: 'Eye Floaters: What Those Drifting Spots Mean and What Might Help'
+    url: /health-papers/eye-floaters/
 - term: pyroluria
   papers:
   - title: 'Pyroluria and Pyrrole Disorder: Navigating a Contested Diagnosis and Its
@@ -4837,6 +4909,10 @@
   - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
       Helps'
     url: /health-papers/myopia-the-eyes-have-it/
+- term: retinal detachment (differential)
+  papers:
+  - title: 'Eye Floaters: What Those Drifting Spots Mean and What Might Help'
+    url: /health-papers/eye-floaters/
 - term: rheumatoid arthritis
   papers:
   - title: 'Working With Your Joints: A Practical Guide to Managing Arthritis Through
@@ -4971,6 +5047,10 @@
     url: /health-papers/butter-and-human-health/
   - title: 'The Great Oil Debate: What Science Really Shows'
     url: /health-papers/the-great-oil-debate/
+- term: seizure disorder
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
 - term: semaglutide
   papers:
   - title: 'Understanding Weight Loss: What the Science Says and What Actually Works'
@@ -5359,6 +5439,10 @@
   papers:
   - title: 'Your Heart, Your Future: A Practical Guide to Cardiovascular Health'
     url: /health-papers/your-heart-your-future-cardiovascular-health/
+- term: stye
+  papers:
+  - title: 'Red, Sticky, and Sore: A Practical Guide to Eye Infections'
+    url: /health-papers/eye-infections/
 - term: subcutaneous lump
   papers:
   - title: What Are These Lumps, Anyway? A Plain-Language Guide to Lipomas
@@ -5603,6 +5687,10 @@
   - title: 'Soy Products: What the Research Actually Says About Benefits and Phytoestrogen
       Concerns'
     url: /health-papers/soy-phytoestrogens-research/
+- term: tonic-clonic seizure
+  papers:
+  - title: 'Living Well with Epilepsy: Seizures, Safety, and Whole-Person Care'
+    url: /health-papers/epilepsy/
 - term: tooth decay prevention
   papers:
   - title: 'Water Fluoridation: A Balanced Health Guide'
