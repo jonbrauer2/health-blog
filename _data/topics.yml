@@ -300,6 +300,10 @@
   - title: 'When Hair Falls: Understanding, Addressing, and Reclaiming Women’s Hair
       Health'
     url: /health-papers/when-hair-falls/
+- term: alpha-1 antitrypsin deficiency
+  papers:
+  - title: 'Living Well with Emphysema: Practical Ways to Breathe Easier'
+    url: /health-papers/emphysema/
 - term: alternative diagnostics
   papers:
   - title: 'Applied Kinesiology: A Balanced Look at Muscle Testing'
@@ -653,6 +657,14 @@
   papers:
   - title: 'When Muscles Weaken: A Plain-Language Guide to Muscular Dystrophy'
     url: /health-papers/muscular-dystrophy/
+- term: bedwetting
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
+- term: bedwetting alarm
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
 - term: benign prostatic hyperplasia
   papers:
   - title: 'Prostate Health: What Every Man Should Know'
@@ -1075,6 +1087,14 @@
   - title: 'Reclaiming Your Sleep: A Complete Guide to Understanding and Overcoming
       Insomnia'
     url: /health-papers/reclaiming-your-sleep-insomnia/
+- term: celiac disease
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: central nervous system disease
   papers:
   - title: 'Living Well with Multiple Sclerosis: A Whole-Person Guide'
@@ -1207,6 +1227,10 @@
   papers:
   - title: 'Migraines: Triggers, Root Causes, and Treatment — A Plain-Language Guide'
     url: /health-papers/migraines-triggers-root-causes/
+- term: chronic obstructive pulmonary disease
+  papers:
+  - title: 'Living Well with Emphysema: Practical Ways to Breathe Easier'
+    url: /health-papers/emphysema/
 - term: chronic rhinosinusitis
   papers:
   - title: 'When Your Head Won''t Clear: Understanding Sinus Congestion and Infection'
@@ -1418,6 +1442,8 @@
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
+  - title: 'Living Well with Emphysema: Practical Ways to Breathe Easier'
+    url: /health-papers/emphysema/
 - term: COPD chronic obstructive pulmonary disease
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
@@ -1625,6 +1651,11 @@
     url: /health-papers/allergies/
   - title: 'Your Skin, Inside and Out: A Whole-Person Guide to Healthier Skin'
     url: /health-papers/your-skin-inside-and-out/
+- term: dermatitis herpetiformis
+  papers:
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: dermatophyte
   papers:
   - title: 'The Itch That Isn''t Worms: Understanding and Overcoming Ringworm (Tinea
@@ -1638,6 +1669,10 @@
   papers:
   - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
     url: /health-papers/low-libido/
+- term: desmopressin
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
 - term: detox
   papers:
   - title: 'Detoxification and Cleansing Programs: A Practical, Evidence-Based Guide'
@@ -1918,6 +1953,10 @@
   - title: Weight Loss — Understanding the Science, the Struggles, and What Actually
       Works
     url: /health-papers/weight-loss/
+- term: emphysema
+  papers:
+  - title: 'Living Well with Emphysema: Practical Ways to Breathe Easier'
+    url: /health-papers/emphysema/
 - term: endometrioma
   papers:
   - title: 'Ovarian Cysts: Evidence-Based Lifestyle and Integrative Approaches'
@@ -1949,6 +1988,14 @@
   papers:
   - title: 'Living with Multiple Chemical Sensitivity: A Compassionate, Honest Guide'
     url: /health-papers/multiple-chemical-sensitivity/
+- term: epididymitis
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
+- term: epididymo-orchitis
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
 - term: EPS matrix
   papers:
   - title: Biofilms and Biofilm Disruptors
@@ -2301,6 +2348,27 @@
   - title: 'Understanding MSG: What It Does in Your Body, Who Responds to It, and
       What the Science Actually Shows'
     url: /health-papers/understanding-msg/
+- term: gluten ataxia
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+- term: gluten intolerance
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
+- term: gluten-free diet
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: glycation
   papers:
   - title: 'Sweet and Complicated: What Sugar Really Does to Your Body, Brain, and
@@ -3941,6 +4009,14 @@
   papers:
   - title: 'Aloe Vera: From Traditional Use to Modern Evidence'
     url: /health-papers/aloe-vera-traditional-to-modern-evidence/
+- term: NCGS
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: nearsightedness
   papers:
   - title: 'The Eyes Have It: Understanding Myopia, What''s Driving It, and What Actually
@@ -4021,6 +4097,10 @@
   - title: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
       It'
     url: /health-papers/frequent-urination/
+- term: nocturnal enuresis
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
 - term: Nocturnal Urination
   papers:
   - title: 'Frequent Urination: A Caring, Practical Guide to Understanding and Managing
@@ -4036,6 +4116,14 @@
     url: /health-papers/hearing-loss/
   - title: 'The Sound of Health: Understanding Noise Pollution''s Impact on Your Wellbeing'
     url: /health-papers/sound-of-health-noise-pollution/
+- term: non-celiac gluten sensitivity
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: non-Hodgkin lymphoma
   papers:
   - title: 'Lymphoma: What It Is, What the Research Shows, and How to Support Your
@@ -4142,6 +4230,10 @@
   - title: 'Allergies: Understanding, Managing, and Living Well with an Overactive
       Immune System'
     url: /health-papers/allergies/
+- term: orchitis
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
 - term: oregano oil
   papers:
   - title: 'Antibiotics vs Natural Approaches: Navigating Infection Prevention and
@@ -4533,6 +4625,10 @@
   papers:
   - title: 'Hearing Loss: What You Need to Know — and What You Can Do About It'
     url: /health-papers/hearing-loss/
+- term: primary enuresis
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
 - term: probiotics
   papers:
   - title: 'Antibiotics vs Natural Approaches: Navigating Infection Prevention and
@@ -4606,6 +4702,10 @@
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
     url: /health-papers/breathing-better-lung-health/
+- term: pulmonary rehabilitation
+  papers:
+  - title: 'Living Well with Emphysema: Practical Ways to Breathe Easier'
+    url: /health-papers/emphysema/
 - term: pursed-lip breathing
   papers:
   - title: 'Breathing Better: A Practical Guide to Lung Health, Prevention, and Recovery'
@@ -4857,6 +4957,14 @@
     url: /health-papers/sciatica/
   - title: Your Spine, Your Discs, and the Surprising Story of How They Heal
     url: /health-papers/slipped-disc-herniation/
+- term: scrotal pain
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
+- term: secondary enuresis
+  papers:
+  - title: 'Dry Nights Ahead: Understanding Bedwetting and What Really Helps'
+    url: /health-papers/bedwetting/
 - term: seed oils
   papers:
   - title: 'Butter and Human Health: Separating the Evidence from the Hype'
@@ -5370,6 +5478,14 @@
   - title: 'Before Birth Matters: A Practical Guide to Prenatal and Preconception
       Health'
     url: /health-papers/before-birth-matters-prenatal-health/
+- term: testicular pain
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
+- term: testicular torsion (differential)
+  papers:
+  - title: 'Epididymitis: Understanding Testicular Pain, Treatment, and Recovery'
+    url: /health-papers/epididymitis/
 - term: testosterone deficiency
   papers:
   - title: 'Low Libido: Understanding and Restoring Sexual Desire Naturally'
@@ -5702,6 +5818,11 @@
     url: /health-papers/breathing-better-air-quality/
   - title: 'The Air You Breathe: A Practical Guide to Air Quality and Your Health'
     url: /health-papers/the-air-you-breathe-air-quality/
+- term: villous atrophy
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
 - term: visceral fat
   papers:
   - title: 'Metabolic Syndrome: What It Is, Why It Matters, and What You Can Actually
@@ -5832,6 +5953,14 @@
   - title: 'Understanding Hives: A Practical Guide to Relief, Research, and Living
       Well'
     url: /health-papers/understanding-hives/
+- term: wheat allergy
+  papers:
+  - title: 'The Gluten Spectrum: Celiac Disease, Sensitivity, and What the Research
+      Actually Shows'
+    url: /health-papers/gluten-spectrum/
+  - title: 'When Wheat Doesn''t Agree With You: Celiac Disease, Gluten Sensitivity,
+      and Wheat Allergy'
+    url: /health-papers/when-wheat-doesnt-agree/
 - term: wheeze
   papers:
   - title: 'Breathing Room: A Whole-Person Guide to Understanding and Living Well
